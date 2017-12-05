@@ -558,9 +558,9 @@
 17	kust	kust	ADV	D	_	22	mark	_	_
 18	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	20	obj	_	_
 19	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
-20	raske	raske	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	14	acl:relcl	_	_
+20	raske	raske	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	22	advmod	_	_
 21	üles	üles	ADV	D	_	22	compound:prt	_	_
-22	leida	leidma	VERB	V	VerbForm=Inf	20	advcl	_	SpaceAfter=No
+22	leida	leidma	VERB	V	VerbForm=Inf	14	advcl	_	SpaceAfter=No
 23	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_33
