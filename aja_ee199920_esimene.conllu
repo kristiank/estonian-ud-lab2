@@ -113,8 +113,8 @@
 
 # sent_id = aja_ee199920_8
 # text = Eesti Pank tunnistab: meie käed on liiga lühikesed!
-1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	ManualCheck=Appos
-2	Pank	Pank	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	3	nsubj	_	_
+2	Pank	Pank	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	tunnistab	tunnistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	Z	_	9	punct	_	_
 5	meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nmod	_	_
