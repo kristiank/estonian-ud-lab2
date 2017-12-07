@@ -192,8 +192,8 @@
 # sent_id = aja_ee199920_12
 # text = Kas Eesti Pank pöördus politsei poole?
 1	Kas	kas	ADV	D	_	4	advmod	_	_
-2	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
-3	Pank	Pank	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+2	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nsubj	_	_
+3	Pank	Pank	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
 4	pöördus	pöörduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	politsei	politsei	NOUN	S	Case=Gen|Number=Sing	4	obl	_	_
 6	poole	poole	ADP	K	AdpType=Post	5	case	_	SpaceAfter=No
