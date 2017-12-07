@@ -15,8 +15,8 @@
 2	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	3	obl	_	_
 3	teada	teadma	VERB	V	VerbForm=Inf	7	advcl	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
-5	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Pank	Pank	PROPN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+5	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	7	nsubj	_	ManualCheck=Appos
+6	Pank	Pank	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 7	uurinud	uurima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 8	Hansapanga	Hansa_pank	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 9	tehinguid	tehing	NOUN	S	Case=Par|Number=Plur	7	obj	_	SpaceAfter=No
