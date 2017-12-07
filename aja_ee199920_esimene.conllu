@@ -11,8 +11,8 @@
 
 # sent_id = aja_ee199920_2
 # text = Eesti Ekspressi teada on Eesti Pank uurinud Hansapanga tehinguid, mis toimusid kaks aastat tagasi suvel ja mille käigus voolas panka ligi miljardi krooni ulatuses kahtlast raha.
-1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	ManualCheck=Appos
-2	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	3	obl	_	_
+1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	3	obl	_	ManualCheck=Appos
+2	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	teada	teadma	VERB	V	VerbForm=Inf	7	advcl	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
 5	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	7	nsubj	_	ManualCheck=Appos
