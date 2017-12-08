@@ -860,8 +860,8 @@
 # text = Kohe pärast Eesti Ekspressi kõnet võttis aga Baltreil Hansapangaga ühendust ja küsis, et mis toimub, et Eesti Ekspress tunneb asja vastu huvi.
 1	Kohe	kohe	ADV	D	_	6	advmod	_	_
 2	pärast	pärast	ADP	K	AdpType=Prep	5	case	_	_
-3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-4	Ekspressi	Ekspress	PROPN	S	Case=Add|Number=Sing	5	nmod	_	_
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	ManualCheck=Appos
+4	Ekspressi	Ekspress	PROPN	S	Case=Add|Number=Sing	3	flat	_	_
 5	kõnet	kõne	NOUN	S	Case=Par|Number=Sing	6	obl	_	_
 6	võttis	võtma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	aga	aga	CCONJ	J	_	6	cc	_	ToDo=cc-in-coord
@@ -876,8 +876,8 @@
 16	toimub	toimuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	SpaceAfter=No
 17	,	,	PUNCT	Z	_	21	punct	_	_
 18	et	et	SCONJ	J	_	21	mark	_	_
-19	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	20	nmod	_	ManualCheck=Appos
-20	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	21	nsubj	_	_
+19	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	21	nmod	_	ManualCheck=Appos
+20	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 21	tunneb	tundma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
 22	asja	asi	NOUN	S	Case=Gen|Number=Sing	21	obl	_	_
 23	vastu	vastu	ADP	K	AdpType=Post	22	case	_	_
