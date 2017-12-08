@@ -1439,9 +1439,9 @@
 13	külgedel	külg	NOUN	S	Case=Ade|Number=Plur	15	nmod	_	_
 14	samuti	samuti	ADV	D	_	15	advmod	_	_
 15	kiri	kiri	NOUN	S	Case=Nom|Number=Sing	10	nsubj	_	_
-16	"	"	PUNCT	Z	_	18	punct	_	SpaceAfter=No
+16	"	"	PUNCT	Z	_	17	punct	_	SpaceAfter=No
 17	Viru	Viru	PROPN	S	Case=Nom|Number=Sing	15	appos	_	ManualCheck=Noun
-18	Valge	Valge	PROPN	S	Case=Nom|Number=Sing	17	appos	_	SpaceAfter=No
+18	Valge	Valge	PROPN	S	Case=Nom|Number=Sing	17	flat	_	SpaceAfter=No
 19	"	"	PUNCT	Z	_	18	punct	_	SpaceAfter=No
 20	.	.	PUNCT	Z	_	2	punct	_	_
 
