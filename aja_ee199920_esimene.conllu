@@ -794,9 +794,9 @@
 2	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
 4	Panga	Pank	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
-5	presidendi	president	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
-6	Vahur	Vahur	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
-7	Krafti	Kraft	PROPN	S	Case=Gen|Number=Sing	11	obl	_	_
+5	presidendi	president	NOUN	S	Case=Gen|Number=Sing	11	obl	_	ManualCheck=Appos
+6	Vahur	Vahur	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
+7	Krafti	Kraft	PROPN	S	Case=Gen|Number=Sing	6	flat	_	_
 8	rahapesu	raha_pesu	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
 9	tõkestamise	tõkestamine	NOUN	S	Case=Gen|Number=Sing	11	obl	_	_
 10	kohta	kohta	ADP	K	AdpType=Post	9	case	_	_
