@@ -712,7 +712,7 @@
 11	Construction	Construction	PROPN	S	Case=Nom|Number=Sing	10	flat	_	ManualCheck=Appos
 12	and	and	PROPN	S	Case=Nom|Number=Sing	10	flat	_	ManualCheck=Conj
 13	Engineering	Engineering	PROPN	S	Case=Nom|Number=Sing	10	flat	_	SpaceAfter=No
-14	,	,	PUNCT	Z	_	6	punct	_	_
+14	,	,	PUNCT	Z	_	18	punct	_	_
 15	samuti	samuti	ADV	D	_	18	advmod	_	_
 16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	nmod	_	_
 17	firma	firma	NOUN	S	Case=Gen|Number=Sing	18	nmod	_	ManualCheck=Appos
