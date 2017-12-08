@@ -1048,8 +1048,8 @@
 5	loo	lugu	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
 6	trükkiminekut	trükki_minek	NOUN	S	Case=Par|Number=Sing	10	obl	_	_
 7	sai	saama	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
-8	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	ManualCheck=Appos
-9	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	10	nsubj	_	_
+8	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	10	nsubj	_	ManualCheck=Appos
+9	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
 10	teada	teadma	VERB	V	VerbForm=Inf	0	root	_	_
 11	"	"	PUNCT	Z	_	13	punct	_	SpaceAfter=No
 12	Zürichi	Zürich	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
