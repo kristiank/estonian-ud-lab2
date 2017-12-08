@@ -973,8 +973,8 @@
 # text = Samas on Eesti Ekspress näinud Maapanga ülekandeid, kus on kirjas without name, without address ehk "ilma nime ja aadressita".
 1	Samas	samas	ADV	D	_	5	advmod	_	_
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-4	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	5	nsubj	_	_
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	5	nsubj	_	ManualCheck=Appos
+4	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
 5	näinud	nägema	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	Maapanga	Maa_pank	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
 7	ülekandeid	üle_kanne	NOUN	S	Case=Par|Number=Plur	5	obj	_	SpaceAfter=No
