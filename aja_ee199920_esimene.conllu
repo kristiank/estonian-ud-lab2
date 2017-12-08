@@ -707,11 +707,11 @@
 6	Ruby	Ruby	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
 7	Investment	Investment	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
 8	Corp	Corp	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
-9	ning	ning	CCONJ	J	_	6	cc	_	ToDo=cc-without-conj
-10	East	East	PROPN	S	Case=Nom|Number=Sing	11	flat	_	_
-11	Construction	Construction	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	ManualCheck=Appos
-12	and	and	PROPN	S	Case=Nom|Number=Sing	5	conj	_	ManualCheck=Conj
-13	Engineering	Engineering	PROPN	S	Case=Nom|Number=Sing	12	appos	_	SpaceAfter=No
+9	ning	ning	CCONJ	J	_	10	cc	_	ToDo=cc-without-conj
+10	East	East	PROPN	S	Case=Nom|Number=Sing	6	conj	_	_
+11	Construction	Construction	PROPN	S	Case=Nom|Number=Sing	10	flat	_	ManualCheck=Appos
+12	and	and	PROPN	S	Case=Nom|Number=Sing	10	flat	_	ManualCheck=Conj
+13	Engineering	Engineering	PROPN	S	Case=Nom|Number=Sing	10	flat	_	SpaceAfter=No
 14	,	,	PUNCT	Z	_	6	punct	_	_
 15	samuti	samuti	ADV	D	_	18	advmod	_	_
 16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	nmod	_	_
