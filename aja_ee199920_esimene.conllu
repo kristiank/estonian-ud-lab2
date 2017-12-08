@@ -1065,8 +1065,8 @@
 2	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
 4	info	info	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
-5	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Pangal	Pank	PROPN	S	Case=Ade|Number=Sing	2	obl	_	SpaceAfter=No
+5	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	2	obl	_	ManualCheck=Appos
+6	Pangal	Pank	PROPN	S	Case=Ade|Number=Sing	5	flat	_	SpaceAfter=No
 7	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_61
