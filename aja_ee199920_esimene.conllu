@@ -586,10 +586,10 @@
 19	endise	endine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	20	amod	_	_
 20	presidendi	president	NOUN	S	Case=Gen|Number=Sing	21	nmod	_	_
 21	vend	vend	NOUN	S	Case=Nom|Number=Sing	16	nsubj	_	_
-22	Raul	Raul	PROPN	S	Case=Nom|Number=Sing	23	flat	_	_
-23	Salinas	Salinas	PROPN	S	Case=Nom|Number=Sing	24	nmod	_	ManualCheck=Appos
-24	de	de	PROPN	Y	Abbr=Yes	25	case	_	_
-25	Gortrari	Gortrari	PROPN	S	Case=Nom|Number=Sing	21	appos	_	SpaceAfter=No
+22	Raul	Raul	PROPN	S	Case=Nom|Number=Sing	21	appos	_	_
+23	Salinas	Salinas	PROPN	S	Case=Nom|Number=Sing	22	flat	_	ManualCheck=Appos
+24	de	de	PROPN	Y	Abbr=Yes	23	flat	_	_
+25	Gortrari	Gortrari	PROPN	S	Case=Nom|Number=Sing	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	Z	_	4	punct	_	_
 
 # sent_id = aja_ee199920_34
