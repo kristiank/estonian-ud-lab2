@@ -349,7 +349,7 @@
 3	Šveitsi	Šveits	PROPN	S	Case=Gen|Number=Sing	4	amod	_	_
 4	suurima	suurim	ADJ	A	Case=Gen|Degree=Sup|Number=Sing	5	amod	_	_
 5	panga	pank	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	ToDo=nmod
-6	UBSi	UBS	PROPN	Y	Abbr=Yes|Case=Gen|Number=Sing	7	nmod	_	ToDo=nmod
+6	UBSi	UBS	PROPN	Y	Abbr=Yes|Case=Gen|Number=Sing	5	appos	_	ToDo=nmod
 7	haru	haru	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	Z	_	10	punct	_	_
 9	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	10	obj	_	_
