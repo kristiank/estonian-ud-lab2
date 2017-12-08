@@ -1014,9 +1014,9 @@
 2	pangaga	pank	NOUN	S	Case=Com|Number=Sing	4	obl	_	_
 3	tihedalt	tihedalt	ADV	D	_	4	advmod	_	_
 4	seotud	seotud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
-5	firma	firma	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Kolle	Kolle	PROPN	S	Case=Nom|Number=Sing	8	nsubj	_	_
-7	BG	BG	PROPN	Y	Abbr=Yes	6	appos	_	_
+5	firma	firma	NOUN	S	Case=Gen|Number=Sing	8	nsubj	_	ManualCheck=Appos
+6	Kolle	Kolle	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
+7	BG	BG	PROPN	Y	Abbr=Yes	6	flat	_	_
 8	kasutab	kasutama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	ühe	üks	PRON	P	Case=Gen|Number=Sing|PronType=Ind	10	det	_	_
 10	allika	allikas	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
