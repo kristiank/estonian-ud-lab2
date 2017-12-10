@@ -1454,7 +1454,7 @@
 5	kadumise	kadumine	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
 6	põhjused	põhjus	NOUN	S	Case=Nom|Number=Plur	1	nsubj:cop	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	12	punct	_	_
-8	Tartu	Tartu	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	_
+8	Tartu	Tartu	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 9	politsei	politsei	NOUN	S	Case=Nom|Number=Sing	12	nsubj	_	_
 10	kommenteerida	kommenteerima	VERB	V	VerbForm=Inf	11	xcomp	_	_
 11	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	12	aux	_	ManualCheck=yes
