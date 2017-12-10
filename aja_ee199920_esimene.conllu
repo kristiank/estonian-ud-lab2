@@ -4705,8 +4705,8 @@ _
 
 # sent_id = aja_ee199920_289
 # text = ANDRES JõESAAR TV3 peadirektor
-1	ANDRES	Andres	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	JõESAAR	Jõe_saar	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	ManualCheck=Appos
+1	ANDRES	Andres	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
+2	JõESAAR	Jõe_saar	PROPN	S	Case=Nom|Number=Sing	1	flat	_	ManualCheck=Appos
 3	TV3	TV3	PROPN	Y	Abbr=Yes	4	nmod	_	_
 4	peadirektor	pea_direktor	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 
