@@ -4089,9 +4089,9 @@ _
 6	et	et	SCONJ	J	_	12	mark	_	_
 7	hiljuti	hiljuti	ADV	D	_	12	advmod	_	_
 8	olevat	olema	AUX	V	Mood=Qot|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
-9	keegi	keegi	PRON	P	Case=Nom|Number=Sing|PronType=Ind	11	nmod	_	ManualCheck=Appos
-10	Martin	Martin	PROPN	S	Case=Nom|Number=Sing	11	nmod	_	ManualCheck=Appos
-11	Pomm	Pomm	PROPN	S	Case=Nom|Number=Sing	12	nsubj	_	_
+9	keegi	keegi	PRON	P	Case=Nom|Number=Sing|PronType=Ind	10	nmod	_	ManualCheck=Appos
+10	Martin	Martin	PROPN	S	Case=Nom|Number=Sing	12	nsubj	_	ManualCheck=Appos
+11	Pomm	Pomm	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
 12	kirjutanud	kirjutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	_
 13	EEs	EE	PROPN	Y	Abbr=Yes|Case=Ine|Number=Sing	12	obl	_	_
 14	halvustavalt	halvustavalt	ADV	D	_	12	advmod	_	_
