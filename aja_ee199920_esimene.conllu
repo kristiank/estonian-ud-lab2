@@ -3138,8 +3138,8 @@ _
 1	Minul	mina	PRON	P	Case=Ade|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
 2	õnnestus	õnnestuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	luua	looma	VERB	V	VerbForm=Inf	2	csubj	_	_
-4	Tallinna	Tallinn	PROPN	S	Case=Add|Number=Sing	5	nmod	_	ManualCheck=Appos
-5	Veele	Vesi	PROPN	S	Case=All|Number=Sing	3	obl	_	_
+4	Tallinna	Tallinn	PROPN	S	Case=Add|Number=Sing	3	obl	_	ManualCheck=Appos
+5	Veele	Vesi	PROPN	S	Case=All|Number=Sing	4	flat	_	_
 6	usaldusväärne	usaldus_väärne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
 7	rahvusvaheline	rahvus_vaheline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	amod	_	_
 8	maine	maine	NOUN	S	Case=Nom|Number=Sing	3	obj	_	SpaceAfter=No
