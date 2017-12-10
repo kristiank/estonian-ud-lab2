@@ -4675,8 +4675,8 @@ _
 # text = Ma vaatan Eesti Televisiooni.
 1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	vaatan	vaatama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-4	Televisiooni	Televisioon	PROPN	S	Case=Gen|Number=Sing	2	obj	_	SpaceAfter=No
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	2	obj	_	ManualCheck=Appos
+4	Televisiooni	Televisioon	PROPN	S	Case=Gen|Number=Sing	3	flat	_	SpaceAfter=No
 5	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_286
