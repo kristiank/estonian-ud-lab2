@@ -4312,8 +4312,8 @@ _
 2	faktide	fakt	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
 3	õiendamiseks	õiendamine	NOUN	S	Case=Tra|Number=Sing	4	obl	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ManualCheck=yes
-5	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Kulla	Kulla	PROPN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+5	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	7	nsubj	_	ManualCheck=Appos
+6	Kulla	Kulla	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 7	saanud	saama	AUX	V	Tense=Past|VerbForm=Part|Voice=Act	8	aux	_	ManualCheck=yes
 8	kasutada	kasutama	VERB	V	VerbForm=Inf	0	root	_	_
 9	võimalust	võimalus	NOUN	S	Case=Par|Number=Sing	8	obj	_	_
