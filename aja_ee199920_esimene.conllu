@@ -3036,8 +3036,8 @@ _
 5	sama	sama	ADJ	P	Case=Gen|Number=Sing|PronType=Dem	6	amod	_	_
 6	kiirelt	kiirelt	ADV	D	_	2	advmod	_	_
 7	maha	maha	ADV	D	_	2	compound:prt	_	_
-8	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	ManualCheck=Appos
-9	Elamuehituskombinaadi	Elamu_ehitus_kombinaat	PROPN	S	Case=Gen|Number=Sing	10	nmod	_	_
+8	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	10	nmod	_	ManualCheck=Appos
+9	Elamuehituskombinaadi	Elamu_ehitus_kombinaat	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 10	eesotsast	ees_ots	NOUN	S	Case=Ela|Number=Sing	2	obl	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	2	punct	_	_
 
