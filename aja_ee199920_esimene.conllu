@@ -1578,9 +1578,9 @@ _
 # sent_id = aja_ee199920_92
 # text = Singapuri ja Lõuna-Aafrika Vabariigi ajalehed avaldasid uudise Viljandi pensionärist, kes pidas vahakuju elavaks inimeseks.
 1	Singapuri	Singapur	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
-2	ja	ja	CCONJ	J	_	4	cc	_	_
-3	Lõuna-Aafrika	Lõuna-Aafrika	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-4	Vabariigi	Vaba_riik	PROPN	S	Case=Gen|Number=Sing	1	conj	_	_
+2	ja	ja	CCONJ	J	_	3	cc	_	_
+3	Lõuna-Aafrika	Lõuna-Aafrika	PROPN	S	Case=Gen|Number=Sing	1	conj	_	ManualCheck=Appos
+4	Vabariigi	Vaba_riik	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	ajalehed	aja_leht	NOUN	S	Case=Nom|Number=Plur	6	nsubj	_	_
 6	avaldasid	avaldama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	uudise	uudis	NOUN	S	Case=Gen|Number=Sing	6	obj	_	_
@@ -1605,8 +1605,8 @@ _
 7	Alvi	Alvi	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
 8	Märtens	Märtens	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
 9	ootas	ootama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
-10	Viljandi	Viljandi	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	ManualCheck=Appos
-11	Ühispanga	Ühis_pank	PROPN	S	Case=Gen|Number=Sing	12	nmod	_	_
+10	Viljandi	Viljandi	PROPN	S	Case=Gen|Number=Sing	12	nmod	_	ManualCheck=Appos
+11	Ühispanga	Ühis_pank	PROPN	S	Case=Gen|Number=Sing	10	flat	_	_
 12	kontoris	kontor	NOUN	S	Case=Ine|Number=Sing	9	obl	_	_
 13	leti	lett	NOUN	S	Case=Gen|Number=Sing	15	nmod	_	_
 14	ette	ette	ADP	K	AdpType=Post	13	case	_	_
