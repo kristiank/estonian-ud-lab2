@@ -2515,8 +2515,8 @@ _
 # sent_id = aja_ee199920_150
 # text = Teeneka Tallinna Vee juhatuse esimehe Enno Perega (60) juhtus nimelt nii.
 1	Teeneka	teenekas	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
-2	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
-3	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
+2	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
+3	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	2	flat	_	_
 4	juhatuse	juhatus	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	esimehe	esi_mees	NOUN	S	Case=Gen|Number=Sing	11	obl	_	_
 6	Enno	Enno	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
