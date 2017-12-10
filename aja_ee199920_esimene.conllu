@@ -2436,7 +2436,7 @@ _
 4	Maardu	Maardu	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 5	Keemiakombinaadi	Keemia_kombinaat	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 6	ja	ja	CCONJ	J	_	8	cc	_	_
-7	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	8	nmod	_	ManualCheck=Appos
+7	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	8	flat	_	ManualCheck=Appos
 8	Veepuhastusjaama	Vee_puhastus_jaam	PROPN	S	Case=Gen|Number=Sing	5	conj	_	_
 9	ehitusel	ehitus	NOUN	S	Case=Ade|Number=Sing	1	obl	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	12	punct	_	_
@@ -2445,7 +2445,7 @@ _
 13	,	,	PUNCT	Z	_	14	punct	_	_
 14	Ehituskomitees	Ehitus_komitee	PROPN	S	Case=Ine|Number=Sing	9	conj	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	17	punct	_	_
-16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	nmod	_	ManualCheck=Appos
+16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	flat	_	ManualCheck=Appos
 17	Sadamas	Sadam	PROPN	S	Case=Ine|Number=Sing	9	conj	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	1	punct	_	_
 
