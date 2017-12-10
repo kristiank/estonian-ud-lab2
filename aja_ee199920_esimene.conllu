@@ -3827,8 +3827,8 @@ _
 # sent_id = aja_ee199920_236
 # text = Pidasin Eesti Ekspressi soliidseks ja heaks leheks.
 1	Pidasin	pidama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
-3	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	1	obj	_	_
+2	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	1	obj	_	ManualCheck=Appos
+3	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	2	flat	_	_
 4	soliidseks	soliidne	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	7	amod	_	_
 5	ja	ja	CCONJ	J	_	6	cc	_	_
 6	heaks	hea	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	4	conj	_	_
