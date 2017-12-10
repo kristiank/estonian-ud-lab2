@@ -4726,10 +4726,10 @@ _
 
 # sent_id = aja_ee199920_292
 # text = KRIS TASKA Kanal 2
-1	KRIS	Kris	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	TASKA	Taska	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
+1	KRIS	Kris	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
+2	TASKA	Taska	PROPN	S	Case=Gen|Number=Sing	1	flat	_	ManualCheck=Appos
 3	Kanal	Kanal	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-4	2	2	NUM	N	NumForm=Digit|NumType=Card	3	appos	_	_
+4	2	2	NUM	N	NumForm=Digit|NumType=Card	3	flat	_	_
 
 # sent_id = aja_ee199920_293
 # text = Kas see on nagu mingi eelarvamus?
