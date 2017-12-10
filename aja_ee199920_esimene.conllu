@@ -2329,8 +2329,8 @@ _
 # text = Ajendiks oli Eesti Ekspressis ilmunud artikkel, mis kirjeldas poliitiku muret toidu värskuse säilitamisel.
 1	Ajendiks	ajend	NOUN	S	Case=Tra|Number=Sing	2	xcomp	_	_
 2	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-4	Ekspressis	Ekspress	PROPN	S	Case=Ine|Number=Sing	5	obl	_	_
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	5	obl	_	ManualCheck=Appos
+4	Ekspressis	Ekspress	PROPN	S	Case=Ine|Number=Sing	3	flat	_	_
 5	ilmunud	ilmu=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	acl	_	_
 6	artikkel	artikkel	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	9	punct	_	_
