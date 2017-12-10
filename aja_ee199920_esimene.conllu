@@ -2230,8 +2230,8 @@ _
 # text = Väitlust juhib Eesti Ekspressi peatoimetaja Aavo Kokk, keda abistab Marek Kallin.
 1	Väitlust	väitlus	NOUN	S	Case=Par|Number=Sing	2	obj	_	_
 2	juhib	juhtima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-4	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	ManualCheck=Appos
+4	Ekspressi	Ekspress	PROPN	S	Case=Gen|Number=Sing	3	flat	_	ManualCheck=Appos
 5	peatoimetaja	pea_toimetaja	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 6	Aavo	Aavo	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
 7	Kokk	Kokk	PROPN	S	Case=Nom|Number=Sing	6	flat	_	SpaceAfter=No
