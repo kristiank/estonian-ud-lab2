@@ -2652,8 +2652,8 @@ _
 3	kui	kui	SCONJ	J	_	4	mark	_	_
 4	kavatseti	kavatsema	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	1	advcl	_	_
 5	teha	tegema	VERB	V	VerbForm=Inf	4	xcomp	_	_
-6	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
-7	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	8	nmod	_	_
+6	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	8	nmod	_	ManualCheck=Appos
+7	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	6	flat	_	_
 8	aktsiate	aktsia	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
 9	emissioon	emissioon	NOUN	S	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	4	punct	_	_
@@ -2664,7 +2664,7 @@ _
 15	Cresco	Cresco	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	_
 16	teenuseid	teenus	NOUN	S	Case=Par|Number=Plur	13	obj	_	_
 17	või	või	CCONJ	J	_	19	cc	_	_
-18	Hansa	Hansa	PROPN	S	Case=Gen|Number=Sing	19	nmod	_	ManualCheck=Appos
+18	Hansa	Hansa	PROPN	S	Case=Gen|Number=Sing	19	flat	_	ManualCheck=Appos
 19	Investmenti	Invest_ment	PROPN	S	Case=Par|Number=Sing	16	conj	_	SpaceAfter=No
 20	,	,	PUNCT	Z	_	26	punct	_	_
 21	Savisaar	Savi_saar	PROPN	S	Case=Nom|Number=Sing	26	nsubj:cop	_	_
