@@ -2779,8 +2779,8 @@ _
 2	töötles	töötlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	isiklikult	isiklikult	ADV	D	_	2	advmod	_	_
 4	kõiki	kõik	PRON	P	Case=Par|Number=Plur|PronType=Tot	8	det	_	_
-5	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+5	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
+6	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	nõukogu	nõu_kogu	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
 8	liikmeid	liige	NOUN	S	Case=Par|Number=Plur	2	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	_	_
