@@ -2858,8 +2858,8 @@ _
 2	kui	kui	SCONJ	J	_	13	mark	_	_
 3	Peret	Pere	PROPN	S	Case=Par|Number=Sing	4	obj	_	_
 4	kaitsnud	kaits=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
-5	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+5	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
+6	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	nõukogu	nõu_kogu	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
 8	esimees	esi_mees	NOUN	S	Case=Nom|Number=Sing	13	nsubj	_	_
 9	ja	ja	CCONJ	J	_	10	cc	_	_
