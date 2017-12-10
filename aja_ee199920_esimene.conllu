@@ -2452,8 +2452,8 @@ _
 # sent_id = aja_ee199920_145
 # text = 1994--1999 Tallinna Vee juhatuse esimees.
 1	1994--1999	1994--1999	NUM	N	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
-2	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
-3	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
+2	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
+3	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	2	flat	_	_
 4	juhatuse	juhatus	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	esimees	esi_mees	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Z	_	5	punct	_	_
