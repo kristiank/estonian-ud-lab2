@@ -1898,7 +1898,7 @@ _
 5	nii	nii	ADV	D	_	6	advmod	_	_
 6	väidab	väitma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 7	14.	14.	ADJ	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord	8	amod	_	_
-8	mai	mai	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	ManualCheck=Appos
+8	mai	mai	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	ManualCheck=Appos
 9	ajaleht	aja_leht	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
 10	Molodjž	Molodjž	PROPN	S	Case=Nom|Number=Sing	9	appos	_	_
 11	Estoni	Estoni	PROPN	S	Case=Nom|Number=Sing	10	flat	_	SpaceAfter=No
