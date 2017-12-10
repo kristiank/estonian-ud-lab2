@@ -4430,8 +4430,8 @@ _
 
 # sent_id = aja_ee199920_270
 # text = Lii Undi selgitused riietuse läbi saadetavatest alateadvusele suunatud signaalidest on muidugi huvitavad, aga vaevalt on nendel nii ühene tõlgendus.
-1	Lii	Lii	PROPN	S	Case=Nom|Number=Sing	2	nmod	_	ManualCheck=Appos
-2	Undi	Unt	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	_
+1	Lii	Lii	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	ManualCheck=Appos
+2	Undi	Unt	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	selgitused	selgitus	NOUN	S	Case=Nom|Number=Plur	12	nsubj:cop	_	_
 4	riietuse	riietus	NOUN	S	Case=Gen|Number=Sing	6	obl	_	_
 5	läbi	läbi	ADP	K	AdpType=Post	4	case	_	_
