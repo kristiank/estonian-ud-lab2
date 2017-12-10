@@ -2950,8 +2950,8 @@ _
 
 # sent_id = aja_ee199920_174
 # text = Tallinna Vees oli kaks tulevikunägemust.
-1	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	ManualCheck=Appos
-2	Vees	Vesi	PROPN	S	Case=Ine|Number=Sing	3	obl	_	_
+1	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	3	obl	_	ManualCheck=Appos
+2	Vees	Vesi	PROPN	S	Case=Ine|Number=Sing	1	flat	_	_
 3	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	kaks	kaks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	5	nummod	_	_
 5	tulevikunägemust	tuleviku_nägemus	NOUN	S	Case=Par|Number=Sing	3	nsubj	_	SpaceAfter=No
