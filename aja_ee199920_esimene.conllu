@@ -4784,8 +4784,8 @@ _
 
 # sent_id = aja_ee199920_297
 # text = VALLO TOOMET TV1 peadirektor
-1	VALLO	Vallo	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	TOOMET	Toomet	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	ManualCheck=Appos
+1	VALLO	Vallo	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
+2	TOOMET	Toomet	PROPN	S	Case=Nom|Number=Sing	1	flat	_	ManualCheck=Appos
 3	TV1	TV1	PROPN	Y	Abbr=Yes	4	nmod	_	_
 4	peadirektor	pea_direktor	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 
