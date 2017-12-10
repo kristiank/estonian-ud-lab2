@@ -1463,8 +1463,8 @@
 
 # sent_id = aja_ee199920_85
 # text = Eesti Ekspress läheb Islandile uurima Evald Miksonist mahajäänud pabereid, mis on arvatavasti tema mälestused.
-1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	ManualCheck=Appos
-2	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	3	nsubj	_	ManualCheck=Appos
+2	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	läheb	minema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Islandile	Island	PROPN	S	Case=All|Number=Sing	3	obl	_	_
 5	uurima	uurima	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	3	xcomp	_	_
