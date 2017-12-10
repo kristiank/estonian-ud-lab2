@@ -1710,9 +1710,9 @@ _
 
 # sent_id = aja_ee199920_100
 # text = Kiikinguklubi Vabariigi Võllimees kavandab kokku seitsme osavõistlusega kiikingu karikasarja, kinnitas klubi president ja unikaalse ala leiutaja Ado Kosk.
-1	Kiikinguklubi	kiikingu_klubi	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
-2	Vabariigi	Vaba_riik	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	ManualCheck=Appos
-3	Võllimees	Võlli_mees	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+1	Kiikinguklubi	kiikingu_klubi	NOUN	S	Case=Gen|Number=Sing	4	nsubj	_	ManualCheck=Appos
+2	Vabariigi	Vaba_riik	PROPN	S	Case=Gen|Number=Sing	1	appos	_	ManualCheck=Appos
+3	Võllimees	Võlli_mees	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
 4	kavandab	kavandama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	kokku	kokku	ADV	D	_	4	advmod	_	_
 6	seitsme	seitse	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	7	nummod	_	_
