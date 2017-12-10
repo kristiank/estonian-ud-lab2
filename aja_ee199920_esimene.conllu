@@ -1662,9 +1662,9 @@ _
 1	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	ajalehtede	aja_leht	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
 3	liidu	liit	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
-4	tegevdirektori	tegev_direktor	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-5	Tarmu	Tarmu	PROPN	S	Case=Nom|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Tammerki	Tammerk	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+4	tegevdirektori	tegev_direktor	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
+5	Tarmu	Tarmu	PROPN	S	Case=Nom|Number=Sing	4	appos	_	ManualCheck=Appos
+6	Tammerki	Tammerk	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	8	obl	_	_
 8	noppis	noppima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	Sakala	Sakala	PROPN	S	Case=Gen|Number=Sing	10	nmod	_	_
