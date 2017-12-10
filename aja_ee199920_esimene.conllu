@@ -3006,8 +3006,8 @@ _
 2	neljapäeva	nelja_päev	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
 3	õhtul	õhtu	NOUN	S	Case=Ade|Number=Sing	4	obl	_	_
 4	võttis	võtma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	ManualCheck=Appos
-6	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+5	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
+6	Vee	Vesi	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	nõukogu	nõu_kogu	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 8	Pere	Pere	PROPN	S	Case=Gen|Number=Sing	4	obj	_	_
 9	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	10	nummod	_	_
