@@ -2571,8 +2571,8 @@ _
 8	Savisaar	Savi_saar	PROPN	S	Case=Nom|Number=Sing	14	nsubj:cop	_	_
 9	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
 10	veel	veel	ADV	D	_	14	advmod	_	_
-11	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	12	nmod	_	ManualCheck=Appos
-12	Mererajooni	Mere_rajoon	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
+11	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	ManualCheck=Appos
+12	Mererajooni	Mere_rajoon	PROPN	S	Case=Gen|Number=Sing	11	flat	_	_
 13	plaanikomisjoni	plaani_komisjon	NOUN	S	Case=Gen|Number=Sing	14	nmod	_	ToDo=nmod
 14	esimees	esi_mees	NOUN	S	Case=Nom|Number=Sing	16	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	14	punct	_	_
