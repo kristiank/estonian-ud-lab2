@@ -6876,7 +6876,7 @@ _
 9	,	,	PUNCT	Z	_	10	punct	_	_
 10	aktsepteerin	aktsepteerima	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 11	ainult	ainult	ADV	D	_	12	advmod	_	_
-12	Optiva	Optiva	PROPN	S	Case=Nom|Number=Sing	13	nmod	_	ManualCheck=Appos
+12	Optiva	Optiva	PROPN	S	Case=Nom|Number=Sing	13	flat	_	ManualCheck=Appos
 13	Panga	Pank	PROPN	S	Case=Gen|Number=Sing	14	nmod	_	_
 14	nõudeid	nõue	NOUN	S	Case=Par|Number=Plur	10	obj	_	SpaceAfter=No
 15	.	.	PUNCT	Z	_	1	punct	_	_
