@@ -7252,9 +7252,9 @@ _
 3	soovis	soovima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Briti	Briti	PROPN	G	_	5	nmod	_	_
 5	firma	firma	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-6	M	M	PROPN	N	Case=Nom|Number=Sing|NumForm=Roman|NumType=Ord	7	nmod	_	ManualCheck=Appos
-7	Baker	Baker	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
-8	Group	Group	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
+6	M	M	PROPN	N	Case=Nom|Number=Sing|NumForm=Roman|NumType=Ord	5	appos	_	ManualCheck=Appos
+7	Baker	Baker	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
+8	Group	Group	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
 9	osta	ostma	VERB	V	VerbForm=Inf	3	xcomp	_	_
 10	Admirali	Admiral	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	_
 11	basseini	bassein	NOUN	S	Case=Gen|Number=Sing	13	obl	_	_
