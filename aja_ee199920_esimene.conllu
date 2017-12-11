@@ -5814,11 +5814,11 @@ _
 # text = Suusakeskust ehitava AS Väike-Munamäe Arenduse (VMA) lõid 1996. aasta sügisel vennad Jaan, Priit ja Teet Jagomägi ning Aare Tamme.
 1	Suusakeskust	suusa_keskus	NOUN	S	Case=Par|Number=Sing	2	obj	_	_
 2	ehitava	ehitav	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
-3	AS	AS	PROPN	Y	Abbr=Yes	4	nmod	_	ManualCheck=Appos
-4	Väike-Munamäe	Väike-Muna_mägi	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	ManualCheck=Appos
+3	AS	AS	PROPN	Y	Abbr=Yes	5	flat	_	ManualCheck=Appos
+4	Väike-Munamäe	Väike-Muna_mägi	PROPN	S	Case=Gen|Number=Sing	5	flat	_	ManualCheck=Appos
 5	Arenduse	Arendus	PROPN	S	Case=Gen|Number=Sing	9	obj	_	_
 6	(	(	PUNCT	Z	_	7	punct	_	SpaceAfter=No
-7	VMA	VMA	PROPN	Y	Abbr=Yes	5	parataxis	_	SpaceAfter=No
+7	VMA	VMA	PROPN	Y	Abbr=Yes	5	appos	_	SpaceAfter=No
 8	)	)	PUNCT	Z	_	7	punct	_	_
 9	lõid	looma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 10	1996.	1996.	ADJ	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord	11	amod	_	_
