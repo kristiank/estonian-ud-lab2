@@ -6468,7 +6468,7 @@ _
 
 # sent_id = aja_ee199920_396
 # text = OÜ Baltic International Services omanik on IMG Investeeringukontrolli AS.
-1	OÜ	OÜ	PROPN	Y	Abbr=Yes	9	nmod	_	ManualCheck=Appos|ToDo=nmod
+1	OÜ	OÜ	PROPN	Y	Abbr=Yes	4	flat	_	ManualCheck=Appos|ToDo=nmod
 2	Baltic	Baltic	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 3	International	International	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 4	Services	Services	PROPN	S	Case=Nom|Number=Sing	5	nmod	_	_
