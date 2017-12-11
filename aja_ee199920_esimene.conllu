@@ -6447,7 +6447,7 @@ _
 5	Feer	Feer	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 6	oma	oma	PRON	P	Case=Gen|Degree=Pos|Number=Sing|PronType=Prs	7	nmod	_	_
 7	osa	osa	NOUN	S	Case=Nom|Number=Sing	4	obj	_	_
-8	Väike-Munamäe	Väike-Munamägi	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	ManualCheck=Appos
+8	Väike-Munamäe	Väike-Munamägi	PROPN	S	Case=Gen|Number=Sing	9	flat	_	ManualCheck=Appos
 9	Arendusest	Arendus	PROPN	S	Case=Ela|Number=Sing	7	nmod	_	_
 10	firmale	firma	NOUN	S	Case=All|Number=Sing	12	nmod	_	ManualCheck=Appos
 11	Panthera	Panthera	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
@@ -6455,7 +6455,7 @@ _
 13	,	,	PUNCT	Z	_	4	punct	_	_
 14	praeguse	praegune	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	_
 15	nimega	nimi	NOUN	S	Case=Com|Number=Sing	12	nmod	_	_
-16	OÜ	OÜ	PROPN	Y	Abbr=Yes	19	nmod	_	ManualCheck=Appos
+16	OÜ	OÜ	PROPN	Y	Abbr=Yes	19	flat	_	ManualCheck=Appos
 17	Baltic	Baltic	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 18	International	International	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 19	Services	Services	PROPN	S	Case=Nom|Number=Sing	15	nmod	_	SpaceAfter=No
