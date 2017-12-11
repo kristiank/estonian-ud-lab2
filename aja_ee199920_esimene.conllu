@@ -7867,7 +7867,7 @@ _
 13	kohtusse	kohus	NOUN	S	Case=Ill|Number=Sing	14	nmod	_	_
 14	kaebamise	kaebamine	NOUN	S	Case=Gen|Number=Sing	15	nmod	_	_
 15	otsus	otsus	NOUN	S	Case=Nom|Number=Sing	19	nsubj	_	_
-16	Riigi	Riik	PROPN	S	Case=Gen|Number=Sing	17	nmod	_	ManualCheck=Appos
+16	Riigi	Riik	PROPN	S	Case=Gen|Number=Sing	17	flat	_	ManualCheck=Appos
 17	Teatajas	Teataja	PROPN	S	Case=Ine|Number=Sing	18	obl	_	_
 18	ilmuda	ilmuma	VERB	V	VerbForm=Inf	19	xcomp	_	_
 19	jõudis	jõudma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
