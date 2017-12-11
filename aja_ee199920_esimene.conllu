@@ -7332,14 +7332,14 @@ _
 10	USAs	USA	PROPN	Y	Abbr=Yes|Case=Ine|Number=Sing	11	obl	_	_
 11	asuvat	asuv	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	_
 12	firmat	firma	NOUN	S	Case=Par|Number=Sing	2	obj	_	_
-13	Global	Global	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-14	Real	Real	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-15	Estate	Estate	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-16	Investment	Investment	PROPN	S	Case=Nom|Number=Sing	17	nmod	_	ManualCheck=Appos
-17	Co.	Co	PROPN	Y	Abbr=Yes	18	nmod	_	ToDo=nmod
-18	of	of	X	Y	Abbr=Yes	19	nmod	_	ManualCheck=Appos
-19	New	New	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	_
-20	York	York	PROPN	S	Case=Nom|Number=Sing	19	flat	_	SpaceAfter=No
+13	Global	Global	PROPN	S	Case=Nom|Number=Sing	20	flat	_	_
+14	Real	Real	PROPN	S	Case=Nom|Number=Sing	20	flat	_	_
+15	Estate	Estate	PROPN	S	Case=Nom|Number=Sing	20	flat	_	_
+16	Investment	Investment	PROPN	S	Case=Nom|Number=Sing	20	flat	_	ManualCheck=Appos
+17	Co.	Co	PROPN	Y	Abbr=Yes	20	flat	_	ToDo=nmod
+18	of	of	X	Y	Abbr=Yes	20	flat	_	ManualCheck=Appos
+19	New	New	PROPN	S	Case=Nom|Number=Sing	20	flat	_	_
+20	York	York	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_449
