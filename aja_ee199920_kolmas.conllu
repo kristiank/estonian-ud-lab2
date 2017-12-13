@@ -728,7 +728,7 @@
 
 # sent_id = aja_ee199920_1026
 # text = Konstantin Pätsi matmispaik 1939/1990
-1	Konstantin	Konstantin	PROPN	S	Case=Nom|Number=Sing	2	nmod	_	ManualCheck=Appos
+1	Konstantin	Konstantin	PROPN	S	Case=Nom|Number=Sing	2	flat	_	ManualCheck=Appos
 2	Pätsi	Päts	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	_
 3	matmispaik	matmis_paik	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 4	1939/1990	1939/1990	NUM	N	NumForm=Digit|NumType=Card	3	nummod	_	_
