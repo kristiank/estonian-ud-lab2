@@ -7465,9 +7465,9 @@
 15	teisele	teine	ADJ	N	Case=All|Number=Sing|NumForm=Letter|NumType=Ord	16	amod	_	_
 16	ooperile	ooper	NOUN	S	Case=All|Number=Sing	11	obl	_	_
 17	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
-18	Writing	Writing	PROPN	S	Case=Nom|Number=Sing	19	nmod	_	ToDo=nmod
-19	to	to	X	Y	Abbr=Yes	20	nmod	_	ManualCheck=Appos
-20	Vermeer	Vermeer	PROPN	S	Case=Nom|Number=Sing	16	nmod	_	SpaceAfter=No
+18	Writing	Writing	PROPN	S	Case=Nom|Number=Sing	19	flat	_	ToDo=nmod
+19	to	to	X	Y	Abbr=Yes	20	flat	_	ManualCheck=Appos
+20	Vermeer	Vermeer	PROPN	S	Case=Nom|Number=Sing	16	appos	_	SpaceAfter=No
 21	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 22	.	.	PUNCT	Z	_	2	punct	_	_
 
