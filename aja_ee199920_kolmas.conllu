@@ -5289,7 +5289,7 @@
 4	Koivu	Koivu	PROPN	S	Case=Nom|Number=Sing	1	conj	_	_
 5	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
 6	Norra	Norra	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
-7	MMil	MM	PROPN	Y	Abbr=Yes|Case=Ade|Number=Sing	9	nmod	_	ToDo=nmod
+7	MMil	MM	PROPN	Y	Abbr=Yes|Case=Ade|Number=Sing	9	obl	_	ToDo=nmod
 8	tõelised	tõeline	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
 9	liidrid	liider	NOUN	S	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	Z	_	9	punct	_	_
