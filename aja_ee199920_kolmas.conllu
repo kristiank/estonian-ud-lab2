@@ -6600,11 +6600,11 @@
 # text = Ta liitus odaviskajate Jan Železny ja Steve Backleyga, võttes kuulda tšehhist juhendaja Jan Pošpišili juhtnööre.
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	liitus	liituma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	odaviskajate	oda_viskaja	NOUN	S	Case=Gen|Number=Plur	5	nmod	_	ManualCheck=Appos
+3	odaviskajate	oda_viskaja	NOUN	S	Case=Gen|Number=Plur	2	obl	_	ManualCheck=Appos
 4	Jan	Jan	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
-5	Železny	Železny	PROPN	S	Case=Nom|Number=Sing	2	obl	_	_
+5	Železny	Železny	PROPN	S	Case=Nom|Number=Sing	3	appos	_	_
 6	ja	ja	CCONJ	J	_	8	cc	_	_
-7	Steve	Steve	PROPN	S	Case=Nom|Number=Sing	6	nmod	_	ToDo=nmod
+7	Steve	Steve	PROPN	S	Case=Nom|Number=Sing	8	flat	_	ToDo=nmod
 8	Backleyga	Backley	PROPN	S	Case=Com|Number=Sing	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	Z	_	2	punct	_	_
 10	võttes	võtma	VERB	V	VerbForm=Conv	2	advcl	_	_
