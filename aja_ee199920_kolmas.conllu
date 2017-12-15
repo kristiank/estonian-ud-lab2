@@ -5505,8 +5505,8 @@
 6	Hlinka	Hlinka	PROPN	S	Case=Nom|Number=Sing	5	nsubj	_	_
 7	elimineerida	elimineerima	VERB	V	VerbForm=Inf	5	xcomp	_	_
 8	soomlaste	soomlane	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
-9	esikolmiku	esi_kolmik	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	ManualCheck=Appos
-10	Selänne-Koivu-Tuominen	Selänne-Koivu-Tuominen	PROPN	S	Case=Nom|Number=Sing	7	obj	_	SpaceAfter=No
+9	esikolmiku	esi_kolmik	NOUN	S	Case=Gen|Number=Sing	7	obj	_	ManualCheck=Appos
+10	Selänne-Koivu-Tuominen	Selänne-Koivu-Tuominen	PROPN	S	Case=Nom|Number=Sing	9	appos	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_1295
