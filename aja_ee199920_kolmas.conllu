@@ -4730,7 +4730,7 @@
 1	Tähtvere	Täht_vere	PROPN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
 3	Tartu	Tartu	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
-4	linna	linn	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	ToDo=nmod
+4	linna	linn	NOUN	S	Case=Gen|Number=Sing	7	obl	_	ToDo=nmod
 5	üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Ind	7	det	_	_
 6	hinnatumaid	hinna=tum	ADJ	A	Case=Par|Degree=Cmp|Number=Plur	7	amod	_	_
 7	elurajoone	elu_rajoon	NOUN	S	Case=Par|Number=Plur	0	root	_	SpaceAfter=No
