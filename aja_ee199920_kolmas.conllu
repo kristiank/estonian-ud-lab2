@@ -244,7 +244,7 @@
 4	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
 5	ilma	ilma	ADP	K	AdpType=Prep	7	case	_	_
 6	igasuguse	iga_sugune	PRON	P	Case=Gen|Number=Sing|PronType=Ind	7	nmod	_	_
-7	sentimentaalsuseta	sentimentaalsus	NOUN	S	Case=Abe|Number=Sing	9	nmod	_	ManualCheck=Appos|ToDo=nmod
+7	sentimentaalsuseta	sentimentaalsus	NOUN	S	Case=Abe|Number=Sing	9	obl	_	ManualCheck=Appos|ToDo=nmod
 8	tõesti	tõesti	ADV	D	_	9	advmod	_	_
 9	Meister	Meister	PROPN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	9	punct	_	_
