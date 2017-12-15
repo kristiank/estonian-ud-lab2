@@ -1859,7 +1859,7 @@
 12	--	--	PUNCT	Z	Hyph=Yes	13	punct	_	_
 13	valmib	valmima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	koostöös	koos_töö	NOUN	S	Case=Ine|Number=Sing	13	obl	_	_
-15	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	ManualCheck=Appos
+15	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	16	flat	_	ManualCheck=Appos
 16	Instituudiga	Instituut	PROPN	S	Case=Com|Number=Sing	14	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	Z	_	13	punct	_	_
 
