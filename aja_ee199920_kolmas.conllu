@@ -7982,7 +7982,7 @@
 3	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
 5	neist	see	PRON	P	Case=Ela|Number=Plur|PronType=Dem	6	det	_	_
-6	oopereist	ooper	NOUN	S	Case=Ela|Number=Plur	4	nmod	_	SpaceAfter=No|ToDo=nmod
+6	oopereist	ooper	NOUN	S	Case=Ela|Number=Plur	4	obl	_	SpaceAfter=No|ToDo=nmod
 7	,	,	PUNCT	Z	_	11	punct	_	_
 8	mida	mis	PRON	P	Case=Par|Number=Plur|PronType=Int,Rel	11	obj	_	_
 9	te	sina	PRON	P	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
