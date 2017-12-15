@@ -7408,8 +7408,8 @@
 20	"	"	PUNCT	Z	_	23	punct	_	SpaceAfter=No
 21	The	The	PROPN	S	Case=Nom|Number=Sing	23	flat	_	_
 22	Physical	Physical	PROPN	S	Case=Nom|Number=Sing	23	flat	_	_
-23	Self	Self	PROPN	S	Case=Nom|Number=Sing	19	nmod	_	SpaceAfter=No
-24	"	"	PUNCT	Z	_	27	punct	_	_
+23	Self	Self	PROPN	S	Case=Nom|Number=Sing	19	appos	_	SpaceAfter=No
+24	"	"	PUNCT	Z	_	23	punct	_	_
 25	ning	ning	CCONJ	J	_	27	cc	_	_
 26	1994	1994	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	_
 27	esietendus	esi_etenduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
