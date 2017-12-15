@@ -3975,7 +3975,7 @@
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	osa	osa	NOUN	S	Case=Par|Number=Sing	0	root	_	_
 4	nendest	see	PRON	P	Case=Ela|Number=Plur|PronType=Dem	5	nmod	_	_
-5	läbirääkimistest	läbi_rääkimine	NOUN	S	Case=Ela|Number=Plur	3	nmod	_	SpaceAfter=No|ToDo=nmod
+5	läbirääkimistest	läbi_rääkimine	NOUN	S	Case=Ela|Number=Plur	3	obl	_	SpaceAfter=No|ToDo=nmod
 6	,	,	PUNCT	Z	_	8	punct	_	_
 7	nagu	nagu	SCONJ	J	_	8	mark	_	_
 8	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	3	conj	_	_
