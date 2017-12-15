@@ -3187,7 +3187,7 @@
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 5	lastele	laps	NOUN	S	Case=All|Number=Plur	6	obl	_	_
 6	suunatud	suuna=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
-7	reklaami	reklaam	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	ToDo=nmod
+7	reklaami	reklaam	NOUN	S	Case=Gen|Number=Sing	8	obl	_	ToDo=nmod
 8	hukkamõistmine	hukka_mõistmine	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	8	punct	_	_
 
