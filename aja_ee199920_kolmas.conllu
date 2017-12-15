@@ -1201,7 +1201,7 @@
 15	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
 16	tasuta	tasu	NOUN	S	Case=Abe|Number=Sing	17	nmod	_	ToDo=nmod
 17	plats	plats	NOUN	S	Case=Nom|Number=Sing	3	ccomp	_	_
-18	Metsakalmistul	Metsa_kalmistu	PROPN	S	Case=Ade|Number=Sing	17	nmod	_	SpaceAfter=No|ToDo=nmod
+18	Metsakalmistul	Metsa_kalmistu	PROPN	S	Case=Ade|Number=Sing	17	obl	_	SpaceAfter=No|ToDo=nmod
 19	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_ee199920_1048
