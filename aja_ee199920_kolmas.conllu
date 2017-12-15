@@ -5180,9 +5180,9 @@
 8	soomlaste	soomlane	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
 9	pingilt	pink	NOUN	S	Case=Abl|Number=Sing	5	obl	_	_
 10	meeskonna	meeskond	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
-11	liidri	liider	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	ManualCheck=Appos
+11	liidri	liider	NOUN	S	Case=Gen|Number=Sing	5	obj	_	ManualCheck=Appos
 12	Teemu	Teemu	PROPN	S	Case=Nom|Number=Sing	13	flat	_	_
-13	Selänne	Selänne	PROPN	S	Case=Gen|Number=Sing	5	obj	_	SpaceAfter=No
+13	Selänne	Selänne	PROPN	S	Case=Gen|Number=Sing	11	appos	_	SpaceAfter=No
 14	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_1274
