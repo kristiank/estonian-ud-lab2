@@ -2156,7 +2156,7 @@
 13	,	,	PUNCT	Z	_	16	punct	_	_
 14	mille	mis	PRON	P	Case=Gen|Number=Plur|PronType=Int,Rel	16	nmod	_	_
 15	arhitektuurilise	arhitektuuriline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	16	amod	_	_
-16	väärtuse	väärtus	NOUN	S	Case=Gen|Number=Sing	21	nmod	_	ToDo=nmod
+16	väärtuse	väärtus	NOUN	S	Case=Gen|Number=Sing	21	obl	_	ToDo=nmod
 17	kõrval	kõrval	ADP	K	AdpType=Post	16	case	_	_
 18	Ühispanga	Ühis_pank	PROPN	S	Case=Gen|Number=Sing	19	nmod	_	_
 19	maja	maja	NOUN	S	Case=Nom|Number=Sing	21	nsubj:cop	_	_
