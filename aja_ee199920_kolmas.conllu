@@ -7306,7 +7306,7 @@
 16	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
 17	maiuspala	maius_pala	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 18	intellektuaalsele	intellektuaalne	ADJ	A	Case=All|Degree=Pos|Number=Sing	19	amod	_	_
-19	vaatajale	vaataja	NOUN	S	Case=All|Number=Sing	17	nmod	_	SpaceAfter=No|ToDo=nmod
+19	vaatajale	vaataja	NOUN	S	Case=All|Number=Sing	17	obl	_	SpaceAfter=No|ToDo=nmod
 20	.	.	PUNCT	Z	_	17	punct	_	_
 
 # sent_id = aja_ee199920_1429
