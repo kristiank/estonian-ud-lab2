@@ -1214,7 +1214,7 @@
 # sent_id = aja_ee199920_1049
 # text = Nõukogude ajal oli Sojuz šurnalistov (ajakirjanike liit -- vene k) kõva sõna, Moskvas Arbatil oli eraldi restoran, kus sai ilma järjekorrata ja odavalt süüa.
 1	Nõukogude	nõu_kogu	NOUN	S	Case=Gen|Number=Plur	2	nmod	_	_
-2	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	14	nmod	_	ToDo=nmod
+2	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	14	obl	_	ToDo=nmod
 3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	_
 4	Sojuz	Sojuz	PROPN	S	Case=Nom|Number=Sing	5	nmod	_	_
 5	šurnalistov	šurnalistov	NOUN	S	Case=Nom|Number=Sing	14	nsubj:cop	_	_
