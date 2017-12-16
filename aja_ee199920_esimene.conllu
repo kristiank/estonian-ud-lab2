@@ -6482,9 +6482,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_397
 # text = Praeguse seisuga on suusakeskusel laene kokku 13,4 miljonit krooni, vara bilansiline väärtus on 18 miljonit.
 1	Praeguse	praegune	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	2	amod	_	_
-2	seisuga	seis	NOUN	S	Case=Com|Number=Sing	9	nmod	_	ToDo=nmod
+2	seisuga	seis	NOUN	S	Case=Com|Number=Sing	9	obl	_	ToDo=nmod
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
-4	suusakeskusel	suusa_keskus	NOUN	S	Case=Ade|Number=Sing	9	nmod	_	ToDo=nmod
+4	suusakeskusel	suusa_keskus	NOUN	S	Case=Ade|Number=Sing	9	obl	_	ToDo=nmod
 5	laene	laen	NOUN	S	Case=Par|Number=Plur	9	nsubj:cop	_	_
 6	kokku	kokku	ADV	D	_	9	advmod	_	_
 7	13,4	13,4	NUM	N	NumForm=Digit|NumType=Card	8	compound	_	_
