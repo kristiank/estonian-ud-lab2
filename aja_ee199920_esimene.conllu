@@ -5075,11 +5075,11 @@ NaN	undefined	_	_	_	_	_	_	_	_
 2	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	10	nsubj:cop	_	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
 4	sellisel	selline	ADJ	P	Case=Ade|Number=Sing|PronType=Dem	5	amod	_	_
-5	juhul	juht	NOUN	S	Case=Ade|Number=Sing	10	nmod	_	ToDo=nmod
+5	juhul	juht	NOUN	S	Case=Ade|Number=Sing	10	obl	_	ToDo=nmod
 6	järgnevas	järgnev	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
 7	võimalikus	võimalik	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	9	amod	_	_
 8	kehavigastuste	keha_vigastus	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
-9	tekitamises	tekitamine	NOUN	S	Case=Ine|Number=Sing	10	nmod	_	ToDo=nmod
+9	tekitamises	tekitamine	NOUN	S	Case=Ine|Number=Sing	10	obl	_	ToDo=nmod
 10	süüdlane	süüdlane	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 11	?	?	PUNCT	Z	_	10	punct	_	_
 
