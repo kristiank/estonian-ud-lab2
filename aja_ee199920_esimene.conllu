@@ -2671,7 +2671,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 22	aga	aga	CCONJ	J	_	26	cc	_	_
 23	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	26	cop	_	_
 24	tulihingeline	tuli_hingeline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	25	amod	_	_
-25	Talinvesti	Talinvest	PROPN	S	Case=Gen|Number=Sing	26	nmod	_	ToDo=nmod
+25	Talinvesti	Talinvest	PROPN	S	Case=Gen|Number=Sing	26	obl	_	ToDo=nmod
 26	pooldaja	pooldaja	NOUN	S	Case=Nom|Number=Sing	11	conj	_	SpaceAfter=No
 27	.	.	PUNCT	Z	_	11	punct	_	_
 
