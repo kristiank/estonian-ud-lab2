@@ -842,7 +842,7 @@
 9	"	"	PUNCT	Z	_	13	punct	_	_
 10	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	13	nsubj:cop	_	_
 11	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
-12	firma	firma	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	ToDo=nmod
+12	firma	firma	NOUN	S	Case=Gen|Number=Sing	13	obl	_	ToDo=nmod
 13	asi	asi	NOUN	S	Case=Nom|Number=Sing	5	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	Z	_	5	punct	_	_
 
