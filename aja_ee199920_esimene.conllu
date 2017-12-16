@@ -2573,7 +2573,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 10	veel	veel	ADV	D	_	14	advmod	_	_
 11	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	ManualCheck=Appos
 12	Mererajooni	Mere_rajoon	PROPN	S	Case=Gen|Number=Sing	11	flat	_	_
-13	plaanikomisjoni	plaani_komisjon	NOUN	S	Case=Gen|Number=Sing	14	nmod	_	ToDo=nmod
+13	plaanikomisjoni	plaani_komisjon	NOUN	S	Case=Gen|Number=Sing	14	obl	_	ToDo=nmod
 14	esimees	esi_mees	NOUN	S	Case=Nom|Number=Sing	16	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	14	punct	_	_
 16	tegin	tegema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
