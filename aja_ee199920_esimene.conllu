@@ -5283,7 +5283,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 8	ainus	ainus	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	9	amod	_	_
 9	soovitus	soovitus	NOUN	S	Case=Nom|Number=Sing	12	nsubj:cop	_	_
 10	tõenäoliselt	tõe_näoliselt	ADV	D	_	12	advmod	_	_
-11	välisukse	välis_uks	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	ToDo=nmod
+11	välisukse	välis_uks	NOUN	S	Case=Gen|Number=Sing	12	obl	_	ToDo=nmod
 12	lukustamine	lukustamine	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 13	ja	ja	CCONJ	J	_	14	cc	_	_
 14	lukushoidmine	lukushoidmine	NOUN	S	Case=Nom|Number=Sing	12	conj	_	SpaceAfter=No
