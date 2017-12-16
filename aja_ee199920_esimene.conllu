@@ -1086,10 +1086,10 @@
 13	,	,	PUNCT	Z	_	18	punct	_	_
 14	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	18	nsubj:cop	_	_
 15	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
-16	ehitusfirma	ehitus_firma	NOUN	S	Case=Gen|Number=Sing	18	nmod	_	ManualCheck=Appos
+16	ehitusfirma	ehitus_firma	NOUN	S	Case=Gen|Number=Sing	18	obl	_	ManualCheck=Appos
 17	Estconde	Estconde	PROPN	S	Case=Gen|Number=Sing	16	appos	_	ToDo=nmod
 18	partner	partner	NOUN	S	Case=Nom|Number=Sing	12	acl:relcl	_	_
-19	Venemaal	Vene_maa	PROPN	S	Case=Ade|Number=Sing	18	nmod	_	SpaceAfter=No|ToDo=nmod
+19	Venemaal	Vene_maa	PROPN	S	Case=Ade|Number=Sing	18	obl	_	SpaceAfter=No|ToDo=nmod
 20	.	.	PUNCT	Z	_	4	punct	_	_
 
 # sent_id = aja_ee199920_62
