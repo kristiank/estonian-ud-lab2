@@ -5156,7 +5156,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_326
 # text = Politseijuhi soovitus oli kutsuda korravalvurid, kes juhiksid tähelepanu parkimiseeskirjade rikkumisele või millelegi sellisele.
-1	Politseijuhi	politsei_juht	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	ToDo=nmod
+1	Politseijuhi	politsei_juht	NOUN	S	Case=Gen|Number=Sing	2	obl	_	ToDo=nmod
 2	soovitus	soovitus	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
 4	kutsuda	kutsuma	VERB	V	VerbForm=Inf	2	csubj:cop	_	_
