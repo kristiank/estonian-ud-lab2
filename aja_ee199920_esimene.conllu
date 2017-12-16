@@ -1937,7 +1937,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 9	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	6	conj	_	_
 10	vanused	vanune	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
 11	lühikeste	lühike	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	_
-12	soengutega	soeng	NOUN	S	Case=Com|Number=Plur	13	nmod	_	ToDo=nmod
+12	soengutega	soeng	NOUN	S	Case=Com|Number=Plur	13	obl	_	ToDo=nmod
 13	noorukid	nooruk	NOUN	S	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	Z	_	13	punct	_	_
 
