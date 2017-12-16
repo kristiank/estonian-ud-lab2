@@ -3473,7 +3473,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_210
 # text = Seltskondlikel koosviibimistel oli nende mängulist pangateemalist nääklemist lausa nauding kuulata.
 1	Seltskondlikel	seltskondlik	ADJ	A	Case=Ade|Degree=Pos|Number=Plur	2	amod	_	_
-2	koosviibimistel	koos_viibimine	NOUN	S	Case=Ade|Number=Plur	9	nmod	_	ToDo=nmod
+2	koosviibimistel	koos_viibimine	NOUN	S	Case=Ade|Number=Plur	9	obl	_	ToDo=nmod
 3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
 4	nende	tema	PRON	P	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
 5	mängulist	mänguline	ADJ	A	Case=Par|Degree=Pos|Number=Sing	7	amod	_	_
