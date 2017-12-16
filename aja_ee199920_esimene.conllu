@@ -7187,7 +7187,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	3	aux	_	_
 3	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	mõtet	mõte	NOUN	S	Case=Par|Number=Sing	0	root	_	_
-5	selles	see	PRON	P	Case=Ine|Number=Sing|PronType=Dem	4	nmod	_	ToDo=nmod
+5	selles	see	PRON	P	Case=Ine|Number=Sing|PronType=Dem	4	obl	_	ToDo=nmod
 6	ajakirjanikke	aja_kirjanik	NOUN	S	Case=Par|Number=Plur	7	obj	_	_
 7	süüdistada	süüdistama	VERB	V	VerbForm=Inf	4	csubj:cop	_	SpaceAfter=No
 8	.	.	PUNCT	Z	_	4	punct	_	_
