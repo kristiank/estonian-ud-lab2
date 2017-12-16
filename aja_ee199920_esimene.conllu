@@ -6110,7 +6110,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 4	300tuhandene	300_tuhandene	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
 5	võlg	võlg	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 6	Lõuna-Eesti	Lõuna-Eesti	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	_
-7	ärimeestele	äri_mees	NOUN	S	Case=All|Number=Plur	5	nmod	_	ToDo=nmod
+7	ärimeestele	äri_mees	NOUN	S	Case=All|Number=Plur	5	obl	_	ToDo=nmod
 8	Jaan	Jaan	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
 9	Mugrale	Mugra	PROPN	S	Case=All|Number=Sing	8	flat	_	_
 10	ja	ja	CCONJ	J	_	8	cc	_	ToDo=cc-without-conj
