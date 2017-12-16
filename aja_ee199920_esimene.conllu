@@ -1476,7 +1476,7 @@
 11	mis	mis	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	15	nsubj:cop	_	_
 12	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	_
 13	arvatavasti	arvatavasti	ADV	D	_	15	advmod	_	_
-14	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	nmod	_	ToDo=nmod
+14	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obl	_	ToDo=nmod
 15	mälestused	mälestus	NOUN	S	Case=Nom|Number=Plur	9	acl:relcl	_	SpaceAfter=No
 16	.	.	PUNCT	Z	_	3	punct	_	_
 
