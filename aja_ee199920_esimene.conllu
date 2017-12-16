@@ -3063,7 +3063,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # text = Ka tol ajal oli Pere suur isemõtleja.
 1	Ka	ka	ADV	D	_	2	advmod	_	_
 2	tol	too	PRON	P	Case=Ade|Number=Sing|PronType=Dem	3	det	_	_
-3	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	7	nmod	_	ToDo=nmod
+3	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	7	obl	_	ToDo=nmod
 4	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
 5	Pere	Pere	PROPN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
 6	suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
