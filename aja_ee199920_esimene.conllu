@@ -3970,7 +3970,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 10	siis	siis	ADV	D	_	14	advmod	_	_
 11	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
 12	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	14	nsubj:cop	_	_
-13	Teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	obl	_	ToDo=nmod
+13	Teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	nmod	_	ToDo=nmod
 14	probleem	probleem	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	Z	_	14	punct	_	_
 
@@ -4522,7 +4522,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 4	kultuurilise	kultuuriline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
 5	hoiaku	hoiak	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	_
 6	(	(	PUNCT	Z	_	8	punct	_	SpaceAfter=No
-7	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	nmod	_	ToDo=nmod
+7	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	obl	_	ToDo=nmod
 8	asi	asi	NOUN	S	Case=Nom|Number=Sing	5	parataxis	_	_
 9	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	8	nsubj:cop	_	_
 10	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No
