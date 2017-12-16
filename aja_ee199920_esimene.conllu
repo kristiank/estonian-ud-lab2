@@ -445,7 +445,7 @@
 13	"	"	PUNCT	Z	_	14	punct	_	SpaceAfter=No
 14	üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Dem	8	acl	_	_
 15	meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	16	nmod	_	_
-16	klientidest	klient	NOUN	S	Case=Ela|Number=Plur	14	nmod	_	SpaceAfter=No|ToDo=nmod
+16	klientidest	klient	NOUN	S	Case=Ela|Number=Plur	14	obl	_	SpaceAfter=No|ToDo=nmod
 17	"	"	PUNCT	Z	_	14	punct	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	2	punct	_	_
 
