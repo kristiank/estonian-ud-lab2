@@ -3713,7 +3713,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 6	,	,	PUNCT	Z	_	10	punct	_	_
 7	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	10	nsubj:cop	_	_
 8	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-9	Polarise	Polaris	PROPN	S	Case=Gen|Number=Sing	10	nmod	_	ToDo=nmod
+9	Polarise	Polaris	PROPN	S	Case=Gen|Number=Sing	10	obl	_	ToDo=nmod
 10	kliendid	klient	NOUN	S	Case=Nom|Number=Plur	5	acl:relcl	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	2	punct	_	_
 
