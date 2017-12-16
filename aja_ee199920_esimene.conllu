@@ -1927,7 +1927,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_113
 # text = Lehe väitel olid neonatsid peamiselt 14 kuni 18 aasta vanused lühikeste soengutega noorukid.
 1	Lehe	leht	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
-2	väitel	väide	NOUN	S	Case=Ade|Number=Sing	13	nmod	_	ToDo=nmod
+2	väitel	väide	NOUN	S	Case=Ade|Number=Sing	13	obl	_	ToDo=nmod
 3	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
 4	neonatsid	neo_nats	NOUN	S	Case=Nom|Number=Plur	13	nsubj:cop	_	_
 5	peamiselt	peamiselt	ADV	D	_	13	advmod	_	_
