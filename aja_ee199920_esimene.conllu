@@ -3970,7 +3970,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 10	siis	siis	ADV	D	_	14	advmod	_	_
 11	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
 12	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	14	nsubj:cop	_	_
-13	Teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	nmod	_	ToDo=nmod
+13	Teie	sina	PRON	P	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	obl	_	ToDo=nmod
 14	probleem	probleem	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	Z	_	14	punct	_	_
 
