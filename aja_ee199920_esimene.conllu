@@ -6842,7 +6842,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # text = Üks võimalikest ostjatest on väikeaktsionär Aare Tamme.
 1	Üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
 2	võimalikest	võimalik	ADJ	A	Case=Ela|Degree=Pos|Number=Plur	3	amod	_	_
-3	ostjatest	ostja	NOUN	S	Case=Ela|Number=Plur	1	nmod	_	ToDo=nmod
+3	ostjatest	ostja	NOUN	S	Case=Ela|Number=Plur	1	obl	_	ToDo=nmod
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 5	väikeaktsionär	väike_aktsionär	NOUN	S	Case=Nom|Number=Sing	1	nsubj:cop	_	_
 6	Aare	Aare	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
