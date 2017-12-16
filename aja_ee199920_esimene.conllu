@@ -6780,7 +6780,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # text = "Praegusel hetkel pole see suusakeskus valmisprodukt, mida võiks osta või müüa, seal on liiga suur sasipundar," ütles Kilk.
 1	"	"	PUNCT	Z	_	7	punct	_	SpaceAfter=No
 2	Praegusel	praegune	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	3	amod	_	_
-3	hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	7	nmod	_	ToDo=nmod
+3	hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	7	obl	_	ToDo=nmod
 4	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
 5	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	6	det	_	_
 6	suusakeskus	suusa_keskus	NOUN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
