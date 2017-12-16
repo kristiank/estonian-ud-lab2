@@ -1164,7 +1164,7 @@
 
 # sent_id = aja_ee199920_68
 # text = Seaduse kohaselt on rahapesu "kriminaalkorras karistatava teo otsese tulemusena saadud vara muundumine, üleandmine või varaga õigustoimingute sooritamine, mille eesmärgiks või tagajärjeks on selle vara tegeliku omaniku ning ebaseadusliku päritolu varjamine".
-1	Seaduse	seadus	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	ToDo=nmod
+1	Seaduse	seadus	NOUN	S	Case=Gen|Number=Sing	13	obl	_	ToDo=nmod
 2	kohaselt	kohaselt	ADP	K	AdpType=Post	1	case	_	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
 4	rahapesu	raha_pesu	NOUN	S	Case=Nom|Number=Sing	13	nsubj:cop	_	_
