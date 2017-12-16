@@ -3754,14 +3754,14 @@ NaN	undefined	_	_	_	_	_	_	_	_
 6	,	,	PUNCT	Z	_	13	punct	_	_
 7	et	et	SCONJ	J	_	13	mark	_	_
 8	osa	osa	NOUN	S	Case=Par|Number=Sing	13	nsubj:cop	_	_
-9	minust	mina	PRON	P	Case=Ela|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
+9	minust	mina	PRON	P	Case=Ela|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
 10	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
 11	edaspidi	edas_pidi	ADV	D	_	13	advmod	_	_
-12	Sampo	Sampo	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	ToDo=nmod
+12	Sampo	Sampo	PROPN	S	Case=Gen|Number=Sing	13	obl	_	ToDo=nmod
 13	klient	klient	NOUN	S	Case=Nom|Number=Sing	5	ccomp	_	_
 14	ja	ja	CCONJ	J	_	17	cc	_	_
 15	osa	osa	NOUN	S	Case=Par|Number=Sing	17	nsubj:cop	_	_
-16	BICO	BICO	PROPN	Y	Abbr=Yes	17	nmod	_	ToDo=nmod
+16	BICO	BICO	PROPN	Y	Abbr=Yes	17	obl	_	ToDo=nmod
 17	klient	klient	NOUN	S	Case=Nom|Number=Sing	13	conj	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	5	punct	_	_
 
