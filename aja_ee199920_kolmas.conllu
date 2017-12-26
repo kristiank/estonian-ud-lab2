@@ -6988,12 +6988,12 @@
 
 # sent_id = aja_ee199920_1399
 # text = a. meedialemmikud Tomi ja Maria Rahula
-1	a.	a	NOUN	Y	Abbr=Yes	6	list	_	_
+1	a.	a	NOUN	Y	Abbr=Yes	2	list	_	_
 2	meedialemmikud	meedia_lemmik	NOUN	S	Case=Nom|Number=Plur	6	nmod	_	ManualCheck=Appos
-3	Tomi	Tomi	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
+3	Tomi	Tomi	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
 4	ja	ja	CCONJ	J	_	5	cc	_	ToDo=cc-without-conj
-5	Maria	Maria	PROPN	S	Case=Nom|Number=Sing	2	conj	_	ManualCheck=Conj
-6	Rahula	Rahula	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
+5	Maria	Maria	PROPN	S	Case=Nom|Number=Sing	3	conj	_	ManualCheck=Conj
+6	Rahula	Rahula	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 
 # sent_id = aja_ee199920_1400
 # text = b. muusikud Koit Toome ja Maarja-Liis Ilus
