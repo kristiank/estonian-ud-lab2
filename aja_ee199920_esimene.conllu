@@ -3527,8 +3527,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	ju	ju	ADV	D	_	5	advmod	_	_
 5	hea	hea	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	Z	_	5	punct	_	ToDo=punct-in-coord
-7	kuid	kuid	CCONJ	J	_	5	cc	_	ToDo=cc-in-coord
+6	,	,	PUNCT	Z	_	19	punct	_	ToDo=punct-in-coord
+7	kuid	kuid	CCONJ	J	_	19	cc	_	ToDo=cc-in-coord
 8	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	9	det	_	_
 9	eripära	eri_pära	NOUN	S	Case=Nom|Number=Sing	19	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	16	punct	_	_
