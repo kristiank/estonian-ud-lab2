@@ -194,7 +194,7 @@
 3	tee	tee	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	esimesel	esimene	PRON	P	Case=Ade|Number=Sing|PronType=Dem	5	det	_	_
 5	poolel	pool	NOUN	S	Case=Ade|Number=Sing	1	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	Z	_	1	punct	_	ToDo=punct-in-coord
+6	,	,	PUNCT	Z	_	12	punct	_	ToDo=punct-in-coord
 7	vaevu	vaevu	ADV	D	_	8	advmod	_	_
 8	kolmekümnekolmene	kolme_kümne_kolmene	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	12	advcl	_	SpaceAfter=No
 9	,	,	PUNCT	Z	_	12	punct	_	_
