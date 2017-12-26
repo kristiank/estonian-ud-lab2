@@ -2101,7 +2101,7 @@
 20	Saaremaa	Saare_maa	PROPN	S	Case=Gen|Number=Sing	18	conj	_	_
 21	vahel	vahel	ADP	K	AdpType=Post	18	case	_	SpaceAfter=No
 22	)	)	PUNCT	Z	_	10	punct	_	_
-23	ja	ja	CCONJ	J	_	7	cc	_	ToDo=cc-without-conj
+23	ja	ja	CCONJ	J	_	24	cc	_	ToDo=cc-without-conj
 24	Riia	Riia	PROPN	S	Case=Gen|Number=Sing	6	conj	_	ManualCheck=Conj
 25	(	(	PUNCT	Z	_	28	punct	_	SpaceAfter=No
 26	lätlased	lätlane	NOUN	S	Case=Nom|Number=Plur	28	nsubj	_	_
