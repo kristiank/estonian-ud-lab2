@@ -7549,7 +7549,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 7	nimetatud	nimetatud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	_
 8	firmat	firma	NOUN	S	Case=Par|Number=Sing	9	obj	_	_
 9	leida	leidma	VERB	V	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
-10	,	,	PUNCT	Z	_	2	punct	_	ToDo=punct-in-coord
+10	,	,	PUNCT	Z	_	11	punct	_	ToDo=punct-in-coord
 11	otsimaks	otsima	VERB	V	Case=Tra|VerbForm=Sup|Voice=Act	2	advcl	_	_
 12	koostöövõimalusi	koos_töö_võimalus	NOUN	S	Case=Par|Number=Plur	11	obj	_	SpaceAfter=No
 13	,	,	PUNCT	Z	_	16	punct	_	_
