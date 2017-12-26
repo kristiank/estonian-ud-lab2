@@ -6998,8 +6998,8 @@
 # sent_id = aja_ee199920_1400
 # text = b. muusikud Koit Toome ja Maarja-Liis Ilus
 1	b.	b	NOUN	Y	Abbr=Yes	2	list	_	_
-2	muusikud	muusik	NOUN	S	Case=Nom|Number=Plur	0	root	_	_
-3	Koit	Koit	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
+2	muusikud	muusik	NOUN	S	Case=Nom|Number=Plur	3	nmod	_	_
+3	Koit	Koit	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
 4	Toome	Toome	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
 5	ja	ja	CCONJ	J	_	7	cc	_	ToDo=cc-without-conj
 6	Maarja-Liis	Maarja-Liis	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
