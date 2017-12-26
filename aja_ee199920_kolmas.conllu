@@ -3463,7 +3463,7 @@
 23	kuidas	kuidas	ADV	D	_	25	mark	_	_
 24	maja	maja	NOUN	S	Case=Nom|Number=Sing	25	obj	_	_
 25	möbleerida	möbleerima	VERB	V	VerbForm=Inf	16	conj	_	_
-26	ja	ja	CCONJ	J	_	25	cc	_	ToDo=cc-without-conj
+26	ja	ja	CCONJ	J	_	29	cc	_	ToDo=cc-without-conj
 27	millist	milline	ADJ	P	Case=Par|Number=Sing|PronType=Rel	28	amod	_	_
 28	toitu	toit	NOUN	S	Case=Par|Number=Sing	29	obj	_	_
 29	süüa	sööma	VERB	V	VerbForm=Inf	16	conj	_	SpaceAfter=No
