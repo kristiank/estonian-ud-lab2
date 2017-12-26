@@ -505,11 +505,11 @@
 5	koolipoiss	kooli_poiss	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
 6	1980.	1980.	ADJ	N	Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	_
 7	aastal	aasta	NOUN	S	Case=Ade|Number=Sing	3	obl	_	SpaceAfter=No
-8	,	,	PUNCT	Z	_	3	punct	_	ToDo=punct-in-coord
-9	ja	ja	CCONJ	J	_	3	cc	_	ToDo=cc-in-coord
+8	,	,	PUNCT	Z	_	18	punct	_	ToDo=punct-in-coord
+9	ja	ja	CCONJ	J	_	18	cc	_	ToDo=cc-in-coord
 10	juba	juba	ADV	D	_	11	advmod	_	_
 11	1983ndal	1983=s	ADJ	N	Case=Ade|Number=Sing|NumType=Ord	18	amod	_	SpaceAfter=No
-12	,	,	PUNCT	Z	_	3	punct	_	ToDo=punct-in-coord
+12	,	,	PUNCT	Z	_	16	punct	_	ToDo=punct-in-coord
 13	ise	ise	PRON	P	Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes	16	nsubj	_	_
 14	alles	alles	ADV	D	_	16	advmod	_	_
 15	kuueteistkümne	kuus_teist	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	16	nummod	_	_
