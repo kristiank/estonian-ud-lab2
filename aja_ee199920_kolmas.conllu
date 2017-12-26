@@ -7007,13 +7007,13 @@
 
 # sent_id = aja_ee199920_1401
 # text = c. poliitikud Konstantin Päts ja Jaan Tõnisson
-1	c.	c	NOUN	Y	Abbr=Yes	3	list	_	_
-2	poliitikud	poliitik	NOUN	S	Case=Nom|Number=Plur	0	root	_	_
-3	Konstantin	Konstantin	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
+1	c.	c	NOUN	Y	Abbr=Yes	2	list	_	_
+2	poliitikud	poliitik	NOUN	S	Case=Nom|Number=Plur	3	nmod	_	_
+3	Konstantin	Konstantin	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
 4	Päts	Päts	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
-5	ja	ja	CCONJ	J	_	3	cc	_	ToDo=cc-without-conj
+5	ja	ja	CCONJ	J	_	7	cc	_	ToDo=cc-without-conj
 6	Jaan	Jaan	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
-7	Tõnisson	Tõnisson	PROPN	S	Case=Nom|Number=Sing	2	conj	_	ManualCheck=Conj
+7	Tõnisson	Tõnisson	PROPN	S	Case=Nom|Number=Sing	3	conj	_	ManualCheck=Conj
 
 # sent_id = aja_ee199920_1402
 # text = d. estoonlased August Michelson ja Erika Tetzki
