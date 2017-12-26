@@ -2189,7 +2189,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 7	poliitikud	poliitik	NOUN	S	Case=Nom|Number=Plur	4	nsubj	_	_
 8	Edgar	Edgar	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
 9	Savisaar	Savi_saar	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
-10	ja	ja	CCONJ	J	_	8	cc	_	ToDo=cc-without-conj
+10	ja	ja	CCONJ	J	_	12	cc	_	ToDo=cc-without-conj
 11	Kristiina	Kristiina	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
 12	Ojuland	Ojuland	PROPN	S	Case=Nom|Number=Sing	7	conj	_	ManualCheck=Conj|SpaceAfter=No
 13	,	,	PUNCT	Z	_	8	punct	_	_
@@ -2200,7 +2200,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 18	mõtleja	mõtleja	NOUN	S	Case=Nom|Number=Sing	7	conj	_	ManualCheck=Conj
 19	Andrei	Andrei	PROPN	S	Case=Nom|Number=Sing	18	appos	_	_
 20	Hvostov	Hvostov	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
-21	ning	ning	CCONJ	J	_	8	cc	_	ToDo=cc-without-conj
+21	ning	ning	CCONJ	J	_	22	cc	_	ToDo=cc-without-conj
 22	ajakirjanik	aja_kirjanik	NOUN	S	Case=Nom|Number=Sing	7	conj	_	ManualCheck=Conj
 23	Paavo	Paavo	PROPN	S	Case=Nom|Number=Sing	22	appos	_	_
 24	Kangur	Kangur	PROPN	S	Case=Nom|Number=Sing	23	flat	_	SpaceAfter=No
