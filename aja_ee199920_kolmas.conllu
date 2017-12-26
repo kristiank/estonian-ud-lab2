@@ -972,7 +972,7 @@
 4	nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 5	tellinud	tellima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	SpaceAfter=No
-7	,	,	PUNCT	Z	_	5	punct	_	ToDo=punct-in-coord
+7	,	,	PUNCT	Z	_	9	punct	_	ToDo=punct-in-coord
 8	ainult	ainult	ADV	D	_	9	advmod	_	_
 9	need	see	PRON	P	Case=Nom|Number=Plur|PronType=Dem	19	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	15	punct	_	_
