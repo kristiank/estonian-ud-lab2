@@ -5826,9 +5826,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 12	sügisel	sügis	NOUN	S	Case=Ade|Number=Sing	9	obl	_	_
 13	vennad	vend	NOUN	S	Case=Nom|Number=Plur	19	nmod	_	ManualCheck=Appos
 14	Jaan	Jaan	PROPN	S	Case=Nom|Number=Sing	13	appos	_	SpaceAfter=No
-15	,	,	PUNCT	Z	_	14	punct	_	_
+15	,	,	PUNCT	Z	_	16	punct	_	_
 16	Priit	Priit	PROPN	S	Case=Nom|Number=Sing	13	conj	_	ManualCheck=Conj
-17	ja	ja	CCONJ	J	_	14	cc	_	ToDo=cc-without-conj
+17	ja	ja	CCONJ	J	_	18	cc	_	ToDo=cc-without-conj
 18	Teet	Teet	PROPN	S	Case=Nom|Number=Sing	13	conj	_	ManualCheck=Conj
 19	Jagomägi	Jagomägi	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
 20	ning	ning	CCONJ	J	_	22	cc	_	_
