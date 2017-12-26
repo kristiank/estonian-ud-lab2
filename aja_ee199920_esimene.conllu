@@ -984,16 +984,16 @@
 11	kirjas	kirjas	ADV	D	_	10	advmod	_	_
 12	without	without	NOUN	S	Case=Nom|Number=Sing	10	nsubj	_	_
 13	name	name	NOUN	S	Case=Nom|Number=Sing	12	appos	_	SpaceAfter=No
-14	,	,	PUNCT	Z	_	13	punct	_	_
+14	,	,	PUNCT	Z	_	15	punct	_	_
 15	without	without	NOUN	S	Case=Nom|Number=Sing	12	conj	_	ManualCheck=Conj
 16	address	address	NOUN	S	Case=Nom|Number=Sing	15	appos	_	_
-17	ehk	ehk	CCONJ	J	_	13	cc	_	ToDo=cc-without-conj
-18	"	"	PUNCT	Z	_	22	punct	_	SpaceAfter=No
+17	ehk	ehk	CCONJ	J	_	20	cc	_	ToDo=cc-without-conj
+18	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 19	ilma	ilma	ADP	K	AdpType=Prep	20	case	_	_
-20	nime	nimi	NOUN	S	Case=Gen|Number=Sing	12	conj	_	ManualCheck=Conj
-21	ja	ja	CCONJ	J	_	13	cc	_	ToDo=cc-without-conj
-22	aadressita	aadress	NOUN	S	Case=Abe|Number=Sing	12	conj	_	ManualCheck=Conj|SpaceAfter=No
-23	"	"	PUNCT	Z	_	22	punct	_	SpaceAfter=No
+20	nime	nimi	NOUN	S	Case=Gen|Number=Sing	12	parataxis	_	ManualCheck=Conj
+21	ja	ja	CCONJ	J	_	22	cc	_	ToDo=cc-without-conj
+22	aadressita	aadress	NOUN	S	Case=Abe|Number=Sing	20	conj	_	ManualCheck=Conj|SpaceAfter=No
+23	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 24	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_57
