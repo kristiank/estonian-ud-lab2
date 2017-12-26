@@ -5303,7 +5303,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # text = Kultuursus (või selle puudumine) pärineb juba kodust, ja kui õiget kodu ei ole, siis pole ka midagi oodata-loota.
 1	Kultuursus	kultuur=sus	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
 2	(	(	PUNCT	Z	_	5	punct	_	SpaceAfter=No
-3	või	või	CCONJ	J	_	1	cc	_	ToDo=cc-without-conj
+3	või	või	CCONJ	J	_	5	cc	_	ToDo=cc-without-conj
 4	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	5	nmod	_	_
 5	puudumine	puudumine	NOUN	S	Case=Nom|Number=Sing	1	parataxis	_	SpaceAfter=No
 6	)	)	PUNCT	Z	_	5	punct	_	_
@@ -5311,7 +5311,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 8	juba	juba	ADV	D	_	7	advmod	_	_
 9	kodust	kodu	NOUN	S	Case=Ela|Number=Sing	7	obl	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	7	punct	_	ToDo=punct-in-coord
-11	ja	ja	CCONJ	J	_	7	cc	_	ToDo=cc-in-coord
+11	ja	ja	CCONJ	J	_	19	cc	_	ToDo=cc-in-coord
 12	kui	kui	SCONJ	J	_	16	mark	_	_
 13	õiget	õige	ADJ	A	Case=Par|Degree=Pos|Number=Sing	14	amod	_	_
 14	kodu	kodu	NOUN	S	Case=Par|Number=Sing	16	nsubj	_	_
