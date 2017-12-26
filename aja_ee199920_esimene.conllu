@@ -499,7 +499,7 @@
 14	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	13	aux	_	_
 15	tohi	tohtima	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
 16	(	(	PUNCT	Z	_	19	punct	_	SpaceAfter=No
-17	kuid	kuid	CCONJ	J	_	13	cc	_	ToDo=cc-without-conj
+17	kuid	kuid	CCONJ	J	_	19	cc	_	ToDo=cc-without-conj
 18	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	19	obj	_	_
 19	praktiseeris	praktiseerima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	parataxis	_	_
 20	sellegipoolest	sellegi_poolest	ADV	D	_	19	advmod	_	_
