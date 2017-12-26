@@ -2343,7 +2343,7 @@
 9	lõpul	lõpp	NOUN	S	Case=Ade|Number=Sing	11	obl	_	_
 10	valmis	valmis	ADV	D	_	11	advmod	_	_
 11	said	saama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	SpaceAfter=No
-12	,	,	PUNCT	Z	_	2	punct	_	ToDo=punct-in-coord
+12	,	,	PUNCT	Z	_	11	punct	_	ToDo=punct-in-coord
 13	New	New	PROPN	S	Case=Add|Number=Sing	2	obl	_	_
 14	Yorki	York	PROPN	S	Case=Add|Number=Sing	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	17	punct	_	_
