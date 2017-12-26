@@ -6113,7 +6113,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 7	ärimeestele	äri_mees	NOUN	S	Case=All|Number=Plur	5	obl	_	ToDo=nmod
 8	Jaan	Jaan	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
 9	Mugrale	Mugra	PROPN	S	Case=All|Number=Sing	8	flat	_	_
-10	ja	ja	CCONJ	J	_	8	cc	_	ToDo=cc-without-conj
+10	ja	ja	CCONJ	J	_	12	cc	_	ToDo=cc-without-conj
 11	Andres	Andres	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
 12	Maserile	Maser	PROPN	S	Case=All|Number=Sing	7	conj	_	ManualCheck=Conj|SpaceAfter=No
 13	,	,	PUNCT	Z	_	19	punct	_	_
@@ -6131,7 +6131,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 25	mõtlesid	mõtlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	conj	_	_
 26	aga	aga	CCONJ	J	_	19	cc	_	ToDo=cc-in-coord
 27	ümber	ümber	ADV	D	_	25	compound:prt	_	_
-28	ja	ja	CCONJ	J	_	19	cc	_	ToDo=cc-in-coord
+28	ja	ja	CCONJ	J	_	35	cc	_	ToDo=cc-in-coord
 29	et	et	SCONJ	J	_	33	mark	_	_
 30	aktsiad	aktsia	NOUN	S	Case=Nom|Number=Plur	33	nsubj:cop	_	_
 31	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	33	cop	_	_
