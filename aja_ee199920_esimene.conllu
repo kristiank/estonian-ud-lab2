@@ -5412,7 +5412,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_338
 # text = Heal juhul aitab patukahetsus karistust kergendada, pätt aga irvitab rõõmsalt ja haub kättemaksu, mis kindlasti tulemata ei jää.
 1	Heal	hea	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	2	amod	_	_
-2	juhul	juht	NOUN	S	Case=Ade|Number=Sing	6	obl	_	_
+2	juhul	juht	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
 3	aitab	aitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	patukahetsus	patu_kahetsus	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
 5	karistust	karistus	NOUN	S	Case=Par|Number=Sing	6	obj	_	_
