@@ -296,7 +296,7 @@
 11	et	et	SCONJ	J	_	18	mark	_	_
 12	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
 13	pankade	pank	NOUN	S	Case=Gen|Number=Plur	18	obl	_	SpaceAfter=No
-14	,	,	PUNCT	Z	_	18	punct	_	_
+14	,	,	PUNCT	Z	_	13	punct	_	_
 15	sealhulgas	seal_hulgas	ADV	D	_	16	advmod	_	_
 16	Hansapanga	Hansa_pank	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
 17	kaudu	kaudu	ADP	K	AdpType=Post	13	case	_	_
