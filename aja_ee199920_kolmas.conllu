@@ -470,7 +470,7 @@
 12	jäänud	jääma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 13	maapealne	maa_pealne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 14	ring	ring	NOUN	S	Case=Nom|Number=Sing	12	nsubj	_	SpaceAfter=No
-15	.	.	PUNCT	Z	_	4	punct	_	_
+15	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_1008
 # text = Nüüd mängib Oll vaimuderiigis, võib-olla Morphy, Alehhini, Botvinniku endaga.
