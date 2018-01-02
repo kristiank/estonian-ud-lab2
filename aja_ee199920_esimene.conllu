@@ -336,10 +336,10 @@
 4	tehing	tehing	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	_
 5	seondub	seonduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	Zürichis	Zürich	PROPN	S	Case=Ine|Number=Sing	7	obl	_	_
-7	asuva	asuv	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
-8	Cantrade	Cantrade	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
-9	Private	Private	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
-10	Bankiga	Bank	PROPN	S	Case=Com|Number=Sing	5	obl	_	SpaceAfter=No
+7	asuva	asuv	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	Cantrade	Cantrade	PROPN	S	Case=Nom|Number=Sing	5	obl	_	_
+9	Private	Private	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
+10	Bankiga	Bank	PROPN	S	Case=Com|Number=Sing	8	flat	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_22
