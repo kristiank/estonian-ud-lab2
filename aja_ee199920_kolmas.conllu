@@ -4204,8 +4204,8 @@
 1	Linnaosa	linna_osa	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	planeering	planeering	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
 3	valmis	valmima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	Arnold	Arnold	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
-5	Matteusel	Matteus	PROPN	S	Case=Ade|Number=Sing	3	obl	_	_
+4	Arnold	Arnold	PROPN	S	Case=Nom|Number=Sing	3	obl	_	_
+5	Matteusel	Matteus	PROPN	S	Case=Ade|Number=Sing	4	flat	_	_
 6	1929.	1929.	ADJ	N	Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	_
 7	aastal	aasta	NOUN	S	Case=Ade|Number=Sing	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	Z	_	3	punct	_	_
