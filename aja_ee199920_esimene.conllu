@@ -6524,16 +6524,16 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_399
 # text = IMG Investeeringukontrolli juhataja Margus Maspanovi sõnul osteti Feeri osalus Väike-Munamäest lühiajalise investeeringuna, eesmärk on aktsiad kiiresti edasi müüa.
-1	IMG	IMG	PROPN	Y	Abbr=Yes	7	list	_	_
-2	Investeeringukontrolli	investeeringu_kontroll	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	_
+1	IMG	IMG	PROPN	Y	Abbr=Yes	3	nmod	_	_
+2	Investeeringukontrolli	investeeringu_kontroll	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	juhataja	juhataja	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
-4	Margus	Margus	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
-5	Maspanovi	Maspanov	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	_
+4	Margus	Margus	PROPN	S	Case=Nom|Number=Sing	3	appos	_	_
+5	Maspanovi	Maspanov	PROPN	S	Case=Gen|Number=Sing	4	flat	_	_
 6	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	7	obl	_	_
 7	osteti	ostma	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 8	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 9	osalus	osalus	NOUN	S	Case=Nom|Number=Sing	7	appos	_	_
-10	Väike-Munamäest	Väike-Muna_mägi	PROPN	S	Case=Ela|Number=Sing	9	nmod	_	_
+10	Väike-Munamäest	Väike-Muna_mägi	PROPN	S	Case=Ela|Number=Sing	7	obl	_	_
 11	lühiajalise	lühi_ajaline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	12	amod	_	_
 12	investeeringuna	investeering	NOUN	S	Case=Ess|Number=Sing	7	obl	_	SpaceAfter=No
 13	,	,	PUNCT	Z	_	7	punct	_	_
