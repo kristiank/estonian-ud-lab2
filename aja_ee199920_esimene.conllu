@@ -6768,7 +6768,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 4	mäge	mägi	NOUN	S	Case=Par|Number=Sing	5	obj	_	_
 5	vaatamas	vaatama	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	3	xcomp	_	_
 6	ka	ka	ADV	D	_	3	advmod	_	_
-7	näiteks	näiteks	ADV	D	_	9	advmod	_	_
+7	näiteks	näiteks	ADV	D	_	8	advmod	_	_
 8	ärimees	äri_mees	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
 9	Rein	Rein	PROPN	S	Case=Nom|Number=Sing	8	appos	_	_
 10	Kilk	Kilk	PROPN	S	Case=Nom|Number=Sing	9	flat	_	SpaceAfter=No
