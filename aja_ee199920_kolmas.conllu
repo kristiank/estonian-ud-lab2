@@ -715,10 +715,10 @@
 3	paekivist	pae_kivi	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	ToDo=nmod
 4	kabel	kabe	NOUN	S	Case=Ade|Number=Sing	0	root	_	_
 5	1935/1936	1935/1936	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	_
-6	(	(	PUNCT	Z	_	8	punct	_	SpaceAfter=No
-7	H.	H.	PROPN	Y	Abbr=Yes	8	flat	_	ManualCheck=Appos
-8	Johanson	Johanson	PROPN	S	Case=Nom|Number=Sing	2	parataxis	_	SpaceAfter=No
-9	)	)	PUNCT	Z	_	8	punct	_	_
+6	(	(	PUNCT	Z	_	7	punct	_	SpaceAfter=No
+7	H.	H.	PROPN	Y	Abbr=Yes	2	parataxis	_	ManualCheck=Appos
+8	Johanson	Johanson	PROPN	S	Case=Nom|Number=Sing	7	flat	_	SpaceAfter=No
+9	)	)	PUNCT	Z	_	7	punct	_	_
 
 # sent_id = aja_ee199920_1025
 # text = Ainsad monumendid:
