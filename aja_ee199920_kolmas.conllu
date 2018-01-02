@@ -4096,9 +4096,9 @@
 21	selgitab	selgitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 22	Rootsi	Rootsi	PROPN	S	Case=Gen|Number=Sing	24	nmod	_	_
 23	suure	suur	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	24	amod	_	_
-24	reklaamifirma	reklaami_firma	NOUN	S	Case=Gen|Number=Sing	26	nmod	_	ManualCheck=Appos
-25	Lowe	Lowe	PROPN	S	Case=Nom|Number=Sing	26	flat	_	_
-26	Brindforsi	Brindfors	PROPN	S	Case=Gen|Number=Sing	27	nmod	_	_
+24	reklaamifirma	reklaami_firma	NOUN	S	Case=Gen|Number=Sing	27	nmod	_	ManualCheck=Appos
+25	Lowe	Lowe	PROPN	S	Case=Nom|Number=Sing	24	appos	_	_
+26	Brindforsi	Brindfors	PROPN	S	Case=Gen|Number=Sing	25	flat	_	_
 27	president	president	NOUN	S	Case=Nom|Number=Sing	21	nsubj	_	_
 28	Bjorn	Bjorn	PROPN	S	Case=Nom|Number=Sing	27	appos	_	_
 29	Larsson	Larsson	PROPN	S	Case=Nom|Number=Sing	28	flat	_	SpaceAfter=No
