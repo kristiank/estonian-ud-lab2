@@ -2215,11 +2215,11 @@ NaN	undefined	_	_	_	_	_	_	_	_
 5	eesti	eesti	ADJ	G	_	6	amod	_	_
 6	keeles	keel	NOUN	S	Case=Ine|Number=Sing	7	obl	_	_
 7	ilmunud	ilmu=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	13	acl	_	_
-8	Hans-Peter	Hans-Peter	PROPN	S	Case=Nom|Number=Sing	9	flat	_	_
-9	Martini	Martin	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
-10	ja	ja	CCONJ	J	_	12	cc	_	_
-11	Harald	Harald	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
-12	Schumanni	Schumann	PROPN	S	Case=Gen|Number=Sing	9	conj	_	_
+8	Hans-Peter	Hans-Peter	PROPN	S	Case=Nom|Number=Sing	13	nmod	_	_
+9	Martini	Martin	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
+10	ja	ja	CCONJ	J	_	11	cc	_	_
+11	Harald	Harald	PROPN	S	Case=Nom|Number=Sing	8	conj	_	_
+12	Schumanni	Schumann	PROPN	S	Case=Gen|Number=Sing	11	flat	_	_
 13	raamat	raamat	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
 14	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
 15	Globaliseerumislõks	globaliseerumis_lõks	NOUN	S	Case=Nom|Number=Sing	13	appos	_	ManualCheck=Noun|SpaceAfter=No
