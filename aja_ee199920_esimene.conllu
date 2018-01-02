@@ -4461,7 +4461,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 5	tüüpi	tüüp	NOUN	S	Case=Par|Number=Sing	3	obj	_	_
 6	ameerika	ameerika	ADJ	G	_	7	amod	_	_
 7	poistebändi	poiste_bänd	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
-8	imagost	imago	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	SpaceAfter=No
+8	imagost	imago	NOUN	S	Case=Ela|Number=Sing	5	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	Z	_	15	punct	_	_
 10	kus	kus	ADV	D	_	15	mark	_	_
 11	üks	üks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	15	nsubj:cop	_	_
@@ -4472,11 +4472,11 @@ NaN	undefined	_	_	_	_	_	_	_	_
 16	,	,	PUNCT	Z	_	18	punct	_	_
 17	teine	teine	ADJ	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord	18	nsubj:cop	_	_
 18	latiino	latiino	NOUN	S	Case=Nom|Number=Sing	15	conj	_	SpaceAfter=No
-19	,	,	PUNCT	Z	_	21	punct	_	_
+19	,	,	PUNCT	Z	_	23	punct	_	_
 20	kolmas	kolmas	ADJ	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord	23	nsubj:cop	_	_
-21	blond	blond	NOUN	S	Case=Nom|Number=Sing	15	conj	_	_
+21	blond	blond	NOUN	S	Case=Nom|Number=Sing	23	amod	_	_
 22	puhastverd	puhast_verd	ADJ	A	Degree=Pos	23	amod	_	_
-23	aarialane	aarialane	NOUN	S	Case=Nom|Number=Sing	21	appos	_	_
+23	aarialane	aarialane	NOUN	S	Case=Nom|Number=Sing	15	conj	_	_
 24	jne	jne	ADV	Y	Abbr=Yes	15	nmod	_	SpaceAfter=No|ToDo=nmod
 25	.	.	PUNCT	Z	_	3	punct	_	_
 
