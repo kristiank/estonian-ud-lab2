@@ -163,8 +163,8 @@
 
 # sent_id = aja_ee199920_994
 # text = Lembit Oll tegi oma viimase käigu ööhämaruse varjus.
-1	Lembit	Lembit	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Oll	Oll	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+1	Lembit	Lembit	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+2	Oll	Oll	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	tegi	tegema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	oma	oma	PRON	P	Case=Gen|Degree=Pos|Number=Sing|PronType=Prs	6	nmod	_	_
 5	viimase	viimane	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	_
