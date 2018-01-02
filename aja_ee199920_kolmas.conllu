@@ -7001,9 +7001,9 @@
 2	muusikud	muusik	NOUN	S	Case=Nom|Number=Plur	3	nmod	_	_
 3	Koit	Koit	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
 4	Toome	Toome	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
-5	ja	ja	CCONJ	J	_	7	cc	_	ToDo=cc-without-conj
-6	Maarja-Liis	Maarja-Liis	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
-7	Ilus	Ilus	PROPN	S	Case=Nom|Number=Sing	3	conj	_	ManualCheck=Conj
+5	ja	ja	CCONJ	J	_	6	cc	_	ToDo=cc-without-conj
+6	Maarja-Liis	Maarja-Liis	PROPN	S	Case=Nom|Number=Sing	3	conj	_	_
+7	Ilus	Ilus	PROPN	S	Case=Nom|Number=Sing	6	flat	_	ManualCheck=Conj
 
 # sent_id = aja_ee199920_1401
 # text = c. poliitikud Konstantin Päts ja Jaan Tõnisson
