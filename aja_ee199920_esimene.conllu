@@ -7421,10 +7421,10 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_453
 # text = Ainuke firma, mille USA infoteenistus leidis ja mille nimi enim sarnane Hain Karu poolt öeldule, on Trans Global Real Estate Investment Corp.
 1	Ainuke	ainuke	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
-2	firma	firma	NOUN	S	Case=Nom|Number=Sing	24	nsubj:cop	_	SpaceAfter=No
+2	firma	firma	NOUN	S	Case=Nom|Number=Sing	19	nsubj:cop	_	SpaceAfter=No
 3	,	,	PUNCT	Z	_	7	punct	_	_
 4	mille	mis	PRON	P	Case=Gen|Number=Sing|PronType=Int,Rel	7	obj	_	_
-5	USA	USA	PROPN	Y	Abbr=Yes	7	obl	_	_
+5	USA	USA	PROPN	Y	Abbr=Yes	6	nmod	_	_
 6	infoteenistus	info_teenistus	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
 7	leidis	leidma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 8	ja	ja	CCONJ	J	_	12	cc	_	_
@@ -7432,19 +7432,19 @@ NaN	undefined	_	_	_	_	_	_	_	_
 10	nimi	nimi	NOUN	S	Case=Nom|Number=Sing	12	nsubj:cop	_	_
 11	enim	enim	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	12	amod	_	_
 12	sarnane	sarnane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	conj	_	_
-13	Hain	Hain	PROPN	S	Case=Nom|Number=Sing	14	flat	_	_
-14	Karu	Karu	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	_
-15	poolt	poolt	ADP	K	AdpType=Post	14	case	_	_
+13	Hain	Hain	PROPN	S	Case=Nom|Number=Sing	16	nmod	_	_
+14	Karu	Karu	PROPN	S	Case=Gen|Number=Sing	13	flat	_	_
+15	poolt	poolt	ADP	K	AdpType=Post	13	case	_	_
 16	öeldule	öeldu	NOUN	S	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	obl	_	SpaceAfter=No
-17	,	,	PUNCT	Z	_	24	punct	_	_
-18	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	_
-19	Trans	Trans	PROPN	S	Case=Nom|Number=Sing	24	flat	_	_
-20	Global	Global	PROPN	S	Case=Nom|Number=Sing	24	flat	_	_
-21	Real	Real	PROPN	S	Case=Nom|Number=Sing	24	flat	_	_
-22	Estate	Estate	PROPN	S	Case=Nom|Number=Sing	24	flat	_	_
-23	Investment	Investment	PROPN	S	Case=Nom|Number=Sing	24	flat	_	_
-24	Corp	Corp	PROPN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-25	.	.	PUNCT	Z	_	24	punct	_	_
+17	,	,	PUNCT	Z	_	19	punct	_	_
+18	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	_
+19	Trans	Trans	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
+20	Global	Global	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
+21	Real	Real	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
+22	Estate	Estate	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
+23	Investment	Investment	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
+24	Corp	Corp	PROPN	S	Case=Nom|Number=Sing	19	flat	_	SpaceAfter=No
+25	.	.	PUNCT	Z	_	19	punct	_	_
 
 # sent_id = aja_ee199920_454
 # text = See firma asub aga hoopiski Clevelandis Ohio osariigis.
