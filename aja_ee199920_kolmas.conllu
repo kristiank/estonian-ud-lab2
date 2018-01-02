@@ -4041,12 +4041,12 @@
 14	,	,	PUNCT	Z	_	6	punct	_	SpaceAfter=No
 15	"	"	PUNCT	Z	_	6	punct	_	_
 16	kinnitab	kinnitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
-17	Axel	Axel	PROPN	S	Case=Nom|Number=Sing	18	flat	_	_
-18	Edling	Edling	PROPN	S	Case=Nom|Number=Sing	16	nsubj	_	SpaceAfter=No
-19	,	,	PUNCT	Z	_	16	punct	_	_
+17	Axel	Axel	PROPN	S	Case=Nom|Number=Sing	16	nsubj	_	_
+18	Edling	Edling	PROPN	S	Case=Nom|Number=Sing	17	flat	_	SpaceAfter=No
+19	,	,	PUNCT	Z	_	22	punct	_	_
 20	Rootsi	Rootsi	PROPN	S	Case=Gen|Number=Sing	21	nmod	_	_
 21	tarbijakaitse	tarbija_kaitse	NOUN	S	Case=Gen|Number=Sing	22	nmod	_	_
-22	ombutsmann	ombutsmann	NOUN	S	Case=Nom|Number=Sing	18	appos	_	_
+22	ombutsmann	ombutsmann	NOUN	S	Case=Nom|Number=Sing	17	appos	_	_
 23	ning	ning	CCONJ	J	_	26	cc	_	_
 24	valitsuse	valitsus	NOUN	S	Case=Gen|Number=Sing	25	nmod	_	_
 25	tarbijakaitseagentuuri	tarbija_kaitse_agentuur	NOUN	S	Case=Gen|Number=Sing	26	nmod	_	_
