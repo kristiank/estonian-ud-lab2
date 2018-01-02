@@ -6050,7 +6050,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 24	Tartu	Tartu	PROPN	S	Case=Gen|Number=Sing	25	nmod	_	_
 25	osakonna	osakond	NOUN	S	Case=Gen|Number=Sing	26	nmod	_	_
 26	projektijuht	projekti_juht	NOUN	S	Case=Nom|Number=Sing	20	nsubj	_	SpaceAfter=No
-27	,	,	PUNCT	Z	_	2	punct	_	_
+27	,	,	PUNCT	Z	_	29	punct	_	_
 28	soomlane	soomlane	NOUN	S	Case=Nom|Number=Sing	29	nmod	_	_
 29	Timo	Timo	PROPN	S	Case=Nom|Number=Sing	26	appos	_	_
 30	Räihä	Räihä	PROPN	S	Case=Nom|Number=Sing	29	flat	_	SpaceAfter=No
