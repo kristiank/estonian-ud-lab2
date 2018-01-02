@@ -4835,8 +4835,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_304
 # text = SIGRID HARTMAN modelliagentuuri omanik
-1	SIGRID	Sigrid	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	HARTMAN	Hartman	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
+1	SIGRID	Sigrid	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
+2	HARTMAN	Hartman	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	modelliagentuuri	modelli_agentuur	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	omanik	omanik	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 
