@@ -1178,8 +1178,8 @@
 20	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
 21	Õhtulehe	Õhtu_leht	PROPN	S	Case=Gen|Number=Sing	22	nmod	_	_
 22	toimetaja	toimetaja	NOUN	S	Case=Nom|Number=Sing	20	nsubj	_	_
-23	Rait	Rait	PROPN	S	Case=Nom|Number=Sing	24	nmod	_	ManualCheck=Appos
-24	Raidmaa	Raid_maa	PROPN	S	Case=Nom|Number=Sing	22	appos	_	SpaceAfter=No
+23	Rait	Rait	PROPN	S	Case=Nom|Number=Sing	22	appos	_	ManualCheck=Appos
+24	Raidmaa	Raid_maa	PROPN	S	Case=Nom|Number=Sing	23	flat	_	SpaceAfter=No
 25	.	.	PUNCT	Z	_	8	punct	_	_
 
 # sent_id = aja_ee199920_1047
