@@ -4403,8 +4403,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 12	,	,	PUNCT	Z	_	5	punct	_	_
 13	asub	asuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	toimetus	toimetus	NOUN	S	Case=Nom|Number=Sing	13	nsubj	_	_
-15	Tanel	Tanel	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-16	Padarit	Padar	PROPN	S	Case=Par|Number=Sing	17	obj	_	_
+15	Tanel	Tanel	PROPN	S	Case=Nom|Number=Sing	17	obj	_	_
+16	Padarit	Padar	PROPN	S	Case=Par|Number=Sing	15	flat	_	_
 17	edasi	edasi	ADV	D	_	13	advmod	_	_
 18	sarjama	sarjama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	13	xcomp	_	SpaceAfter=No
 19	,	,	PUNCT	Z	_	13	punct	_	_
