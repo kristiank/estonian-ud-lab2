@@ -2854,7 +2854,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_169
 # text = Ja kui Peret kaitsnud Tallinna Vee nõukogu esimees ja abilinnapea Ants Leemets lahkus, saabus aeg ka Pere mahavõtmiseks, " ütleb Väli.
-1	Ja	ja	CCONJ	J	_	15	cc	_	_
+1	Ja	ja	CCONJ	J	_	13	cc	_	_
 2	kui	kui	SCONJ	J	_	13	mark	_	_
 3	Peret	Pere	PROPN	S	Case=Par|Number=Sing	4	obj	_	_
 4	kaitsnud	kaits=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
@@ -2873,8 +2873,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 17	ka	ka	ADV	D	_	18	advmod	_	_
 18	Pere	Pere	PROPN	S	Case=Gen|Number=Sing	19	nmod	_	_
 19	mahavõtmiseks	maha_võtmine	NOUN	S	Case=Tra|Number=Sing	15	obl	_	SpaceAfter=No
-20	,	,	PUNCT	Z	_	13	punct	_	_
-21	"	"	PUNCT	Z	_	13	punct	_	_
+20	,	,	PUNCT	Z	_	15	punct	_	_
+21	"	"	PUNCT	Z	_	15	punct	_	_
 22	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	parataxis	_	_
 23	Väli	Väli	PROPN	S	Case=Nom|Number=Sing	22	nsubj	_	SpaceAfter=No
 24	.	.	PUNCT	Z	_	15	punct	_	_
