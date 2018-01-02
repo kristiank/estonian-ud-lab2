@@ -2584,9 +2584,9 @@
 25	,	,	PUNCT	Z	_	32	punct	_	_
 26	"	"	PUNCT	Z	_	32	punct	_	SpaceAfter=No
 27	mida	mis	PRON	P	Case=Par|Number=Plur|PronType=Int,Rel	33	obj	_	_
-28	isegi	isegi	ADV	D	_	30	advmod	_	_
-29	Forrest	Forrest	PROPN	S	Case=Nom|Number=Sing	30	flat	_	_
-30	Gump	Gump	PROPN	S	Case=Nom|Number=Sing	32	nsubj	_	_
+28	isegi	isegi	ADV	D	_	29	advmod	_	_
+29	Forrest	Forrest	PROPN	S	Case=Nom|Number=Sing	32	nsubj	_	_
+30	Gump	Gump	PROPN	S	Case=Nom|Number=Sing	29	flat	_	_
 31	oleks	olema	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	32	aux	_	_
 32	häbenenud	häbenema	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	24	parataxis	_	_
 33	kanda	kandma	VERB	V	VerbForm=Inf	32	xcomp	_	SpaceAfter=No
