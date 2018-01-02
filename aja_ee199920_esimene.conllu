@@ -1468,8 +1468,8 @@
 3	läheb	minema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Islandile	Island	PROPN	S	Case=All|Number=Sing	3	obl	_	_
 5	uurima	uurima	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	3	xcomp	_	_
-6	Evald	Evald	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
-7	Miksonist	Mikson	PROPN	S	Case=Ela|Number=Sing	8	obl	_	_
+6	Evald	Evald	PROPN	S	Case=Nom|Number=Sing	8	obl	_	_
+7	Miksonist	Mikson	PROPN	S	Case=Ela|Number=Sing	6	flat	_	_
 8	mahajäänud	maha_jäänud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	_
 9	pabereid	paber	NOUN	S	Case=Par|Number=Plur	3	obj	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	15	punct	_	_
