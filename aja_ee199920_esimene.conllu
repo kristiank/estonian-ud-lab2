@@ -2660,12 +2660,12 @@ NaN	undefined	_	_	_	_	_	_	_	_
 11	tahtis	tahtma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 12	Pere	Pere	PROPN	S	Case=Nom|Number=Sing	11	nsubj	_	_
 13	kasutada	kasutama	VERB	V	VerbForm=Inf	11	xcomp	_	_
-14	Balti	Balti	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
-15	Cresco	Cresco	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	_
+14	Balti	Balti	PROPN	S	Case=Nom|Number=Sing	16	nmod	_	_
+15	Cresco	Cresco	PROPN	S	Case=Gen|Number=Sing	14	flat	_	_
 16	teenuseid	teenus	NOUN	S	Case=Par|Number=Plur	13	obj	_	_
-17	või	või	CCONJ	J	_	19	cc	_	_
-18	Hansa	Hansa	PROPN	S	Case=Gen|Number=Sing	19	flat	_	ManualCheck=Appos
-19	Investmenti	Invest_ment	PROPN	S	Case=Par|Number=Sing	16	conj	_	SpaceAfter=No
+17	või	või	CCONJ	J	_	18	cc	_	_
+18	Hansa	Hansa	PROPN	S	Case=Gen|Number=Sing	16	conj	_	ManualCheck=Appos
+19	Investmenti	Invest_ment	PROPN	S	Case=Par|Number=Sing	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	Z	_	26	punct	_	_
 21	Savisaar	Savi_saar	PROPN	S	Case=Nom|Number=Sing	26	nsubj:cop	_	_
 22	aga	aga	CCONJ	J	_	26	cc	_	_
