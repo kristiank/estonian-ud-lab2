@@ -8292,11 +8292,11 @@
 3	töötanud	töötama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	paljudega	palju	PRON	P	Case=Com|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	3	punct	_	_
-6	Brian	Brian	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
-7	Eno	Eno	PROPN	S	Case=Gen|Number=Sing	3	obl	_	_
-8	ja	ja	CCONJ	J	_	10	cc	_	_
-9	Philip	Philip	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
-10	Glassiga	Glass	PROPN	S	Case=Com|Number=Sing	7	conj	_	_
-11	ka	ka	ADV	D	_	10	advmod	_	SpaceAfter=No
+6	Brian	Brian	PROPN	S	Case=Nom|Number=Sing	3	obl	_	_
+7	Eno	Eno	PROPN	S	Case=Gen|Number=Sing	6	flat	_	_
+8	ja	ja	CCONJ	J	_	9	cc	_	_
+9	Philip	Philip	PROPN	S	Case=Nom|Number=Sing	6	conj	_	_
+10	Glassiga	Glass	PROPN	S	Case=Com|Number=Sing	9	flat	_	_
+11	ka	ka	ADV	D	_	9	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	Z	_	3	punct	_	_
 
