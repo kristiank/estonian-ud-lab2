@@ -5811,27 +5811,27 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_358
 # text = Suusakeskust ehitava AS Väike-Munamäe Arenduse (VMA) lõid 1996. aasta sügisel vennad Jaan, Priit ja Teet Jagomägi ning Aare Tamme.
 1	Suusakeskust	suusa_keskus	NOUN	S	Case=Par|Number=Sing	2	obj	_	_
-2	ehitava	ehitav	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
-3	AS	AS	PROPN	Y	Abbr=Yes	5	flat	_	ManualCheck=Appos
-4	Väike-Munamäe	Väike-Muna_mägi	PROPN	S	Case=Gen|Number=Sing	5	flat	_	ManualCheck=Appos
-5	Arenduse	Arendus	PROPN	S	Case=Gen|Number=Sing	9	obj	_	_
+2	ehitava	ehitav	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+3	AS	AS	PROPN	Y	Abbr=Yes	9	obj	_	ManualCheck=Appos
+4	Väike-Munamäe	Väike-Muna_mägi	PROPN	S	Case=Gen|Number=Sing	3	flat	_	ManualCheck=Appos
+5	Arenduse	Arendus	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 6	(	(	PUNCT	Z	_	7	punct	_	SpaceAfter=No
-7	VMA	VMA	PROPN	Y	Abbr=Yes	5	appos	_	SpaceAfter=No
+7	VMA	VMA	PROPN	Y	Abbr=Yes	3	appos	_	SpaceAfter=No
 8	)	)	PUNCT	Z	_	7	punct	_	_
 9	lõid	looma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 10	1996.	1996.	ADJ	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Ord	11	amod	_	_
 11	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
 12	sügisel	sügis	NOUN	S	Case=Ade|Number=Sing	9	obl	_	_
-13	vennad	vend	NOUN	S	Case=Nom|Number=Plur	19	nmod	_	ManualCheck=Appos
+13	vennad	vend	NOUN	S	Case=Nom|Number=Plur	9	nsubj	_	ManualCheck=Appos
 14	Jaan	Jaan	PROPN	S	Case=Nom|Number=Sing	13	appos	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	16	punct	_	_
-16	Priit	Priit	PROPN	S	Case=Nom|Number=Sing	13	conj	_	ManualCheck=Conj
+16	Priit	Priit	PROPN	S	Case=Nom|Number=Sing	14	conj	_	ManualCheck=Conj
 17	ja	ja	CCONJ	J	_	18	cc	_	ToDo=cc-without-conj
-18	Teet	Teet	PROPN	S	Case=Nom|Number=Sing	13	conj	_	ManualCheck=Conj
-19	Jagomägi	Jagomägi	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
-20	ning	ning	CCONJ	J	_	22	cc	_	_
-21	Aare	Aare	PROPN	S	Case=Nom|Number=Sing	22	flat	_	_
-22	Tamme	Tamme	PROPN	S	Case=Nom|Number=Sing	19	conj	_	SpaceAfter=No
+18	Teet	Teet	PROPN	S	Case=Nom|Number=Sing	14	conj	_	ManualCheck=Conj
+19	Jagomägi	Jagomägi	PROPN	S	Case=Nom|Number=Sing	18	flat	_	_
+20	ning	ning	CCONJ	J	_	21	cc	_	_
+21	Aare	Aare	PROPN	S	Case=Nom|Number=Sing	13	conj	_	_
+22	Tamme	Tamme	PROPN	S	Case=Nom|Number=Sing	21	flat	_	SpaceAfter=No
 23	.	.	PUNCT	Z	_	9	punct	_	_
 
 # sent_id = aja_ee199920_359
