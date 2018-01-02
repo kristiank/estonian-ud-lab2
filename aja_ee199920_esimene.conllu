@@ -6204,8 +6204,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_381
 # text = AS Feeri praegune tegevdirektor Roland Mäll: " Enamuspaki ostmine oli vältimatu tegu.
-1	AS	AS	PROPN	Y	Abbr=Yes	2	flat	_	ManualCheck=Appos
-2	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
+1	AS	AS	PROPN	Y	Abbr=Yes	4	nmod	_	ManualCheck=Appos
+2	Feeri	Feer	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	praegune	praegune	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	tegevdirektor	tegev_direktor	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 5	Roland	Roland	PROPN	S	Case=Nom|Number=Sing	4	appos	_	_
