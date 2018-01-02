@@ -4938,10 +4938,10 @@
 
 # sent_id = aja_ee199920_1255
 # text = C. R. Jakobsoni 7
-1	C.	C.	PROPN	Y	Abbr=Yes	4	nmod	_	_
-2	R.	R.	PROPN	Y	Abbr=Yes	4	nmod	_	_
-3	Jakobsoni	Jakobsoni	PROPN	S	Case=Nom|Number=Sing	4	nmod	_	_
-4	7	7	NUM	N	NumForm=Digit|NumType=Card	0	root	_	_
+1	C.	C.	PROPN	Y	Abbr=Yes	_	_	_	_
+2	R.	R.	PROPN	Y	Abbr=Yes	1	flat	_	_
+3	Jakobsoni	Jakobsoni	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
+4	7	7	NUM	N	NumForm=Digit|NumType=Card	1	nummod	_	_
 
 # sent_id = aja_ee199920_1256
 # text = Hoones käib kapitaalremont.
