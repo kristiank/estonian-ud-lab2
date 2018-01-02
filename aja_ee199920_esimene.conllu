@@ -2401,9 +2401,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_140
 # text = Enno Pere:
-1	Enno	Enno	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Pere	Pere	PROPN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	Z	_	2	punct	_	_
+1	Enno	Enno	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
+2	Pere	Pere	PROPN	S	Case=Nom|Number=Sing	1	flat	_	SpaceAfter=No
+3	:	:	PUNCT	Z	_	1	punct	_	_
 
 # sent_id = aja_ee199920_141
 # text = Sündinud 1938 Tallinnas.
@@ -2433,10 +2433,10 @@ NaN	undefined	_	_	_	_	_	_	_	_
 1	Töötanud	töötama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	juhtivatel	juhtiv	ADJ	A	Case=Ade|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
 3	ametikohtadel	ameti_koht	NOUN	S	Case=Ade|Number=Plur	9	nmod	_	_
-4	Maardu	Maardu	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
+4	Maardu	Maardu	PROPN	S	Case=Nom|Number=Sing	5	nmod	_	_
 5	Keemiakombinaadi	Keemia_kombinaat	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 6	ja	ja	CCONJ	J	_	8	cc	_	_
-7	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	8	flat	_	ManualCheck=Appos
+7	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	8	nmod	_	ManualCheck=Appos
 8	Veepuhastusjaama	Vee_puhastus_jaam	PROPN	S	Case=Gen|Number=Sing	5	conj	_	_
 9	ehitusel	ehitus	NOUN	S	Case=Ade|Number=Sing	1	obl	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	12	punct	_	_
@@ -2445,7 +2445,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 13	,	,	PUNCT	Z	_	14	punct	_	_
 14	Ehituskomitees	Ehitus_komitee	PROPN	S	Case=Ine|Number=Sing	9	conj	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	17	punct	_	_
-16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	flat	_	ManualCheck=Appos
+16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	nmod	_	ManualCheck=Appos
 17	Sadamas	Sadam	PROPN	S	Case=Ine|Number=Sing	9	conj	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	1	punct	_	_
 
