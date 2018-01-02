@@ -5468,8 +5468,8 @@
 12	istunud	istu=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	14	acl	_	_
 13	teise	teine	PRON	P	Case=Gen|Number=Sing|PronType=Dem	14	det	_	_
 14	väravavahi	värava_vaht	NOUN	S	Case=Gen|Number=Sing	5	obj	_	ManualCheck=Appos
-15	Robert	Robert	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-16	Cechmaneki	Cechmanek	PROPN	S	Case=Gen|Number=Sing	14	appos	_	SpaceAfter=No
+15	Robert	Robert	PROPN	S	Case=Nom|Number=Sing	14	appos	_	_
+16	Cechmaneki	Cechmanek	PROPN	S	Case=Gen|Number=Sing	15	flat	_	SpaceAfter=No
 17	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_1292
