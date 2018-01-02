@@ -69,8 +69,8 @@
 1	Raplas	Rapla	PROPN	S	Case=Ine|Number=Sing	6	obl	_	_
 2	muusikaõpetajana	muusika_õpetaja	NOUN	S	Case=Ess|Number=Sing	3	obl	_	_
 3	töötav	töötav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
-4	Kersti	Kersti	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
-5	Saadlo	Saadlo	PROPN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+4	Kersti	Kersti	PROPN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+5	Saadlo	Saadlo	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	12	punct	_	_
 8	et	et	SCONJ	J	_	12	mark	_	_
@@ -96,7 +96,7 @@
 28	kusagil	kusagil	ADV	D	_	27	advmod	_	_
 29	vangis	vang	NOUN	S	Case=Ine|Number=Sing	27	obl	_	_
 30	kinni	kinni	ADV	D	_	27	compound:prt	_	SpaceAfter=No
-31	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No
+31	.	.	PUNCT	Z	_	18	punct	_	SpaceAfter=No
 32	"	"	PUNCT	Z	_	18	punct	_	_
 
 # sent_id = aja_ee199920_991
