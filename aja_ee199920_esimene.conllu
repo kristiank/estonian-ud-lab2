@@ -6681,7 +6681,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 15	viie	viis	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	16	compound	_	_
 16	miljoni	miljon	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	17	nummod	_	_
 17	kroonini	kroon	NOUN	S	Case=Ter|Number=Sing	11	obl	_	SpaceAfter=No
-18	.	.	PUNCT	Z	_	10	punct	_	_
+18	.	.	PUNCT	Z	_	11	punct	_	_
 
 # sent_id = aja_ee199920_408
 # text = Praeguses olukorras aga ei suuda mägi juba peale võetud laenegi teenindada.
