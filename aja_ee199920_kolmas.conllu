@@ -6091,8 +6091,8 @@
 # text = Kunagise suverääni N Liidu järeltulija Venemaa pole suutnud väärtustada mängimist riigi koondise eest: tänavu liigutas kutse koondisesse vaid Ottawa Senatorsi tähe Aleksei Jašini südant.
 1	Kunagise	kunagine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	2	amod	_	_
 2	suverääni	suverään	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	ManualCheck=Appos
-3	N	N	PROPN	Y	Abbr=Yes	4	nmod	_	ManualCheck=Appos
-4	Liidu	liit	PROPN	S	Case=Gen|Number=Sing	2	appos	_	_
+3	N	N	PROPN	Y	Abbr=Yes	2	appos	_	ManualCheck=Appos
+4	Liidu	liit	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	järeltulija	järel_tulija	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
 6	Venemaa	Vene_maa	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
 7	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
@@ -6108,11 +6108,11 @@
 17	kutse	kutse	NOUN	S	Case=Nom|Number=Sing	16	nsubj	_	_
 18	koondisesse	koondis	NOUN	S	Case=Ill|Number=Sing	17	nmod	_	_
 19	vaid	vaid	ADV	D	_	22	advmod	_	_
-20	Ottawa	Ottawa	PROPN	S	Case=Nom|Number=Sing	21	flat	_	_
-21	Senatorsi	Senators	PROPN	S	Case=Gen|Number=Sing	22	nmod	_	_
+20	Ottawa	Ottawa	PROPN	S	Case=Nom|Number=Sing	22	nmod	_	_
+21	Senatorsi	Senators	PROPN	S	Case=Gen|Number=Sing	20	flat	_	_
 22	tähe	täht	NOUN	S	Case=Gen|Number=Sing	25	nmod	_	ManualCheck=Appos
-23	Aleksei	Aleksei	PROPN	S	Case=Nom|Number=Sing	24	flat	_	_
-24	Jašini	Jašin	PROPN	S	Case=Gen|Number=Sing	22	appos	_	_
+23	Aleksei	Aleksei	PROPN	S	Case=Nom|Number=Sing	22	appos	_	_
+24	Jašini	Jašin	PROPN	S	Case=Gen|Number=Sing	23	flat	_	_
 25	südant	süda	NOUN	S	Case=Par|Number=Sing	16	obj	_	SpaceAfter=No
 26	.	.	PUNCT	Z	_	8	punct	_	_
 
