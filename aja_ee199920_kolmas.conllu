@@ -7082,8 +7082,8 @@
 4	tähistati	tähistama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	9.	9.	ADJ	N	Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord	6	amod	_	_
 6	mail	mai	NOUN	S	Case=Ade|Number=Sing	4	obl	_	_
-7	San	San	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
-8	Franciscos	Francisco	PROPN	S	Case=Ine|Number=Sing	4	obl	_	SpaceAfter=No
+7	San	San	PROPN	S	Case=Nom|Number=Sing	4	obl	_	_
+8	Franciscos	Francisco	PROPN	S	Case=Ine|Number=Sing	7	flat	_	SpaceAfter=No
 9	?	?	PUNCT	Z	_	4	punct	_	_
 
 # sent_id = aja_ee199920_1409
