@@ -1082,8 +1082,8 @@
 3	tean	teadma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	_	_
 5	et	et	SCONJ	J	_	8	mark	_	_
-6	Enn	Enn	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
-7	Leissonit	Leisson	PROPN	S	Case=Par|Number=Sing	11	obj	_	_
+6	Enn	Enn	PROPN	S	Case=Nom|Number=Sing	11	obj	_	_
+7	Leissonit	Leisson	PROPN	S	Case=Par|Number=Sing	6	flat	_	_
 8	taheti	tahtma	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	3	ccomp	_	_
 9	ka	ka	ADV	D	_	11	advmod	_	_
 10	sinna	sinna	ADV	D	_	11	advmod	_	_
