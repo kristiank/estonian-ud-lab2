@@ -6111,9 +6111,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 7	ärimeestele	äri_mees	NOUN	S	Case=All|Number=Plur	5	obl	_	ToDo=nmod
 8	Jaan	Jaan	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
 9	Mugrale	Mugra	PROPN	S	Case=All|Number=Sing	8	flat	_	_
-10	ja	ja	CCONJ	J	_	12	cc	_	ToDo=cc-without-conj
-11	Andres	Andres	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
-12	Maserile	Maser	PROPN	S	Case=All|Number=Sing	7	conj	_	ManualCheck=Conj|SpaceAfter=No
+10	ja	ja	CCONJ	J	_	11	cc	_	ToDo=cc-without-conj
+11	Andres	Andres	PROPN	S	Case=Nom|Number=Sing	8	conj	_	_
+12	Maserile	Maser	PROPN	S	Case=All|Number=Sing	11	flat	_	ManualCheck=Conj|SpaceAfter=No
 13	,	,	PUNCT	Z	_	19	punct	_	_
 14	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	19	nsubj	_	_
 15	samuti	samuti	ADV	D	_	19	advmod	_	_
