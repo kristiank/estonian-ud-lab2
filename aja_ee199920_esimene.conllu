@@ -7977,8 +7977,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_482
 # text = Rein Riga ei kuulu otseselt maale meelitatute hulka.
-1	Rein	Rein	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Riga	Riga	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+1	Rein	Rein	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+2	Riga	Riga	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	4	aux	_	_
 4	kuulu	kuuluma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	otseselt	otseselt	ADV	D	_	4	advmod	_	_
