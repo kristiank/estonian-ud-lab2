@@ -419,9 +419,9 @@
 4	raha	raha	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 5	New	New	PROPN	S	Case=Ine|Number=Sing	7	obl	_	_
 6	Yorgis	York	PROPN	S	Case=Ine|Number=Sing	5	flat	_	_
-7	asuvasse	asuv	ADJ	A	Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
-8	Bankers	Bankers	PROPN	S	Case=Nom|Number=Sing	9	flat	_	_
-9	Trusti	Trust	PROPN	S	Case=Add|Number=Sing	2	obl	_	_
+7	asuvasse	asuv	ADJ	A	Case=Ill|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	Bankers	Bankers	PROPN	S	Case=Nom|Number=Sing	2	obl	_	_
+9	Trusti	Trust	PROPN	S	Case=Add|Number=Sing	8	flat	_	_
 10	ja	ja	CCONJ	J	_	13	cc	_	_
 11	sealt	sealt	ADV	D	_	13	advmod	_	_
 12	edasi	edasi	ADV	D	_	13	advmod	_	_
