@@ -6173,9 +6173,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 9	,	,	PUNCT	Z	_	8	punct	_	SpaceAfter=No
 10	"	"	PUNCT	Z	_	8	punct	_	_
 11	tunnistas	tunnistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	_
-12	Väike-Munamäe	Väike-Muna_mägi	PROPN	S	Case=Gen|Number=Sing	14	flat	_	ManualCheck=Appos
-13	Arenduse	Arendus	PROPN	S	Case=Gen|Number=Sing	14	flat	_	ManualCheck=Appos
-14	ASi	AS	PROPN	Y	Abbr=Yes|Case=Gen|Number=Sing	15	nmod	_	_
+12	Väike-Munamäe	Väike-Muna_mägi	PROPN	S	Case=Gen|Number=Sing	15	nmod	_	ManualCheck=Appos
+13	Arenduse	Arendus	PROPN	S	Case=Gen|Number=Sing	12	flat	_	ManualCheck=Appos
+14	ASi	AS	PROPN	Y	Abbr=Yes|Case=Gen|Number=Sing	12	flat	_	_
 15	juhatuse	juhatus	NOUN	S	Case=Gen|Number=Sing	16	nmod	_	_
 16	esimees	esi_mees	NOUN	S	Case=Nom|Number=Sing	11	nsubj	_	_
 17	Hannes	Hannes	PROPN	S	Case=Nom|Number=Sing	16	appos	_	_
