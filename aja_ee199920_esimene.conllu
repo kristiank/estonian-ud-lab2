@@ -4922,8 +4922,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_312
 # text = TANEL PADAR tõusev täht
-1	TANEL	Tanel	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	PADAR	Padar	PROPN	S	Case=Nom|Number=Sing	4	nmod	_	_
+1	TANEL	Tanel	PROPN	S	Case=Nom|Number=Sing	4	nmod	_	_
+2	PADAR	Padar	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	tõusev	tõusev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
 4	täht	täht	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 
