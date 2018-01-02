@@ -2621,10 +2621,10 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # text = Pere eelistas Tiit Vähi ja koonukate seltskonda.
 1	Pere	Pere	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	eelistas	eelistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	Tiit	Tiit	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
-4	Vähi	Vähi	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+3	Tiit	Tiit	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	_
+4	Vähi	Vähi	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	ja	ja	CCONJ	J	_	6	cc	_	_
-6	koonukate	koonukas	NOUN	S	Case=Gen|Number=Plur	4	conj	_	_
+6	koonukate	koonukas	NOUN	S	Case=Gen|Number=Plur	3	conj	_	_
 7	seltskonda	seltskond	NOUN	S	Case=Par|Number=Sing	2	obj	_	SpaceAfter=No
 8	.	.	PUNCT	Z	_	2	punct	_	_
 
