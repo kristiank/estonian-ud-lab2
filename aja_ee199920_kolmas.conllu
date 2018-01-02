@@ -205,7 +205,7 @@
 14	sooritada	sooritama	VERB	V	VerbForm=Inf	12	xcomp	_	_
 15	juba	juba	ADV	D	_	16	advmod	_	_
 16	tuhandeid	tuhat	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	12	nummod	_	SpaceAfter=No
-17	,	,	PUNCT	Z	_	1	punct	_	_
+17	,	,	PUNCT	Z	_	12	punct	_	_
 18	rohkem	rohkem	ADV	D	_	12	advmod	_	_
 19	kui	kui	SCONJ	J	_	21	mark	_	_
 20	enamik	enamik	NOUN	S	Case=Nom|Number=Sing	21	advmod:quant	_	_
