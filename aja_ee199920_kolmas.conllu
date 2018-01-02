@@ -569,7 +569,7 @@
 3	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	armastas	armastama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 5	malet	male	NOUN	S	Case=Par|Number=Sing	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	Z	_	1	punct	_	_
+6	,	,	PUNCT	Z	_	8	punct	_	_
 7	mitte	mitte	ADV	D	Polarity=Neg	8	advmod	_	_
 8	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	obj	_	_
 9	males	male	NOUN	S	Case=Ine|Number=Sing	8	nmod	_	SpaceAfter=No
