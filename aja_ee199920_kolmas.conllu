@@ -8204,8 +8204,8 @@
 13	tellitult	telli=tult	ADV	D	_	14	advmod	_	_
 14	oligi	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 15	kohal	kohal	ADV	D	_	14	advmod	_	_
-16	Louis	Louis	PROPN	S	Case=Nom|Number=Sing	17	flat	_	_
-17	Andriessen	Andriessen	PROPN	S	Case=Nom|Number=Sing	14	nsubj	_	SpaceAfter=No
+16	Louis	Louis	PROPN	S	Case=Nom|Number=Sing	14	nsubj	_	_
+17	Andriessen	Andriessen	PROPN	S	Case=Nom|Number=Sing	16	flat	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_ee199920_1472
