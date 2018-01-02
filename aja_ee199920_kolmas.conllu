@@ -3933,8 +3933,8 @@
 # sent_id = aja_ee199920_1191
 # text = Ogilvy &amp; Mather'si Londoni kontori äridirektor Martin Phelps: " Need, kellel on lapsi, saavad peagi aru, et kogu elu lastega -- sellest hetkest, kui nad hakkavad suhtlema -- seisneb läbirääkimistes.
 1	Ogilvy	Ogilvy	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	ManualCheck=Appos
-2	&amp;	&	SYM	J	_	3	cc	_	_
-3	Mather'si	Mather’s	PROPN	S	Case=Gen|Number=Sing	1	conj	_	_
+2	&amp;	&	SYM	J	_	1	flat	_	_
+3	Mather'si	Mather’s	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 4	Londoni	London	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	kontori	kontor	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
 6	äridirektor	äri_direktor	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
