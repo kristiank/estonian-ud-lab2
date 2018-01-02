@@ -1553,8 +1553,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 1	Natside	nats	NOUN	S	Case=Gen|Number=Plur	2	nmod	_	_
 2	jälitamisega	jälitamine	NOUN	S	Case=Com|Number=Sing	3	obl	_	_
 3	tegelev	tegelev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	_
-4	Simon	Simon	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
-5	Wiesenthali	Wiesenthal	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	_
+4	Simon	Simon	PROPN	S	Case=Nom|Number=Sing	6	nmod	_	_
+5	Wiesenthali	Wiesenthal	PROPN	S	Case=Gen|Number=Sing	4	flat	_	_
 6	keskus	keskus	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
 7	süüdistas	süüdistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	teda	tema	PRON	P	Case=Par|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
