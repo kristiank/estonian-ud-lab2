@@ -738,10 +738,10 @@
 1	fašismiohvrite	fašismi_ohver	NOUN	S	Case=Gen|Number=Plur	2	nmod	_	_
 2	mälestusmärk	mälestus_märk	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 3	1984	1984	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	_
-4	(	(	PUNCT	Z	_	6	punct	_	SpaceAfter=No
-5	V.	V.	PROPN	Y	Abbr=Yes	6	flat	_	ManualCheck=Appos
-6	Künnapu	Künnapu	PROPN	S	Case=Nom|Number=Sing	2	parataxis	_	SpaceAfter=No
-7	)	)	PUNCT	Z	_	6	punct	_	_
+4	(	(	PUNCT	Z	_	5	punct	_	SpaceAfter=No
+5	V.	V.	PROPN	Y	Abbr=Yes	2	parataxis	_	ManualCheck=Appos
+6	Künnapu	Künnapu	PROPN	S	Case=Nom|Number=Sing	5	flat	_	SpaceAfter=No
+7	)	)	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_1028
 # text = kuulub Tallinna linnale
