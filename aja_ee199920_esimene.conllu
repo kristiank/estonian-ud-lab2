@@ -4200,8 +4200,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_256
 # text = Vello Kulla leiab, et kirjutistes on rida faktivigu.
-1	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Kulla	Kulla	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+1	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+2	Kulla	Kulla	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	leiab	leidma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	7	punct	_	_
 5	et	et	SCONJ	J	_	7	mark	_	_
