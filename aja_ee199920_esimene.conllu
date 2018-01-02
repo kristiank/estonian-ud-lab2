@@ -7119,8 +7119,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 1	Leiti	leidma	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Z	_	7	punct	_	_
 3	et	et	SCONJ	J	_	7	mark	_	_
-4	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	5	flat	_	ManualCheck=Appos
-5	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+4	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	7	nsubj	_	ManualCheck=Appos
+5	Ekspress	Ekspress	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	7	aux	_	_
 7	kaota	kaotama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 8	midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	7	obj	_	SpaceAfter=No
