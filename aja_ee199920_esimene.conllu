@@ -4803,8 +4803,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_300
 # text = ANTS JOHANSON Draamateatri avalike suhete juht
-1	ANTS	Ants	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	JOHANSON	Johanson	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+1	ANTS	Ants	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+2	JOHANSON	Johanson	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	Draamateatri	Draama_teater	PROPN	S	Case=Gen|Number=Sing	4	obl	_	_
 4	avalike	avalik	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
 5	suhete	suhe	NOUN	S	Case=Gen|Number=Plur	6	nmod	_	_
