@@ -7064,9 +7064,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_433
 # text = Kaanel olev hr HS lubas endale kahemõttelisusi, millest noor ajakirjanik luges välja selgeid ähvardusi oma lähedaste aadressil.
 1	Kaanel	kaas	NOUN	S	Case=Ade|Number=Sing	2	obl	_	_
-2	olev	olev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
-3	hr	hr	NOUN	Y	Abbr=Yes	4	nmod	_	ManualCheck=Appos
-4	HS	HS	PROPN	Y	Abbr=Yes	5	obl	_	_
+2	olev	olev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
+3	hr	hr	NOUN	Y	Abbr=Yes	5	obl	_	ManualCheck=Appos
+4	HS	HS	PROPN	Y	Abbr=Yes	3	appos	_	_
 5	lubas	lubama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	5	obl	_	_
 7	kahemõttelisusi	kahe_mõtteli=sus	NOUN	S	Case=Par|Number=Plur	5	obj	_	SpaceAfter=No
