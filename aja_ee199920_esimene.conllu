@@ -2269,7 +2269,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 5	ja	ja	CCONJ	J	_	7	cc	_	_
 6	küsimusi	küsimus	NOUN	S	Case=Par|Number=Plur	7	obj	_	_
 7	esitama	esitama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	4	conj	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	3	punct	_	_
+8	.	.	PUNCT	Z	_	4	punct	_	_
 
 # sent_id = aja_ee199920_133
 # text = Pirita hotellis elav riigikogu liige Ingvar Pärnamäe (pildil) ei hoia enam toiduaineid rõdul, kus linnud neid ründavad.
