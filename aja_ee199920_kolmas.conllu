@@ -8223,9 +8223,9 @@
 11	tahaksite	tahtma	VERB	V	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 12	koos	koos	ADV	D	_	13	advmod	_	_
 13	töötada	töötama	VERB	V	VerbForm=Inf	11	xcomp	_	_
-14	näiteks	näiteks	ADV	D	_	16	advmod	_	_
-15	Arvo	Arvo	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-16	Pärdiga	Pärt	PROPN	S	Case=Com|Number=Sing	13	obl	_	SpaceAfter=No
+14	näiteks	näiteks	ADV	D	_	15	advmod	_	_
+15	Arvo	Arvo	PROPN	S	Case=Nom|Number=Sing	13	obl	_	_
+16	Pärdiga	Pärt	PROPN	S	Case=Com|Number=Sing	15	flat	_	SpaceAfter=No
 17	?	?	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_ee199920_1473
