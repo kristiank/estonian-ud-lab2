@@ -6990,7 +6990,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 8	lugege	lugema	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 9	päevauudiseid	päeva_uudis	NOUN	S	Case=Par|Number=Plur	8	obj	_	_
 10	ja	ja	CCONJ	J	_	12	cc	_	_
-11	teil	sina	PRON	P	Case=Ade|Number=Plur|Person=2|PronType=Prs	18	obl	_	_
+11	teil	sina	PRON	P	Case=Ade|Number=Plur|Person=2|PronType=Prs	12	obl	_	_
 12	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
 13	tahtmine	tahtmine	NOUN	S	Case=Nom|Number=Sing	12	nsubj	_	_
 14	peast	pea	NOUN	S	Case=Ela|Number=Sing	16	obl	_	_
