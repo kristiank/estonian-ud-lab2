@@ -1513,7 +1513,7 @@
 11	Miksoni	Mikso	PROPN	S	Case=Ter|Number=Sing	12	nmod	_	_
 12	tütar	tütar	NOUN	S	Case=Nom|Number=Sing	10	nsubj	_	_
 13	Anna	Anna	PROPN	S	Case=Nom|Number=Sing	12	appos	_	_
-14	Evaldsdottir	Evaldsdottir	PROPN	S	Case=Nom|Number=Sing	13	appos	_	SpaceAfter=No
+14	Evaldsdottir	Evaldsdottir	PROPN	S	Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No
 15	.	.	PUNCT	Z	_	7	punct	_	_
 NaN	undefined	_	_	_	_	_	_	_	_
 
