@@ -2253,9 +2253,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 7	kell	kell	NOUN	S	Case=Nom|Number=Sing	8	nmod	_	_
 8	12	12	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	_
 9	hotelli	hotell	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	ManualCheck=Appos
-10	Grand	Grand	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
-11	Mercure	Mercure	PROPN	S	Case=Nom|Number=Sing	12	flat	_	_
-12	Tallinn	Tallinn	PROPN	S	Case=Nom|Number=Sing	9	nmod	_	_
+10	Grand	Grand	PROPN	S	Case=Nom|Number=Sing	9	nmod	_	_
+11	Mercure	Mercure	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
+12	Tallinn	Tallinn	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
 13	konverentsisaalis	konverentsi_saal	NOUN	S	Case=Ine|Number=Sing	2	obl	_	_
 14	Mercure	Mercure	PROPN	S	Case=Nom|Number=Sing	13	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	Z	_	2	punct	_	_
