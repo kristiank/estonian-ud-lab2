@@ -4879,8 +4879,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_308
 # text = REIN RAUD Humantiraarinstituudi rektor
-1	REIN	Rein	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
-2	RAUD	Raud	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
+1	REIN	Rein	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
+2	RAUD	Raud	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	Humantiraarinstituudi	Humantiraar_instituut	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	rektor	rektor	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 
