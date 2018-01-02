@@ -5058,8 +5058,8 @@
 
 # sent_id = aja_ee199920_1265
 # text = Kreutzwaldi 19e
-1	Kreutzwaldi	Kreutzwaldi	PROPN	S	Case=Nom|Number=Sing	2	nmod	_	_
-2	19e	19e	NUM	N	NumType=Card	0	root	_	_
+1	Kreutzwaldi	Kreutzwaldi	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
+2	19e	19e	NUM	N	NumType=Card	1	nummod	_	_
 
 # sent_id = aja_ee199920_1266
 # text = Tartu linna üks kalleim elamu.
