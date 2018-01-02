@@ -7527,9 +7527,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 12	,	,	PUNCT	Z	_	7	punct	_	_
 13	"	"	PUNCT	Z	_	7	punct	_	_
 14	lausub	lausuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	_
-15	M	M	PROPN	N	Case=Nom|Number=Sing|NumForm=Roman|NumType=Ord	17	flat	_	ManualCheck=Appos
-16	Baker	Baker	PROPN	S	Case=Nom|Number=Sing	17	flat	_	_
-17	Groupi	Groupi	PROPN	S	Case=Nom|Number=Sing	18	nmod	_	_
+15	M	M	PROPN	N	Case=Nom|Number=Sing|NumForm=Roman|NumType=Ord	18	nmod	_	ManualCheck=Appos
+16	Baker	Baker	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
+17	Groupi	Groupi	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
 18	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	19	nmod	_	_
 19	esindaja	esindaja	NOUN	S	Case=Nom|Number=Sing	14	nsubj	_	_
 20	John	John	PROPN	S	Case=Nom|Number=Sing	19	appos	_	_
