@@ -7235,7 +7235,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_443
 # text = Sama maatükk soovitakse anda tuvastamatule USA kinnisvarafirmale.
 1	Sama	sama	ADJ	P	Case=Nom|Number=Sing|PronType=Dem	2	amod	_	_
-2	maatükk	maa_tükk	NOUN	S	Case=Nom|Number=Sing	4	obj	_	_
+2	maatükk	maa_tükk	NOUN	S	Case=Nom|Number=Sing	3	obj	_	_
 3	soovitakse	soovima	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	anda	andma	VERB	V	VerbForm=Inf	3	xcomp	_	_
 5	tuvastamatule	tuvasta=matu	ADJ	A	Case=All|Degree=Pos|Number=Sing	7	amod	_	_
