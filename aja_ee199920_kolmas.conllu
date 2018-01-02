@@ -705,8 +705,8 @@
 # text = Esimesena maeti Eduard Vilde
 1	Esimesena	esimene	ADJ	N	Case=Ess|Number=Sing|NumForm=Letter|NumType=Ord	2	amod	_	_
 2	maeti	matma	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-3	Eduard	Eduard	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
-4	Vilde	Vilde	PROPN	S	Case=Nom|Number=Sing	2	obj	_	_
+3	Eduard	Eduard	PROPN	S	Case=Nom|Number=Sing	2	obj	_	_
+4	Vilde	Vilde	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
 
 # sent_id = aja_ee199920_1024
 # text = Ainus hoone paekivist kabel 1935/1936 (H. Johanson)
