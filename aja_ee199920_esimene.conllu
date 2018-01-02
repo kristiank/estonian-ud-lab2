@@ -5876,8 +5876,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 4	ehitas	ehitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	peatöövõtjana	pea_töö_võtja	NOUN	S	Case=Ess|Number=Sing	4	obl	_	_
 6	mäge	mägi	NOUN	S	Case=Par|Number=Sing	4	obj	_	_
-7	AS	AS	PROPN	Y	Abbr=Yes	4	obl	_	_
-8	Feer	Feer	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	AS	AS	PROPN	Y	Abbr=Yes	4	nsubj	_	_
+8	Feer	Feer	PROPN	S	Case=Nom|Number=Sing	7	flat	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	4	punct	_	_
 
 # sent_id = aja_ee199920_363
