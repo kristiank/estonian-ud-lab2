@@ -6424,7 +6424,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 18	välja	välja	ADV	D	_	19	compound:prt	_	_
 19	osta	ostma	VERB	V	VerbForm=Inf	5	conj	_	SpaceAfter=No
 20	,	,	PUNCT	Z	_	5	punct	_	SpaceAfter=No
-21	"	"	PUNCT	Z	_	19	punct	_	_
+21	"	"	PUNCT	Z	_	5	punct	_	_
 22	ütles	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
 23	Mäll	Mäll	PROPN	S	Case=Nom|Number=Sing	22	nsubj	_	SpaceAfter=No
 24	.	.	PUNCT	Z	_	5	punct	_	_
