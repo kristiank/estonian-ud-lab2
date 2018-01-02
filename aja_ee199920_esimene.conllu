@@ -6686,7 +6686,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 # sent_id = aja_ee199920_408
 # text = Praeguses olukorras aga ei suuda mägi juba peale võetud laenegi teenindada.
 1	Praeguses	praegune	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	2	amod	_	_
-2	olukorras	olu_kord	NOUN	S	Case=Ine|Number=Sing	11	obl	_	_
+2	olukorras	olu_kord	NOUN	S	Case=Ine|Number=Sing	5	obl	_	_
 3	aga	aga	CCONJ	J	_	5	cc	_	_
 4	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	5	aux	_	_
 5	suuda	suutma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
