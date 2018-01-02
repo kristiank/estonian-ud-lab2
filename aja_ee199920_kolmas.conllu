@@ -4651,10 +4651,10 @@
 1	Kreutzwaldi	Kreutzwaldi	PROPN	S	Case=Nom|Number=Sing	2	nmod	_	_
 2	19	19	NUM	N	NumForm=Digit|NumType=Card	0	root	_	_
 3	e	e	NOUN	Y	Abbr=Yes	2	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	Z	_	6	punct	_	_
-5	Vilmar	Vilmar	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
-6	Lill	Lill	PROPN	S	Case=Nom|Number=Sing	2	conj	_	_
-7	1996	1996	NUM	N	NumForm=Digit|NumType=Card	6	nummod	_	_
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	Vilmar	Vilmar	PROPN	S	Case=Nom|Number=Sing	2	conj	_	_
+6	Lill	Lill	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
+7	1996	1996	NUM	N	NumForm=Digit|NumType=Card	5	nummod	_	_
 
 # sent_id = aja_ee199920_1232
 # text = Osa elamugrupist, mis asub Tartu piiril, Emajõe ääres.
