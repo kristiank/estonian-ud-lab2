@@ -4505,13 +4505,11 @@ NaN	undefined	_	_	_	_	_	_	_	_
 21	meestele	mees	NOUN	S	Case=All|Number=Plur	15	advcl	_	SpaceAfter=No
 22	.	.	PUNCT	Z	_	6	punct	_	_
 
-# sent_id = aja_ee199920_273
-# text = Midagi taolist on Rumal Noorkuu.
 1	Midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	0	root	_	_
 2	taolist	taoline	ADJ	A	Case=Par|Degree=Pos|Number=Sing	1	amod	_	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-4	Rumal	Rumal	PROPN	A	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
-5	Noorkuu	Noor_kuu	PROPN	S	Case=Nom|Number=Sing	1	nsubj:cop	_	SpaceAfter=No
+4	Rumal	Rumal	PROPN	A	Case=Nom|Degree=Pos|Number=Sing	1	nsubj:cop	_	_
+5	Noorkuu	Noor_kuu	PROPN	S	Case=Nom|Number=Sing	4	flat	_	SpaceAfter=No
 6	.	.	PUNCT	Z	_	1	punct	_	_
 
 # sent_id = aja_ee199920_274
