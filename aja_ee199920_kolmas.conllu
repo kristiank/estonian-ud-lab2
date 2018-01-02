@@ -5181,8 +5181,8 @@
 9	pingilt	pink	NOUN	S	Case=Abl|Number=Sing	5	obl	_	_
 10	meeskonna	meeskond	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
 11	liidri	liider	NOUN	S	Case=Gen|Number=Sing	5	obj	_	ManualCheck=Appos
-12	Teemu	Teemu	PROPN	S	Case=Nom|Number=Sing	13	flat	_	_
-13	Selänne	Selänne	PROPN	S	Case=Gen|Number=Sing	11	appos	_	SpaceAfter=No
+12	Teemu	Teemu	PROPN	S	Case=Nom|Number=Sing	11	appos	_	_
+13	Selänne	Selänne	PROPN	S	Case=Gen|Number=Sing	12	flat	_	SpaceAfter=No
 14	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_1274
