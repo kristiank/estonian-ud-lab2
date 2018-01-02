@@ -3894,7 +3894,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_240
 # text = Seepärast soovitame Teil minna seksodroomile, kui selleks on juba nii suur vajadus.
-1	Seepärast	see_pärast	ADV	D	_	4	advmod	_	_
+1	Seepärast	see_pärast	ADV	D	_	2	advmod	_	_
 2	soovitame	soovitama	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Teil	Tei	PROPN	S	Case=Ade|Number=Sing	4	obl	_	_
 4	minna	minema	VERB	V	VerbForm=Inf	2	xcomp	_	_
