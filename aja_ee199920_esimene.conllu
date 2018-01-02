@@ -1416,10 +1416,10 @@
 11	ja	ja	CCONJ	J	_	12	cc	_	_
 12	särk	särk	NOUN	S	Case=Nom|Number=Sing	5	conj	_	_
 13	kirjaga	kiri	NOUN	S	Case=Com|Number=Sing	12	nmod	_	_
-14	"	"	PUNCT	Z	_	16	punct	_	SpaceAfter=No
-15	Liivi	Liivi	PROPN	S	Case=Nom|Number=Sing	16	flat	_	_
-16	Vodka	Vodka	PROPN	S	Case=Nom|Number=Sing	13	conj	_	SpaceAfter=No
-17	"	"	PUNCT	Z	_	16	punct	_	SpaceAfter=No
+14	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
+15	Liivi	Liivi	PROPN	S	Case=Nom|Number=Sing	13	conj	_	_
+16	Vodka	Vodka	PROPN	S	Case=Nom|Number=Sing	15	flat	_	SpaceAfter=No
+17	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_83
