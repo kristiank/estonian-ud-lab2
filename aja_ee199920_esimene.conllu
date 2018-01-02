@@ -1750,7 +1750,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 5	korraldada	korraldama	VERB	V	VerbForm=Inf	3	csubj	_	_
 6	ka	ka	ADV	D	_	7	advmod	_	_
 7	Tallinnas	Tallinn	PROPN	S	Case=Ine|Number=Sing	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	Z	_	3	punct	_	_
+8	.	.	PUNCT	Z	_	5	punct	_	_
 
 # sent_id = aja_ee199920_103
 # text = 12. juunil toimuvad Väike-Maarjas järjekordsed Eesti lahtised meistrivõistlused naisekandmises, kus mehed läbivad kiiruse peale sajameetrise distantsi, naine kukil.
