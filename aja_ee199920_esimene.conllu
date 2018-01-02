@@ -4295,7 +4295,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 7	et	et	SCONJ	J	_	11	mark	_	_
 8	käesoleval	käes_olev	ADJ	A	Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
 9	juhul	juht	NOUN	S	Case=Ade|Number=Sing	11	obl	_	_
-10	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	4	aux	_	_
+10	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	11	aux	_	_
 11	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ManualCheck=yes
 12	ASNil	ASN	PROPN	Y	Abbr=Yes|Case=Ade|Number=Sing	11	obl	_	_
 13	võimalust	võimalus	NOUN	S	Case=Par|Number=Sing	11	obj	_	_
