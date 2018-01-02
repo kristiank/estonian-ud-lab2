@@ -5005,8 +5005,8 @@
 
 # sent_id = aja_ee199920_1260
 # text = Vikerkaare 24b
-1	Vikerkaare	Viker_kaare	PROPN	S	Case=Nom|Number=Sing	2	nmod	_	_
-2	24b	24b	NUM	N	NumType=Card	0	root	_	_
+1	Vikerkaare	Viker_kaare	PROPN	S	Case=Nom|Number=Sing	_	_	_	_
+2	24b	24b	NUM	N	NumType=Card	1	nummod	_	_
 
 # sent_id = aja_ee199920_1261
 # text = Tüüpiline 70ndate alguse lamekatusega elamu.
