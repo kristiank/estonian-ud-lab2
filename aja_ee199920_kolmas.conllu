@@ -5746,8 +5746,8 @@
 8	koondise	koondis	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
 9	omaaegne	oma_aegne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
 10	treener	treener	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
-11	Rauno	Rauno	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	ManualCheck=Appos
-12	Korpi	Korpi	PROPN	S	Case=Nom|Number=Sing	10	appos	_	_
+11	Rauno	Rauno	PROPN	S	Case=Nom|Number=Sing	10	appos	_	ManualCheck=Appos
+12	Korpi	Korpi	PROPN	S	Case=Nom|Number=Sing	11	flat	_	_
 13	pärast	pärast	ADP	K	AdpType=Prep	14	case	_	_
 14	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	6	obl	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	23	punct	_	_
