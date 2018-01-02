@@ -7450,8 +7450,8 @@
 # text = Hetkel töötab Peter Greenaway taas Hollandis, Amsterdamis, kus lõpetab uut libretot Andriesseni teisele ooperile "Writing to Vermeer".
 1	Hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	2	obl	_	_
 2	töötab	töötama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	Peter	Peter	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
-4	Greenaway	Greenaway	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+3	Peter	Peter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+4	Greenaway	Greenaway	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
 5	taas	taas	ADV	D	_	2	advmod	_	_
 6	Hollandis	Holland	PROPN	S	Case=Ine|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	2	punct	_	_
@@ -7464,11 +7464,11 @@
 14	Andriesseni	Andriessen	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	_
 15	teisele	teine	ADJ	N	Case=All|Number=Sing|NumForm=Letter|NumType=Ord	16	amod	_	_
 16	ooperile	ooper	NOUN	S	Case=All|Number=Sing	11	obl	_	_
-17	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
-18	Writing	Writing	PROPN	S	Case=Nom|Number=Sing	19	flat	_	ToDo=nmod
-19	to	to	X	Y	Abbr=Yes	20	flat	_	ManualCheck=Appos
-20	Vermeer	Vermeer	PROPN	S	Case=Nom|Number=Sing	16	appos	_	SpaceAfter=No
-21	"	"	PUNCT	Z	_	20	punct	_	SpaceAfter=No
+17	"	"	PUNCT	Z	_	18	punct	_	SpaceAfter=No
+18	Writing	Writing	PROPN	S	Case=Nom|Number=Sing	16	appos	_	ToDo=nmod
+19	to	to	X	Y	Abbr=Yes	18	flat	_	ManualCheck=Appos
+20	Vermeer	Vermeer	PROPN	S	Case=Nom|Number=Sing	18	flat	_	SpaceAfter=No
+21	"	"	PUNCT	Z	_	18	punct	_	SpaceAfter=No
 22	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_1434
