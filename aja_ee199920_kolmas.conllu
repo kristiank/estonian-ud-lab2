@@ -5284,9 +5284,9 @@
 # sent_id = aja_ee199920_1281
 # text = Selänne ja Saku Koivu olid Norra MMil tõelised liidrid.
 1	Selänne	Selänne	PROPN	S	Case=Nom|Number=Sing	9	nsubj:cop	_	_
-2	ja	ja	CCONJ	J	_	4	cc	_	_
-3	Saku	Saku	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
-4	Koivu	Koivu	PROPN	S	Case=Nom|Number=Sing	1	conj	_	_
+2	ja	ja	CCONJ	J	_	3	cc	_	_
+3	Saku	Saku	PROPN	S	Case=Nom|Number=Sing	1	conj	_	_
+4	Koivu	Koivu	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
 5	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	_
 6	Norra	Norra	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	ManualCheck=Appos
 7	MMil	MM	PROPN	Y	Abbr=Yes|Case=Ade|Number=Sing	9	obl	_	ToDo=nmod
