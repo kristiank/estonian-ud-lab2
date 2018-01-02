@@ -6939,8 +6939,8 @@
 1	5.	5.	ADJ	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Ord	2	list	_	_
 2	Mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	0	root	_	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-4	Andrus	Andrus	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
-5	Kivirähki	Kivi_rähk	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+4	Andrus	Andrus	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	_
+5	Kivirähki	Kivi_rähk	PROPN	S	Case=Gen|Number=Sing	4	flat	_	_
 6	uue	uus	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
 7	romaani	romaan	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
 8	nimi	nimi	NOUN	S	Case=Nom|Number=Sing	2	nsubj:cop	_	SpaceAfter=No
