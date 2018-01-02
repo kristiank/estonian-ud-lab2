@@ -5556,7 +5556,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 8	siis	siis	ADV	D	_	9	advmod	_	_
 9	hakkas	hakkama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 10	koitma	koitma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	9	xcomp	_	_
-11	--	--	PUNCT	Z	Hyph=Yes	16	punct	_	_
+11	--	--	PUNCT	Z	Hyph=Yes	9	punct	_	_
 12	ikkagi	ikkagi	ADV	D	_	9	advmod	_	_
 13	mitu	mitu	PRON	P	Case=Nom|Number=Sing|PronType=Ind	14	advmod:quant	_	_
 14	trepikäiku	trepi_käik	NOUN	S	Case=Par|Number=Sing	9	obj	_	_
