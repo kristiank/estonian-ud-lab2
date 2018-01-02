@@ -3814,9 +3814,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_234
 # text = Martin Pomm.
-1	Martin	Martin	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Pomm	Pomm	PROPN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	Z	_	2	punct	_	_
+1	Martin	Martin	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
+2	Pomm	Pomm	PROPN	S	Case=Nom|Number=Sing	1	flat	_	SpaceAfter=No
+3	.	.	PUNCT	Z	_	1	punct	_	_
 
 # sent_id = aja_ee199920_235
 # text = EE nr 14
