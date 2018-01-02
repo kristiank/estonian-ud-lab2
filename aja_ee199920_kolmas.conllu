@@ -6782,8 +6782,8 @@
 2	Mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	3	obj	_	_
 3	peab	pidama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Dolce	Dolce	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-5	&amp;	&	SYM	J	_	6	cc	_	_
-6	Gabbana	Gabbana	PROPN	S	Case=Nom|Number=Sing	4	conj	_	_
+5	&amp;	&	SYM	J	_	4	flat	_	_
+6	Gabbana	Gabbana	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 7	kõige	kõige	ADV	D	_	8	advmod	_	_
 8	võikamaks	võikam	ADJ	A	Case=Tra|Degree=Cmp|Number=Sing	9	amod	_	_
 9	kuriteoks	kuri_tegu	NOUN	S	Case=Tra|Number=Sing	3	xcomp	_	SpaceAfter=No
