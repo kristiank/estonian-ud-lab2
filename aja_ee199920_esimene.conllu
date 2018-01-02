@@ -1918,10 +1918,10 @@ NaN	undefined	_	_	_	_	_	_	_	_
 10	Daumani	Dauman	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	_
 11	tänaval	tänav	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
 12	loosungit	loosung	NOUN	S	Case=Par|Number=Sing	3	obj	_	_
-13	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
-14	Sieg	Sieg	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
-15	Heil	Heil	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	SpaceAfter=No
-16	"	"	PUNCT	Z	_	15	punct	_	SpaceAfter=No
+13	"	"	PUNCT	Z	_	14	punct	_	SpaceAfter=No
+14	Sieg	Sieg	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	_
+15	Heil	Heil	PROPN	S	Case=Nom|Number=Sing	14	flat	_	SpaceAfter=No
+16	"	"	PUNCT	Z	_	14	punct	_	SpaceAfter=No
 17	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_ee199920_113
