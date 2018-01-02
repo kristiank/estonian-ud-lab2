@@ -1432,7 +1432,7 @@
 6	32	32	NUM	N	NumForm=Digit|NumType=Card	7	nummod	_	_
 7	MBU	MBU	PROPN	Y	Abbr=Yes	8	obl	_	_
 8	kandva	kandev	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
-9	Toyota	Toyota	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
+9	Toyota	Toyota	PROPN	S	Case=Nom|Number=Sing	10	nmod	_	_
 10	Corollaga	Corolla	PROPN	S	Case=Com|Number=Sing	2	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Z	_	13	punct	_	_
 12	mille	mis	PRON	P	Case=Gen|Number=Sing|PronType=Int,Rel	13	nmod	_	_
@@ -1442,7 +1442,7 @@
 16	"	"	PUNCT	Z	_	17	punct	_	SpaceAfter=No
 17	Viru	Viru	PROPN	S	Case=Nom|Number=Sing	15	appos	_	ManualCheck=Noun
 18	Valge	Valge	PROPN	S	Case=Nom|Number=Sing	17	flat	_	SpaceAfter=No
-19	"	"	PUNCT	Z	_	18	punct	_	SpaceAfter=No
+19	"	"	PUNCT	Z	_	17	punct	_	SpaceAfter=No
 20	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_ee199920_84
