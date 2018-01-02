@@ -3627,7 +3627,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 5	moel	mood	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
 6	jagada	jagama	VERB	V	VerbForm=Inf	3	xcomp	_	_
 7	klientuuri	klientuur	NOUN	S	Case=Par|Number=Sing	6	obj	_	SpaceAfter=No
-8	,	,	PUNCT	Z	_	3	punct	_	_
+8	,	,	PUNCT	Z	_	9	punct	_	_
 9	eristades	eristama	VERB	V	VerbForm=Conv	6	advcl	_	_
 10	rikkamaid	rikkam	ADJ	A	Case=Par|Degree=Cmp|Number=Plur	9	obj	_	_
 11	ja	ja	CCONJ	J	_	12	cc	_	_
