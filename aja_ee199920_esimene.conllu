@@ -4374,7 +4374,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 4	ja	ja	CCONJ	J	_	5	cc	_	_
 5	mõjukas	mõjukas	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	conj	_	_
 6	ajaleht	aja_leht	NOUN	S	Case=Nom|Number=Sing	12	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	Z	_	12	punct	_	_
+7	,	,	PUNCT	Z	_	10	punct	_	_
 8	uuriva	uuriv	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
 9	ajakirjanduse	aja_kirjandus	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
 10	lipulaev	lipu_laev	NOUN	S	Case=Nom|Number=Sing	6	appos	_	_
