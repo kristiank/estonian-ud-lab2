@@ -5971,8 +5971,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 11	midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	10	nsubj	_	_
 12	ühist	ühine	ADJ	A	Case=Par|Degree=Pos|Number=Sing	11	amod	_	_
 13	suusabisnisega	suusa_bisnis	NOUN	S	Case=Com|Number=Sing	10	obl	_	SpaceAfter=No
-14	,	,	PUNCT	Z	_	8	punct	_	_
-15	"	"	PUNCT	Z	_	8	punct	_	_
+14	,	,	PUNCT	Z	_	10	punct	_	_
+15	"	"	PUNCT	Z	_	10	punct	_	_
 16	põhjendas	põhjendama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
 17	Tamme	Tamme	PROPN	S	Case=Nom|Number=Sing	16	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	10	punct	_	_
