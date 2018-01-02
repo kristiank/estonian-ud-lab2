@@ -6141,9 +6141,9 @@
 # text = SEIKLEJA - Hindu Prasad Reddy sõidab rattaga ümber maailma.
 1	SEIKLEJA	seikleja	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 2	-	-	PUNCT	Z	_	1	punct	_	_
-3	Hindu	hindu	NOUN	S	Case=Nom|Number=Sing	5	flat	_	_
-4	Prasad	Prasad	PROPN	S	Case=Nom|Number=Sing	3	appos	_	_
-5	Reddy	Reddy	PROPN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+3	Hindu	hindu	NOUN	S	Case=Nom|Number=Sing	4	nmod	_	_
+4	Prasad	Prasad	PROPN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+5	Reddy	Reddy	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	sõidab	sõitma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
 7	rattaga	ratas	NOUN	S	Case=Com|Number=Sing	6	obl	_	_
 8	ümber	ümber	ADP	K	AdpType=Prep	9	case	_	_
