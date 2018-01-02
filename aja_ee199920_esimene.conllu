@@ -4272,16 +4272,16 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_261
 # text = Aavo Kokk väidab, et on pikalt suhelnud Vello Kullaga.
-1	Aavo	Aavo	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Kokk	Kokk	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+1	Aavo	Aavo	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+2	Kokk	Kokk	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	väidab	väitma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	_	_
 5	et	et	SCONJ	J	_	8	mark	_	_
 6	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
 7	pikalt	pikalt	ADV	D	_	8	advmod	_	_
 8	suhelnud	suhtlema	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	3	ccomp	_	_
-9	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
-10	Kullaga	Kulla	PROPN	S	Case=Com|Number=Sing	8	obl	_	SpaceAfter=No
+9	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	8	obl	_	_
+10	Kullaga	Kulla	PROPN	S	Case=Com|Number=Sing	9	flat	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_ee199920_262
