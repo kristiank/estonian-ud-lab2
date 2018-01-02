@@ -4127,7 +4127,7 @@ NaN	undefined	_	_	_	_	_	_	_	_
 15	palun	paluma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 16	mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	17	obj	_	_
 17	valgustada	valgustama	VERB	V	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
-18	,	,	PUNCT	Z	_	15	punct	_	_
+18	,	,	PUNCT	Z	_	30	punct	_	_
 19	kas	kas	ADV	D	_	30	advmod	_	_
 20	sellise	selline	ADJ	P	Case=Gen|Number=Sing|PronType=Dem	21	amod	_	_
 21	nime	nimi	NOUN	S	Case=Gen|Number=Sing	30	obl	_	_
@@ -4140,9 +4140,9 @@ NaN	undefined	_	_	_	_	_	_	_	_
 28	hiljuti	hiljuti	ADV	D	_	30	advmod	_	_
 29	midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	30	obj	_	_
 30	kirjutanud	kirjutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	17	ccomp	_	_
-31	ja	ja	CCONJ	J	_	15	cc	_	ToDo=cc-without-conj
+31	ja	ja	CCONJ	J	_	30	cc	_	ToDo=cc-without-conj
 32	kui	kui	SCONJ	J	_	30	mark	_	SpaceAfter=No
-33	,	,	PUNCT	Z	_	15	punct	_	_
+33	,	,	PUNCT	Z	_	36	punct	_	_
 34	siis	siis	ADV	D	_	36	advmod	_	_
 35	millises	milline	ADJ	P	Case=Ine|Number=Sing|PronType=Rel	36	amod	_	_
 36	numbris	number	NOUN	S	Case=Ine|Number=Sing	30	obl	_	SpaceAfter=No
