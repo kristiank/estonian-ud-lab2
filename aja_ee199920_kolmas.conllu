@@ -110,13 +110,13 @@
 7	,	,	PUNCT	Z	_	3	punct	_	SpaceAfter=No
 8	"	"	PUNCT	Z	_	3	punct	_	_
 9	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-10	Hillar	Hillar	PROPN	S	Case=Nom|Number=Sing	11	flat	_	_
-11	Mardot	Mardo	PROPN	S	Case=Par|Number=Sing	9	obj	_	_
+10	Hillar	Hillar	PROPN	S	Case=Nom|Number=Sing	9	obj	_	_
+11	Mardot	Mardo	PROPN	S	Case=Par|Number=Sing	10	flat	_	_
 12	20	20	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	13	nummod	_	_
 13	aastat	aasta	NOUN	S	Case=Par|Number=Sing	14	obl	_	_
 14	tundnud	tund=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	15	acl	_	_
 15	naine	naine	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
-16	.	.	PUNCT	Z	_	3	punct	_	_
+16	.	.	PUNCT	Z	_	9	punct	_	_
 
 # sent_id = aja_ee199920_992
 # text = " Kuigi psüühiliselt pole mul raske ühtegi versiooni uskuda, ei ole see Hillari iseloomule omane, ennast meie eest peita.
