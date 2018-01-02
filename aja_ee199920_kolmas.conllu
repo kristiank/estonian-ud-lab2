@@ -783,7 +783,7 @@
 11	ajakirjanike	aja_kirjanik	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
 12	liidu	liit	NOUN	S	Case=Gen|Number=Sing	16	nmod	_	_
 13	(	(	PUNCT	Z	_	14	punct	_	SpaceAfter=No
-14	EAL	EAL	PROPN	Y	Abbr=Yes	12	nmod	_	SpaceAfter=No
+14	EAL	EAL	PROPN	Y	Abbr=Yes	12	appos	_	SpaceAfter=No
 15	)	)	PUNCT	Z	_	14	punct	_	_
 16	liikmed	liige	NOUN	S	Case=Nom|Number=Plur	10	nsubj	_	SpaceAfter=No
 17	.	.	PUNCT	Z	_	10	punct	_	_
