@@ -2901,8 +2901,8 @@ NaN	undefined	_	_	_	_	_	_	_	_
 
 # sent_id = aja_ee199920_171
 # text = Enno Perel oli probleeme ka enda juhitavas ettevõttes.
-1	Enno	Enno	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
-2	Perel	Pere	PROPN	S	Case=Ade|Number=Sing	3	obl	_	_
+1	Enno	Enno	PROPN	S	Case=Nom|Number=Sing	3	obl	_	_
+2	Perel	Pere	PROPN	S	Case=Ade|Number=Sing	1	flat	_	_
 3	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	probleeme	probleem	NOUN	S	Case=Par|Number=Plur	3	nsubj	_	_
 5	ka	ka	ADV	D	_	6	advmod	_	_
