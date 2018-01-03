@@ -2560,7 +2560,7 @@
 1	Omaenda	oma_enese	PRON	P	Case=Gen|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	nmod	_	_
 2	viimasel	viimane	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	3	amod	_	_
 3	õpinguaastal	õpingu_aasta	NOUN	S	Case=Ade|Number=Sing	8	obl	_	_
-4	transpordidisaini	transpordi_disain	NOUN	S	Case=Gen|Number=Sing	8	obl	_	_
+4	transpordidisaini	transpordi_disain	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	alal	ala	NOUN	S	Case=Ade|Number=Sing	8	obl	_	_
 6	Coventry	Coventry	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
 7	ülikoolis	üli_kool	NOUN	S	Case=Ine|Number=Sing	8	obl	_	_
@@ -2743,7 +2743,7 @@
 12	viimistlemiseks	viimistle=mine	NOUN	S	Case=Tra|Number=Sing	9	obl	_	_
 13	ja	ja	CCONJ	J	_	16	cc	_	_
 14	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
-15	nüüd	nüüd	ADV	D	_	20	advmod	_	_
+15	nüüd	nüüd	ADV	D	_	16	advmod	_	_
 16	valmis	valmis	ADJ	A	Degree=Pos	9	conj	_	_
 17	oma	oma	PRON	P	Case=Gen|Degree=Pos|Number=Sing|PronType=Prs	18	nmod	_	_
 18	saapapaari	saapa_paar	NOUN	S	Case=Par|Number=Sing	20	obj	_	_
