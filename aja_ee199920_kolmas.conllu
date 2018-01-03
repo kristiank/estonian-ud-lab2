@@ -4057,7 +4057,7 @@
 # text = Üllataval kombel ei paista aga lastele suunatud reklaami keeld Rootsi reklaamiagentuuridele erilisi raskusi valmistavat.
 1	Üllataval	üllatav	ADJ	A	Case=Ade|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
 2	kombel	komme	NOUN	S	Case=Ade|Number=Sing	4	obl	_	_
-3	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	14	aux	_	_
+3	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	4	aux	_	_
 4	paista	paistma	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	ManualCheck=yes
 5	aga	aga	CCONJ	J	_	14	cc	_	_
 6	lastele	laps	NOUN	S	Case=All|Number=Plur	7	obl	_	_
