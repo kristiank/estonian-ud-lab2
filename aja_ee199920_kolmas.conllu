@@ -3519,7 +3519,7 @@
 22	selleks	see	PRON	P	Case=Tra|Number=Sing|PronType=Dem	24	obl	_	_
 23	ette	ette	ADV	D	_	24	compound:prt	_	_
 24	valmistada	valmistama	VERB	V	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
-25	,	,	PUNCT	Z	_	30	punct	_	_
+25	,	,	PUNCT	Z	_	26	punct	_	_
 26	pakkudes	pakkuma	VERB	V	VerbForm=Conv	20	advcl	_	_
 27	neile	tema	PRON	P	Case=All|Number=Plur|Person=3|PronType=Prs	26	obl	_	_
 28	nii	nii	ADV	D	_	30	cc:preconj	_	_
