@@ -4665,7 +4665,7 @@
 5	asub	asuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
 6	Tartu	Tartu	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
 7	piiril	piir	NOUN	S	Case=Ade|Number=Sing	5	obl	_	SpaceAfter=No
-8	,	,	PUNCT	Z	_	5	punct	_	_
+8	,	,	PUNCT	Z	_	9	punct	_	_
 9	Emajõe	Ema_jõgi	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
 10	ääres	ääres	ADP	K	AdpType=Post	9	case	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	1	punct	_	_
