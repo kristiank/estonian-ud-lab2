@@ -1249,7 +1249,7 @@
 2	Müüri	Müür	PROPN	S	Case=Gen|Number=Sing	4	obl	_	_
 3	ajal	ajal	ADP	K	AdpType=Post	2	case	_	_
 4	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	ka	ka	ADV	D	_	7	advmod	_	_
+5	ka	ka	ADV	D	_	4	advmod	_	_
 6	asjast	asi	NOUN	S	Case=Ela|Number=Sing	4	obl	_	_
 7	kasu	kasu	NOUN	S	Case=Par|Number=Sing	4	nsubj	_	SpaceAfter=No
 8	.	.	PUNCT	Z	_	4	punct	_	_
