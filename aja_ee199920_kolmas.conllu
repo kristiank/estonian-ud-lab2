@@ -8114,7 +8114,7 @@
 # sent_id = aja_ee199920_1466
 # text = Me ei tohtinud hävitada Mozarti muusikat, mis on erakordne, kuid me saime näidata Mozarti sentimentaalset kommertsialiseerumist ja odavdamist labase šokolaadini.
 1	Me	mina	PRON	P	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	4	aux	_	_
+2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	3	aux	_	_
 3	tohtinud	tohtima	AUX	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	ManualCheck=yes
 4	hävitada	hävitama	VERB	V	VerbForm=Inf	0	root	_	_
 5	Mozarti	Mozart	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	_
