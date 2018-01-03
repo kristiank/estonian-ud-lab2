@@ -4343,7 +4343,7 @@
 # sent_id = aja_ee199920_1211
 # text = Sümmeetriline, keskse kivitrepikojaga kahekorruseline maja sai Tähtvere hoonestuses levinud tüübiks.
 1	Sümmeetriline	sümmeetriline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	SpaceAfter=No
-2	,	,	PUNCT	Z	_	7	punct	_	_
+2	,	,	PUNCT	Z	_	6	punct	_	_
 3	keskse	keskne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	_
 4	kivitrepikojaga	kivi_trepi_koda	NOUN	S	Case=Com|Number=Sing	6	nmod	_	_
 5	kahekorruseline	kahe_korruseline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	_
