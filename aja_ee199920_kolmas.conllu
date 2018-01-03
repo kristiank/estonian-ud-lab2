@@ -6380,11 +6380,11 @@
 13	nagu	nagu	SCONJ	J	_	15	mark	_	_
 14	koju	kodu	NOUN	S	Case=Add|Number=Sing	15	nmod	_	_
 15	saabumisega	saabumine	NOUN	S	Case=Com|Number=Sing	8	conj	_	SpaceAfter=No
-16	,	,	PUNCT	Z	_	6	punct	_	SpaceAfter=No
-17	"	"	PUNCT	Z	_	6	punct	_	_
+16	,	,	PUNCT	Z	_	8	punct	_	SpaceAfter=No
+17	"	"	PUNCT	Z	_	8	punct	_	_
 18	märkis	märkima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	_
 19	hindu	hindu	NOUN	S	Case=Nom|Number=Sing	18	nsubj	_	SpaceAfter=No
-20	.	.	PUNCT	Z	_	8	punct	_	_
+20	.	.	PUNCT	Z	_	18	punct	_	_
 
 # sent_id = aja_ee199920_1349
 # text = "Tahan iga päev kogeda uusi probleeme."
