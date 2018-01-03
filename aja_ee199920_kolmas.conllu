@@ -1054,7 +1054,7 @@
 1	"	"	PUNCT	Z	_	9	punct	_	SpaceAfter=No
 2	Kahjuks	kahju	NOUN	S	Case=Tra|Number=Sing	9	obl	_	_
 3	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-4	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	9	aux	_	_
+4	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	5	aux	_	_
 5	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 6	ise	ise	PRON	P	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	3	nmod	_	_
 7	sinna	sinna	ADV	D	_	9	advmod	_	_
