@@ -5373,7 +5373,7 @@
 15	:	:	PUNCT	Z	_	20	punct	_	_
 16	seisul	seis	NOUN	S	Case=Ade|Number=Sing	20	obl	_	_
 17	1	1	NUM	N	NumForm=Digit|NumType=Card	16	nummod	_	SpaceAfter=No
-18	:	:	PUNCT	Z	_	20	punct	_	_
+18	:	:	PUNCT	Z	_	19	punct	_	_
 19	3	3	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	17	nummod	_	_
 20	mõtlesid	mõtlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	parataxis	_	_
 21	nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
