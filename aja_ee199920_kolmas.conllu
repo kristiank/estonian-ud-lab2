@@ -5239,7 +5239,7 @@
 3	kui	kui	SCONJ	J	_	4	mark	_	_
 4	aasta	aasta	NOUN	S	Case=Nom|Number=Sing	2	advcl	_	_
 5	tagasi	tagasi	ADP	K	AdpType=Post	4	case	_	_
-6	--	--	PUNCT	Z	Hyph=Yes	14	punct	_	_
+6	--	--	PUNCT	Z	Hyph=Yes	9	punct	_	_
 7	pärast	pärast	ADP	K	AdpType=Prep	9	case	_	_
 8	kaotatud	kaotatud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	_
 9	poolfinaali	pool_finaal	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
