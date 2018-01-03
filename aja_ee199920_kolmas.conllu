@@ -4266,7 +4266,7 @@
 
 # sent_id = aja_ee199920_1206
 # text = Teadlikult taotleti linnaosa puhul saavutada ühtset arhitektuurilist ilmet.
-1	Teadlikult	teadlikult	ADV	D	_	5	advmod	_	_
+1	Teadlikult	teadlikult	ADV	D	_	2	advmod	_	_
 2	taotleti	taotlema	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	linnaosa	linna_osa	NOUN	S	Case=Gen|Number=Sing	2	obl	_	_
 4	puhul	puhul	ADP	K	AdpType=Post	3	case	_	_
