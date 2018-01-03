@@ -1220,10 +1220,10 @@
 5	šurnalistov	šurnalistov	NOUN	S	Case=Nom|Number=Sing	14	nsubj:cop	_	_
 6	(	(	PUNCT	Z	_	8	punct	_	SpaceAfter=No
 7	ajakirjanike	aja_kirjanik	NOUN	S	Case=Gen|Number=Plur	8	nmod	_	_
-8	liit	liit	NOUN	S	Case=Nom|Number=Sing	5	nmod	_	_
+8	liit	liit	NOUN	S	Case=Nom|Number=Sing	5	parataxis	_	_
 9	--	--	PUNCT	Z	Hyph=Yes	8	punct	_	_
 10	vene	vene	ADJ	G	_	11	amod	_	_
-11	k	k	ADV	Y	Abbr=Yes	14	parataxis	_	SpaceAfter=No
+11	k	k	ADV	Y	Abbr=Yes	8	appos	_	SpaceAfter=No
 12	)	)	PUNCT	Z	_	11	punct	_	_
 13	kõva	kõva	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	14	amod	_	_
 14	sõna	sõna	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -1233,8 +1233,8 @@
 18	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	_
 19	eraldi	eraldi	ADJ	A	Degree=Pos	20	amod	_	_
 20	restoran	restoran	NOUN	S	Case=Nom|Number=Sing	18	nsubj	_	SpaceAfter=No
-21	,	,	PUNCT	Z	_	28	punct	_	_
-22	kus	kus	ADV	D	_	28	mark	_	_
+21	,	,	PUNCT	Z	_	23	punct	_	_
+22	kus	kus	ADV	D	_	23	mark	_	_
 23	sai	saama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
 24	ilma	ilma	ADP	K	AdpType=Prep	25	case	_	_
 25	järjekorrata	järje_kord	NOUN	S	Case=Abe|Number=Sing	28	obl	_	_
