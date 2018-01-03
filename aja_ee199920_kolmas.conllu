@@ -4324,7 +4324,7 @@
 17	teine	teine	PRON	P	Case=Nom|Number=Sing|PronType=Dem	18	det	_	_
 18	külg	külg	NOUN	S	Case=Nom|Number=Sing	19	nsubj	_	_
 19	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
-20	aga	aga	CCONJ	J	_	13	cc	_	ToDo=cc-after-conj
+20	aga	aga	CCONJ	J	_	23	cc	_	ToDo=cc-after-conj
 21	juba	juba	ADV	D	_	23	advmod	_	_
 22	linna	linn	NOUN	S	Case=Gen|Number=Sing	23	nmod	_	_
 23	piiril	piir	NOUN	S	Case=Ade|Number=Sing	19	obl	_	SpaceAfter=No
