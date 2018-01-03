@@ -5795,7 +5795,7 @@
 14	aitas	aitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	_
 15	soomlastel	soomlane	NOUN	S	Case=Ade|Number=Plur	14	obl	_	_
 16	leida	leidma	VERB	V	VerbForm=Inf	14	xcomp	_	_
-17	...	...	PUNCT	Z	_	14	punct	_	_
+17	...	...	PUNCT	Z	_	19	punct	_	_
 18	rootslasest	rootslane	NOUN	S	Case=Ela|Number=Sing	19	nmod	_	_
 19	treener	treener	NOUN	S	Case=Nom|Number=Sing	14	nsubj	_	_
 20	Curt	Curt	PROPN	S	Case=Nom|Number=Sing	19	appos	_	_
