@@ -7938,14 +7938,14 @@
 12	"	"	PUNCT	Z	_	11	punct	_	_
 13	sel	see	PRON	P	Case=Ade|Number=Sing|PronType=Dem	15	det	_	_
 14	lihtsal	lihtne	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	15	amod	_	_
-15	põhjusel	põhjus	NOUN	S	Case=Ade|Number=Sing	2	obl	_	SpaceAfter=No
+15	põhjusel	põhjus	NOUN	S	Case=Ade|Number=Sing	4	obl	_	SpaceAfter=No
 16	,	,	PUNCT	Z	_	20	punct	_	_
 17	et	et	SCONJ	J	_	20	mark	_	_
 18	need	see	PRON	P	Case=Nom|Number=Plur|PronType=Dem	20	nsubj	_	_
 19	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	20	aux	_	_
 20	huvita	huvitama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl	_	_
 21	mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	20	obj	_	SpaceAfter=No
-22	.	.	PUNCT	Z	_	2	punct	_	_
+22	.	.	PUNCT	Z	_	4	punct	_	_
 
 # sent_id = aja_ee199920_1457
 # text = Käin teatris väga harva ja olen alati üllatunud, et teatripublik on nii vähese kriitikameelega.
