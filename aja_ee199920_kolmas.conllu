@@ -7480,22 +7480,22 @@
 5	kõige	kõige	ADV	D	_	6	advmod	_	_
 6	moodsamas	moodsam	ADJ	A	Case=Ine|Degree=Cmp|Number=Sing	7	amod	_	_
 7	kvartalis	kvartal	NOUN	S	Case=Ine|Number=Sing	3	obl	_	SpaceAfter=No
-8	,	,	PUNCT	Z	_	3	punct	_	_
-9	nn	nn	ADJ	Y	Abbr=Yes	10	nmod	_	_
-10	yuppie-linnaosas	yuppie-linna_osa	NOUN	S	Case=Ine|Number=Sing	7	nmod	_	_
+8	,	,	PUNCT	Z	_	10	punct	_	_
+9	nn	nn	ADJ	Y	Abbr=Yes	10	mark	_	_
+10	yuppie-linnaosas	yuppie-linna_osa	NOUN	S	Case=Ine|Number=Sing	7	appos	_	_
 11	Jaava	Jaava	PROPN	S	Case=Nom|Number=Sing	12	nmod	_	_
-12	saarel	saar	NOUN	S	Case=Ade|Number=Sing	10	nmod	_	_
+12	saarel	saar	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
 13	kõrghoone	kõrg_hoone	NOUN	S	Case=Gen|Number=Sing	15	nmod	_	_
 14	esimesel	esimene	PRON	P	Case=Ade|Number=Sing|PronType=Dem	15	det	_	_
-15	korrusel	korrus	NOUN	S	Case=Ade|Number=Sing	12	appos	_	ManualCheck=Noun|SpaceAfter=No
-16	,	,	PUNCT	Z	_	3	punct	_	_
+15	korrusel	korrus	NOUN	S	Case=Ade|Number=Sing	3	obl	_	ManualCheck=Noun|SpaceAfter=No
+16	,	,	PUNCT	Z	_	23	punct	_	_
 17	väga	väga	ADV	D	_	18	advmod	_	_
 18	vaiksel	vaikne	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	23	amod	_	SpaceAfter=No
 19	,	,	PUNCT	Z	_	20	punct	_	_
 20	puhtal	puhas	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	18	conj	_	_
 21	ja	ja	CCONJ	J	_	22	cc	_	_
 22	pikal	pikk	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	18	conj	_	_
-23	tänaval	tänav	NOUN	S	Case=Ade|Number=Sing	15	conj	_	SpaceAfter=No
+23	tänaval	tänav	NOUN	S	Case=Ade|Number=Sing	3	obl	_	SpaceAfter=No
 24	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_ee199920_1435
