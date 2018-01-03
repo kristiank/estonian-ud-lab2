@@ -7214,7 +7214,7 @@
 7	filmiteoreetikuid	filmi_teoreetik	NOUN	S	Case=Par|Number=Plur	5	conj	_	_
 8	võiks	võima	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
 9	sama	sama	ADJ	P	Case=Nom|Number=Sing|PronType=Dem	10	amod	_	_
-10	hästi	hästi	ADV	D	_	15	advmod	_	_
+10	hästi	hästi	ADV	D	_	11	advmod	_	_
 11	olla	olema	AUX	V	VerbForm=Inf	15	cop	_	_
 12	ka	ka	ADV	D	_	15	advmod	_	_
 13	posöörist	posöör	NOUN	S	Case=Ela|Number=Sing	15	nmod	_	ToDo=nmod
