@@ -2482,7 +2482,7 @@
 9	umbes	umbes	ADV	D	_	10	advmod	_	_
 10	kolme	kolm	NUM	N	Case=Par|Number=Sing|NumForm=Letter|NumType=Card	11	compound	_	_
 11	neljandikku	neljandik	NUM	N	Case=Par|Number=Sing|NumForm=Letter|NumType=Card	16	obj	_	_
-12	liikumisenergiast	liikumis_energia	NOUN	S	Case=Ela|Number=Sing	10	nmod	_	_
+12	liikumisenergiast	liikumis_energia	NOUN	S	Case=Ela|Number=Sing	11	nmod	_	_
 13	oma	oma	PRON	P	Case=Gen|Degree=Pos|Number=Sing|PronType=Prs	14	nmod	_	_
 14	Achilleuse	Achilleus	PROPN	S	Case=Gen|Number=Sing	15	nmod	_	_
 15	kõõluses	kõõlus	NOUN	S	Case=Ine|Number=Sing	16	obl	_	_
