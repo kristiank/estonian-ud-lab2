@@ -4641,7 +4641,7 @@
 12	kammitseb	kammitsema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
 13	elamispinna	elamis_pind	NOUN	S	Case=Gen|Number=Sing	14	nmod	_	_
 14	maksimum	maksimum	NOUN	S	Case=Nom|Number=Sing	12	nsubj	_	_
-15	--	--	PUNCT	Z	Hyph=Yes	12	punct	_	_
+15	--	--	PUNCT	Z	Hyph=Yes	17	punct	_	_
 16	60	60	NUM	N	NumForm=Digit|NumType=Card	17	nummod	_	_
 17	m²	m²	NOUN	Y	Abbr=Yes	14	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	Z	_	2	punct	_	_
