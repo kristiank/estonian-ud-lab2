@@ -3194,7 +3194,7 @@
 # sent_id = aja_ee199920_1159
 # text = Sõnavabaduse -- olgu või kommertsliku sõnavabaduse piiramine on sootuks teine asi.
 1	Sõnavabaduse	sõna_vabadus	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
-2	--	--	PUNCT	Z	Hyph=Yes	11	punct	_	_
+2	--	--	PUNCT	Z	Hyph=Yes	3	punct	_	_
 3	olgu	olema	VERB	V	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	_
 4	või	või	ADV	D	_	3	advmod	_	_
 5	kommertsliku	kommertslik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	_
