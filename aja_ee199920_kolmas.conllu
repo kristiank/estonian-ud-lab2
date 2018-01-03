@@ -618,11 +618,11 @@
 
 # sent_id = aja_ee199920_1014
 # text = Ometi suutis ta ennast ka nõnda maailma maleeliiti suruda.
-1	Ometi	ometi	ADV	D	_	9	advmod	_	_
+1	Ometi	ometi	ADV	D	_	2	advmod	_	_
 2	suutis	suutma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	obj	_	_
-5	ka	ka	ADV	D	_	8	advmod	_	_
+5	ka	ka	ADV	D	_	9	advmod	_	_
 6	nõnda	nõnda	ADV	D	_	9	advmod	_	_
 7	maailma	maa_ilm	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
 8	maleeliiti	male_eliit	NOUN	S	Case=Add|Number=Sing	9	obl	_	_
