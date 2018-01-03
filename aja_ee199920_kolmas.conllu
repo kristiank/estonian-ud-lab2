@@ -849,12 +849,12 @@
 6	traditsiooniline	traditsiooniline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 7	hauaplats	haua_plats	NOUN	S	Case=Nom|Number=Sing	1	parataxis	_	_
 8	kahele	kaks	NUM	N	Case=All|Number=Sing|NumForm=Letter|NumType=Card	7	nummod	_	_
-9	või	või	CCONJ	J	_	11	cc	_	_
+9	või	või	CCONJ	J	_	14	cc	_	_
 10	siis	siis	ADV	D	_	14	advmod	_	_
-11	meeter	meeter	NOUN	S	Case=Nom|Number=Sing	7	conj	_	_
+11	meeter	meeter	NOUN	S	Case=Nom|Number=Sing	14	nmod	_	_
 12	korda	kord	NOUN	S	Case=Par|Number=Sing	11	nmod	_	_
 13	meeter	meeter	NOUN	S	Case=Nom|Number=Sing	12	appos	_	_
-14	krundike	krundi=ke	NOUN	S	Case=Nom|Number=Sing	11	appos	_	_
+14	krundike	krundi=ke	NOUN	S	Case=Nom|Number=Sing	7	conj	_	_
 15	urnimatuseks	urni_matus	NOUN	S	Case=Tra|Number=Sing	14	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	Z	_	1	punct	_	_
 
