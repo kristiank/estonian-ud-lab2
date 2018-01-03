@@ -710,10 +710,10 @@
 
 # sent_id = aja_ee199920_1024
 # text = Ainus hoone paekivist kabel 1935/1936 (H. Johanson)
-1	Ainus	ainus	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
-2	hoone	hoone	NOUN	S	Case=Nom|Number=Sing	1	appos	_	ManualCheck=Noun
+1	Ainus	ainus	NOUN	S	Case=Nom|Number=Sing	2	nmod	_	_
+2	hoone	hoone	NOUN	S	Case=Nom|Number=Sing	_	_	_	ManualCheck=Noun
 3	paekivist	pae_kivi	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	ToDo=nmod
-4	kabel	kabe	NOUN	S	Case=Ade|Number=Sing	0	root	_	_
+4	kabel	kabe	NOUN	S	Case=Ade|Number=Sing	2	appos	_	_
 5	1935/1936	1935/1936	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	_
 6	(	(	PUNCT	Z	_	7	punct	_	SpaceAfter=No
 7	H.	H.	PROPN	Y	Abbr=Yes	2	parataxis	_	ManualCheck=Appos
