@@ -920,14 +920,14 @@
 30	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	31	det	_	_
 31	asja	asi	NOUN	S	Case=Par|Number=Sing	32	obj	_	_
 32	aeti	ajama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	19	parataxis	_	SpaceAfter=No
-33	,	,	PUNCT	Z	_	7	punct	_	_
-34	aga	aga	CCONJ	J	_	7	cc	_	ToDo=cc-after-conj
+33	,	,	PUNCT	Z	_	39	punct	_	_
+34	aga	aga	CCONJ	J	_	39	cc	_	ToDo=cc-after-conj
 35	detailplaneeringut	detail_planeering	NOUN	S	Case=Par|Number=Sing	39	nsubj	_	_
 36	sellele	see	PRON	P	Case=All|Number=Sing|PronType=Dem	37	det	_	_
 37	kvartalile	kvartal	NOUN	S	Case=All|Number=Sing	39	obl	_	_
-38	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	32	aux	_	_
+38	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	39	aux	_	_
 39	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	32	aux	_	ManualCheck=yes|SpaceAfter=No
-40	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No
+40	.	.	PUNCT	Z	_	32	punct	_	SpaceAfter=No
 41	"	"	PUNCT	Z	_	32	punct	_	_
 
 # sent_id = aja_ee199920_1037
