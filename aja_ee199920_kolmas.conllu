@@ -3088,7 +3088,7 @@
 1	Lastele	laps	NOUN	S	Case=All|Number=Plur	2	obl	_	_
 2	suunatud	suuna=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
 3	reklaam	reklaam	NOUN	S	Case=Nom|Number=Sing	17	nsubj:cop	_	_
-4	--	--	PUNCT	Z	Hyph=Yes	12	punct	_	_
+4	--	--	PUNCT	Z	Hyph=Yes	6	punct	_	_
 5	eriti	eriti	ADV	D	_	6	advmod	_	_
 6	televisioonis	televisioon	NOUN	S	Case=Ine|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	12	punct	_	_
