@@ -1742,7 +1742,7 @@
 2	toimumise	toimumine	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
 3	kohta	koht	NOUN	S	Case=Par|Number=Sing	6	obj	_	_
 4	ja	ja	CCONJ	J	_	5	cc	_	_
-5	aega	aeg	NOUN	S	Case=Par|Number=Sing	2	conj	_	_
+5	aega	aeg	NOUN	S	Case=Par|Number=Sing	3	conj	_	_
 6	teatakse	teadma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 7	ette	ette	ADV	D	_	6	compound:prt	_	_
 8	vähemalt	vähemalt	ADV	D	_	9	advmod	_	_
