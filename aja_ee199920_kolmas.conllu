@@ -8057,10 +8057,10 @@
 16	eesmärgiks	ees_märk	NOUN	S	Case=Tra|Number=Sing	17	xcomp	_	_
 17	vaadelda	vaatlema	VERB	V	VerbForm=Inf	3	advcl	_	_
 18	kriitiliselt	kriitiliselt	ADV	D	_	17	advmod	_	_
-19	nn	nn	ADJ	Y	Abbr=Yes	17	obl	_	_
+19	nn	nn	ADJ	Y	Abbr=Yes	21	nmod	_	_
 20	Mozarti	Mozart	PROPN	S	Case=Gen|Number=Sing	21	nmod	_	_
 21	tööstust	tööstus	NOUN	S	Case=Par|Number=Sing	17	obj	_	_
-22	--	--	PUNCT	Z	Hyph=Yes	17	punct	_	_
+22	--	--	PUNCT	Z	Hyph=Yes	23	punct	_	_
 23	magusaäri	magusa_äri	NOUN	S	Case=Par|Number=Sing	21	obj	_	_
 24	Salzburgis	Salzburg	PROPN	S	Case=Ine|Number=Sing	23	nmod	_	_
 25	ja	ja	CCONJ	J	_	26	cc	_	_
