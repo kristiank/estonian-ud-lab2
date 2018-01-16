@@ -1183,12 +1183,12 @@
 17	varaga	vara	NOUN	S	Case=Com|Number=Sing	18	nmod	_	_
 18	õigustoimingute	õigus_toiming	NOUN	S	Case=Gen|Number=Plur	19	nmod	_	_
 19	sooritamine	sooritamine	NOUN	S	Case=Nom|Number=Sing	13	conj	_	SpaceAfter=No
-20	,	,	PUNCT	Z	_	25	punct	_	_
+20	,	,	PUNCT	Z	_	22	punct	_	_
 21	mille	mis	PRON	P	Case=Gen|Number=Sing|PronType=Int,Rel	22	nmod	_	_
-22	eesmärgiks	ees_märk	NOUN	S	Case=Tra|Number=Sing	25	xcomp	_	_
+22	eesmärgiks	ees_märk	NOUN	S	Case=Tra|Number=Sing	13	acl:relcl	_	_
 23	või	või	CCONJ	J	_	24	cc	_	_
 24	tagajärjeks	taga_järg	NOUN	S	Case=Tra|Number=Sing	22	conj	_	_
-25	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
+25	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
 26	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	27	det	_	_
 27	vara	vara	NOUN	S	Case=Gen|Number=Sing	29	nmod	_	_
 28	tegeliku	tegelik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	29	amod	_	_
@@ -1196,7 +1196,7 @@
 30	ning	ning	CCONJ	J	_	32	cc	_	_
 31	ebaseadusliku	eba_seaduslik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	32	amod	_	_
 32	päritolu	pärit_olu	NOUN	S	Case=Gen|Number=Sing	29	conj	_	_
-33	varjamine	varjamine	NOUN	S	Case=Nom|Number=Sing	25	nsubj	_	SpaceAfter=No
+33	varjamine	varjamine	NOUN	S	Case=Nom|Number=Sing	22	nsubj:cop	_	SpaceAfter=No
 34	"	"	PUNCT	Z	_	13	punct	_	SpaceAfter=No
 35	.	.	PUNCT	Z	_	13	punct	_	_
 
